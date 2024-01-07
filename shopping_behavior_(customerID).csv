@@ -1,0 +1,3901 @@
+Customer ID,Age,Gender,Location,Last Purchase Date,Churn
+1,55,Male,Kentucky,16/6/2022,1
+2,19,Male,Maine,15/8/2022,0
+3,50,Male,Massachusetts,13/2/2022,1
+4,21,Male,Rhode Island,21/9/2022,0
+5,45,Male,Oregon,12/8/2023,0
+6,46,Male,Wyoming,23/7/2022,0
+7,63,Male,Montana,26/7/2022,0
+8,27,Male,Louisiana,11/5/2022,1
+9,26,Male,West Virginia,23/9/2023,0
+10,57,Male,Missouri,20/12/2023,0
+11,53,Male,Arkansas,14/2/2022,1
+12,30,Male,Hawaii,4/5/2022,1
+13,61,Male,Delaware,23/2/2022,1
+14,65,Male,New Hampshire,23/12/2023,0
+15,64,Male,New York,8/12/2023,0
+16,64,Male,Rhode Island,23/9/2023,0
+17,25,Male,Alabama,25/9/2023,0
+18,53,Male,Mississippi,27/8/2022,0
+19,52,Male,Montana,10/10/2023,0
+20,66,Male,Rhode Island,2/2/2023,0
+21,21,Male,Louisiana,10/4/2023,0
+22,31,Male,North Carolina,1/5/2022,1
+23,56,Male,California,29/11/2023,0
+24,31,Male,Oklahoma,25/11/2022,0
+25,18,Male,Florida,25/3/2022,1
+26,18,Male,Texas,21/4/2022,1
+27,38,Male,Nevada,21/4/2023,0
+28,56,Male,Kentucky,14/11/2023,0
+29,54,Male,North Carolina,2/5/2022,1
+30,31,Male,Wyoming,21/7/2022,0
+31,57,Male,North Carolina,24/11/2023,0
+32,33,Male,West Virginia,5/1/2022,1
+33,36,Male,Kansas,5/2/2023,0
+34,54,Male,Colorado,11/2/2023,0
+35,36,Male,North Dakota,6/6/2022,1
+36,54,Male,Massachusetts,25/9/2022,0
+37,35,Male,Illinois,10/5/2022,1
+38,35,Male,Indiana,2/3/2023,0
+39,29,Male,Florida,17/1/2023,0
+40,70,Male,Arizona,13/5/2022,1
+41,69,Male,Louisiana,17/6/2023,0
+42,67,Male,Alaska,27/10/2023,0
+43,20,Male,Tennessee,16/4/2022,1
+44,25,Male,Ohio,28/6/2022,0
+45,39,Male,Kentucky,1/4/2022,1
+46,50,Male,Tennessee,26/6/2023,0
+47,57,Male,California,15/12/2023,0
+48,55,Male,Montana,25/3/2022,1
+49,42,Male,Nevada,25/6/2023,0
+50,68,Male,New Jersey,9/2/2023,0
+51,49,Male,Maryland,1/4/2022,1
+52,59,Male,Vermont,25/5/2023,0
+53,42,Male,Alaska,20/12/2022,0
+54,29,Male,Mississippi,30/1/2023,0
+55,47,Male,New Mexico,25/1/2022,1
+56,40,Male,South Carolina,5/7/2023,0
+57,41,Male,Mississippi,4/5/2023,0
+58,21,Male,West Virginia,2/4/2022,1
+59,69,Male,Missouri,27/1/2023,0
+60,63,Male,Louisiana,2/1/2023,0
+61,50,Male,Idaho,27/1/2022,1
+62,55,Male,Texas,9/8/2023,0
+63,30,Male,Mississippi,25/3/2023,0
+64,33,Male,Arizona,16/7/2023,0
+65,65,Male,Alabama,10/1/2022,1
+66,65,Male,New Jersey,5/7/2023,0
+67,31,Male,Pennsylvania,5/7/2022,0
+68,45,Male,Connecticut,11/1/2022,1
+69,57,Male,Utah,9/6/2022,1
+70,48,Male,Tennessee,1/9/2023,0
+71,22,Male,Alabama,6/9/2022,0
+72,36,Male,Virginia,9/6/2023,0
+73,18,Male,Georgia,2/3/2023,0
+74,48,Male,Hawaii,27/4/2022,1
+75,49,Male,Indiana,26/7/2023,0
+76,64,Male,Utah,9/6/2023,0
+77,50,Male,Delaware,15/2/2023,0
+78,22,Male,Delaware,24/10/2022,0
+79,50,Male,Nebraska,8/2/2023,0
+80,38,Male,Iowa,28/9/2022,0
+81,19,Male,New York,5/7/2023,0
+82,67,Male,Virginia,30/4/2022,1
+83,19,Male,Georgia,25/12/2022,0
+84,36,Male,Texas,15/12/2022,0
+85,52,Male,Arizona,27/10/2023,0
+86,53,Male,New Mexico,21/10/2023,0
+87,24,Male,Nevada,21/4/2022,1
+88,52,Male,Ohio,14/4/2023,0
+89,33,Male,Wyoming,18/3/2023,0
+90,47,Male,California,26/12/2023,0
+91,25,Male,South Carolina,28/6/2023,0
+92,44,Male,South Carolina,7/4/2023,0
+93,61,Male,Texas,15/8/2022,0
+94,37,Male,Florida,9/8/2023,0
+95,58,Male,Nevada,28/6/2023,0
+96,37,Male,Missouri,30/3/2023,0
+97,32,Male,Delaware,4/8/2022,0
+98,21,Male,Virginia,2/9/2022,0
+99,20,Male,New York,7/7/2023,0
+100,26,Male,Missouri,12/8/2022,0
+101,62,Male,South Dakota,10/12/2022,0
+102,27,Male,North Dakota,26/2/2022,1
+103,51,Male,Oklahoma,22/4/2022,1
+104,54,Male,West Virginia,4/8/2022,0
+105,55,Male,New Hampshire,29/9/2022,0
+106,69,Male,New York,19/7/2022,0
+107,64,Male,Minnesota,15/11/2022,0
+108,28,Male,Maryland,25/9/2023,0
+109,70,Male,Montana,21/12/2022,0
+110,58,Male,Alabama,29/11/2022,0
+111,56,Male,New York,26/11/2023,0
+112,26,Male,Massachusetts,1/5/2023,0
+113,37,Male,Florida,14/12/2023,0
+114,44,Male,New Jersey,23/7/2022,0
+115,70,Male,Massachusetts,13/3/2023,0
+116,53,Male,Wyoming,19/4/2023,0
+117,55,Male,Virginia,5/12/2023,0
+118,50,Male,South Dakota,1/2/2022,1
+119,50,Male,Kentucky,27/8/2023,0
+120,38,Male,Wyoming,26/10/2023,0
+121,64,Male,West Virginia,11/1/2022,1
+122,19,Male,Virginia,27/11/2023,0
+123,40,Male,Washington,2/7/2022,0
+124,57,Male,Louisiana,3/1/2023,0
+125,44,Male,Nevada,24/2/2023,0
+126,49,Male,California,20/6/2023,0
+127,43,Male,Mississippi,14/1/2022,1
+128,24,Male,Mississippi,30/4/2023,0
+129,20,Male,California,23/3/2023,0
+130,24,Male,Pennsylvania,3/7/2023,0
+131,44,Male,Kentucky,13/6/2023,0
+132,28,Male,Maine,21/3/2022,1
+133,30,Male,New Mexico,19/7/2022,0
+134,52,Male,Montana,20/3/2022,1
+135,43,Male,Texas,2/3/2023,0
+136,43,Male,Kansas,20/2/2022,1
+137,39,Male,South Carolina,13/9/2022,0
+138,68,Male,Colorado,8/5/2023,0
+139,68,Male,Georgia,6/3/2022,1
+140,49,Male,Florida,8/10/2023,0
+141,63,Male,North Carolina,20/7/2022,0
+142,56,Male,Virginia,4/7/2022,0
+143,37,Male,Nebraska,31/3/2022,1
+144,30,Male,Missouri,31/10/2023,0
+145,19,Male,New Jersey,26/5/2023,0
+146,24,Male,Missouri,24/8/2022,0
+147,52,Male,Colorado,12/9/2022,0
+148,63,Male,Idaho,26/11/2023,0
+149,37,Male,Wyoming,9/4/2022,1
+150,38,Male,Delaware,21/2/2023,0
+151,35,Male,California,4/9/2022,0
+152,28,Male,North Dakota,12/7/2023,0
+153,30,Male,South Carolina,28/5/2023,0
+154,69,Male,North Carolina,8/11/2022,0
+155,41,Male,Oklahoma,30/8/2023,0
+156,63,Male,Maine,13/1/2023,0
+157,35,Male,Missouri,10/9/2023,0
+158,36,Male,Vermont,23/10/2022,0
+159,25,Male,Connecticut,28/4/2022,1
+160,58,Male,New Hampshire,3/10/2023,0
+161,27,Male,Texas,17/2/2022,1
+162,65,Male,North Dakota,26/7/2022,0
+163,54,Male,California,1/6/2022,1
+164,54,Male,Virginia,5/11/2023,0
+165,59,Male,Delaware,18/11/2023,0
+166,42,Male,Kentucky,27/7/2022,0
+167,46,Male,Delaware,3/4/2022,1
+168,33,Male,Arkansas,27/2/2023,0
+169,34,Male,Louisiana,24/2/2022,1
+170,27,Male,Nevada,13/11/2023,0
+171,52,Male,Wyoming,9/2/2022,1
+172,29,Male,Virginia,5/6/2022,1
+173,54,Male,Nebraska,17/7/2022,0
+174,25,Male,Hawaii,11/1/2023,0
+175,41,Male,Vermont,19/3/2023,0
+176,53,Male,Oklahoma,14/12/2023,0
+177,53,Male,New Hampshire,14/5/2023,0
+178,21,Male,Kansas,20/6/2022,0
+179,61,Male,Idaho,31/10/2022,0
+180,64,Male,Illinois,29/3/2023,0
+181,51,Male,South Dakota,20/4/2022,1
+182,32,Male,Massachusetts,20/11/2022,0
+183,38,Male,Alabama,6/11/2022,0
+184,58,Male,Ohio,29/8/2022,0
+185,32,Male,Hawaii,24/10/2022,0
+186,46,Male,Wisconsin,19/2/2023,0
+187,39,Male,Minnesota,9/2/2022,1
+188,19,Male,Georgia,4/7/2023,0
+189,50,Male,Arkansas,8/5/2023,0
+190,36,Male,West Virginia,3/10/2022,0
+191,65,Male,Indiana,4/9/2022,0
+192,64,Male,Utah,23/2/2023,0
+193,46,Male,Nebraska,23/1/2022,1
+194,36,Male,North Dakota,6/11/2022,0
+195,51,Male,Missouri,29/10/2022,0
+196,51,Male,New York,30/8/2023,0
+197,38,Male,Washington,4/3/2023,0
+198,59,Male,South Carolina,3/8/2022,0
+199,57,Male,Utah,12/10/2023,0
+200,54,Male,Idaho,12/5/2023,0
+201,25,Male,Pennsylvania,4/12/2023,0
+202,69,Male,Missouri,16/4/2022,1
+203,57,Male,Nebraska,29/6/2022,0
+204,70,Male,Indiana,23/5/2023,0
+205,24,Male,Arizona,8/11/2023,0
+206,67,Male,Hawaii,29/11/2023,0
+207,24,Male,Wisconsin,27/4/2023,0
+208,62,Male,Rhode Island,25/11/2022,0
+209,57,Male,Wisconsin,25/8/2023,0
+210,55,Male,Minnesota,11/3/2023,0
+211,45,Male,Vermont,9/8/2023,0
+212,69,Male,South Dakota,20/6/2022,0
+213,67,Male,Virginia,2/10/2023,0
+214,30,Male,Nevada,4/4/2022,1
+215,24,Male,Hawaii,23/4/2023,0
+216,62,Male,New Jersey,30/5/2022,1
+217,43,Male,Massachusetts,2/11/2023,0
+218,35,Male,Oklahoma,20/3/2022,1
+219,28,Male,California,19/6/2023,0
+220,32,Male,Nevada,24/3/2022,1
+221,39,Male,Arizona,26/8/2023,0
+222,28,Male,North Carolina,23/7/2023,0
+223,47,Male,New York,29/6/2022,0
+224,20,Male,Wyoming,23/9/2023,0
+225,63,Male,South Dakota,14/8/2023,0
+226,25,Male,Arkansas,8/4/2023,0
+227,29,Male,Texas,12/3/2023,0
+228,50,Male,Rhode Island,19/9/2022,0
+229,18,Male,New Hampshire,24/11/2023,0
+230,70,Male,Ohio,9/9/2023,0
+231,66,Male,Utah,3/2/2022,1
+232,28,Male,Tennessee,1/12/2022,0
+233,54,Male,Hawaii,16/3/2022,1
+234,19,Male,Arizona,14/5/2022,1
+235,20,Male,South Dakota,3/5/2022,1
+236,43,Male,New Jersey,3/1/2023,0
+237,38,Male,North Dakota,20/11/2023,0
+238,50,Male,Iowa,26/9/2022,0
+239,64,Male,Ohio,21/3/2023,0
+240,49,Male,Vermont,10/7/2023,0
+241,47,Male,Montana,17/5/2022,1
+242,36,Male,Delaware,13/7/2022,0
+243,55,Male,New York,25/7/2023,0
+244,25,Male,Kentucky,23/10/2023,0
+245,53,Male,Oregon,29/5/2022,1
+246,49,Male,Rhode Island,27/7/2023,0
+247,35,Male,Nevada,17/7/2022,0
+248,29,Male,Montana,1/4/2023,0
+249,47,Male,Pennsylvania,19/10/2022,0
+250,53,Male,Alaska,7/3/2022,1
+251,33,Male,Mississippi,1/2/2022,1
+252,21,Male,Wyoming,15/8/2023,0
+253,32,Male,Delaware,28/12/2023,0
+254,52,Male,Oklahoma,1/7/2022,0
+255,67,Male,Indiana,31/5/2022,1
+256,43,Male,Maryland,2/9/2023,0
+257,58,Male,South Dakota,19/4/2023,0
+258,20,Male,West Virginia,19/3/2023,0
+259,61,Male,Alabama,28/9/2023,0
+260,32,Male,Louisiana,24/12/2022,0
+261,38,Male,Montana,28/6/2023,0
+262,21,Male,California,14/11/2023,0
+263,37,Male,Hawaii,7/6/2023,0
+264,27,Male,Iowa,20/7/2022,0
+265,36,Male,Colorado,19/7/2023,0
+266,32,Male,Michigan,4/10/2022,0
+267,51,Male,Louisiana,6/11/2023,0
+268,64,Male,Maryland,5/8/2023,0
+269,68,Male,Georgia,9/11/2023,0
+270,68,Male,Georgia,13/9/2022,0
+271,33,Male,North Dakota,7/10/2022,0
+272,65,Male,Maryland,31/10/2022,0
+273,48,Male,Oregon,6/4/2022,1
+274,69,Male,North Dakota,29/8/2023,0
+275,59,Male,Maryland,13/7/2023,0
+276,48,Male,Virginia,20/2/2023,0
+277,25,Male,South Dakota,28/6/2022,0
+278,29,Male,Georgia,17/5/2022,1
+279,57,Male,Hawaii,20/8/2023,0
+280,23,Male,Arkansas,26/1/2023,0
+281,45,Male,Montana,24/8/2023,0
+282,38,Male,Oklahoma,18/5/2023,0
+283,21,Male,Minnesota,14/2/2023,0
+284,32,Male,Montana,29/11/2022,0
+285,63,Male,Ohio,5/4/2022,1
+286,29,Male,Kentucky,3/9/2022,0
+287,27,Male,Nebraska,7/11/2023,0
+288,56,Male,Delaware,10/2/2023,0
+289,30,Male,North Carolina,27/5/2023,0
+290,49,Male,New York,18/3/2023,0
+291,58,Male,Colorado,7/5/2022,1
+292,57,Male,Delaware,6/3/2023,0
+293,60,Male,Utah,5/10/2023,0
+294,69,Male,Connecticut,28/12/2022,0
+295,70,Male,New Jersey,22/7/2023,0
+296,53,Male,West Virginia,25/1/2022,1
+297,25,Male,Indiana,12/4/2023,0
+298,48,Male,Delaware,12/2/2022,1
+299,69,Male,Maryland,13/3/2022,1
+300,25,Male,Pennsylvania,23/8/2022,0
+301,29,Male,Iowa,24/12/2022,0
+302,46,Male,Pennsylvania,22/5/2023,0
+303,37,Male,Delaware,16/6/2022,1
+304,20,Male,Oregon,20/6/2022,0
+305,40,Male,Oregon,24/2/2022,1
+306,60,Male,Utah,9/4/2022,1
+307,26,Male,North Dakota,26/1/2022,1
+308,29,Male,Florida,29/9/2023,0
+309,66,Male,Maryland,19/12/2022,0
+310,66,Male,Minnesota,10/10/2022,0
+311,56,Male,Montana,22/3/2023,0
+312,69,Male,Rhode Island,25/1/2023,0
+313,38,Male,Massachusetts,23/4/2023,0
+314,42,Male,Vermont,20/11/2022,0
+315,30,Male,New Jersey,18/12/2023,0
+316,66,Male,Wisconsin,11/5/2023,0
+317,36,Male,California,19/11/2022,0
+318,58,Male,West Virginia,22/4/2023,0
+319,45,Male,South Dakota,7/9/2023,0
+320,47,Male,Maine,3/10/2022,0
+321,66,Male,Kansas,17/2/2022,1
+322,41,Male,Vermont,22/3/2023,0
+323,41,Male,Tennessee,19/6/2023,0
+324,66,Male,Tennessee,22/10/2022,0
+325,37,Male,Wyoming,7/6/2023,0
+326,70,Male,Vermont,20/7/2023,0
+327,62,Male,New Jersey,18/11/2022,0
+328,61,Male,Iowa,6/4/2023,0
+329,48,Male,Florida,11/2/2023,0
+330,70,Male,Nevada,4/2/2023,0
+331,46,Male,North Dakota,17/6/2022,1
+332,31,Male,Florida,12/9/2022,0
+333,19,Male,New York,26/7/2022,0
+334,39,Male,Alaska,9/1/2023,0
+335,41,Male,Kansas,27/11/2023,0
+336,20,Male,Oregon,29/11/2023,0
+337,36,Male,Rhode Island,28/3/2022,1
+338,32,Male,New Mexico,10/4/2022,1
+339,69,Male,Massachusetts,22/1/2023,0
+340,40,Male,Pennsylvania,3/12/2022,0
+341,40,Male,New Jersey,4/7/2022,0
+342,20,Male,Utah,1/3/2022,1
+343,64,Male,Kentucky,21/11/2022,0
+344,27,Male,Nebraska,4/5/2022,1
+345,24,Male,Virginia,2/6/2022,1
+346,48,Male,Wyoming,5/8/2023,0
+347,49,Male,New Mexico,17/10/2022,0
+348,36,Male,Oregon,26/8/2023,0
+349,56,Male,South Carolina,10/5/2023,0
+350,37,Male,Arizona,20/3/2022,1
+351,42,Male,Kentucky,22/1/2023,0
+352,28,Male,New York,29/3/2023,0
+353,27,Male,Texas,7/9/2022,0
+354,63,Male,Missouri,1/1/2023,0
+355,58,Male,Pennsylvania,23/11/2023,0
+356,37,Male,Oregon,26/3/2023,0
+357,56,Male,Nevada,24/4/2022,1
+358,18,Male,Arkansas,24/5/2023,0
+359,48,Male,Minnesota,29/9/2023,0
+360,31,Male,Georgia,21/10/2023,0
+361,51,Male,Rhode Island,9/11/2022,0
+362,65,Male,Nevada,11/12/2022,0
+363,53,Male,Texas,16/5/2023,0
+364,55,Male,Florida,26/2/2022,1
+365,62,Male,North Dakota,9/1/2023,0
+366,55,Male,West Virginia,24/8/2022,0
+367,64,Male,Nebraska,11/5/2023,0
+368,52,Male,Tennessee,10/6/2022,1
+369,24,Male,Oklahoma,13/10/2023,0
+370,38,Male,Wisconsin,4/1/2022,1
+371,59,Male,Oregon,25/8/2022,0
+372,27,Male,North Carolina,31/5/2022,1
+373,24,Male,Pennsylvania,25/2/2022,1
+374,23,Male,North Dakota,21/1/2023,0
+375,69,Male,Ohio,1/1/2023,0
+376,59,Male,Oklahoma,7/4/2022,1
+377,51,Male,South Carolina,21/10/2022,0
+378,63,Male,Maine,5/7/2022,0
+379,54,Male,Nevada,5/10/2022,0
+380,32,Male,Montana,19/12/2022,0
+381,39,Male,New Hampshire,8/11/2023,0
+382,66,Male,Maine,11/3/2022,1
+383,28,Male,California,3/4/2023,0
+384,50,Male,West Virginia,15/10/2022,0
+385,70,Male,California,6/4/2023,0
+386,67,Male,West Virginia,9/1/2022,1
+387,64,Male,Louisiana,6/3/2022,1
+388,45,Male,Georgia,19/3/2023,0
+389,22,Male,Washington,1/10/2023,0
+390,27,Male,Virginia,28/8/2023,0
+391,25,Male,Indiana,13/9/2022,0
+392,37,Male,Minnesota,21/10/2022,0
+393,26,Male,Idaho,12/4/2022,1
+394,33,Male,Vermont,13/8/2023,0
+395,43,Male,North Dakota,18/5/2022,1
+396,37,Male,Rhode Island,2/8/2022,0
+397,46,Male,South Carolina,13/5/2022,1
+398,22,Male,Mississippi,19/9/2023,0
+399,20,Male,Montana,16/7/2023,0
+400,60,Male,Idaho,15/12/2022,0
+401,39,Male,Utah,9/4/2022,1
+402,43,Male,Oklahoma,23/1/2022,1
+403,31,Male,California,31/12/2022,0
+404,19,Male,Nevada,27/8/2022,0
+405,35,Male,Delaware,19/2/2023,0
+406,41,Male,South Carolina,11/1/2022,1
+407,52,Male,Maryland,22/4/2022,1
+408,45,Male,North Carolina,17/8/2023,0
+409,34,Male,Alabama,9/2/2022,1
+410,35,Male,Minnesota,24/8/2023,0
+411,29,Male,Virginia,4/6/2022,1
+412,59,Male,Michigan,19/3/2022,1
+413,24,Male,Maine,29/11/2022,0
+414,70,Male,Nevada,30/5/2023,0
+415,29,Male,Wyoming,29/3/2022,1
+416,67,Male,Connecticut,26/1/2022,1
+417,36,Male,Oregon,29/7/2022,0
+418,23,Male,Mississippi,3/1/2023,0
+419,18,Male,Illinois,27/9/2022,0
+420,53,Male,Utah,12/2/2023,0
+421,32,Male,North Carolina,27/4/2023,0
+422,38,Male,Kentucky,23/5/2022,1
+423,47,Male,Minnesota,19/1/2023,0
+424,46,Male,New York,12/8/2022,0
+425,66,Male,Illinois,10/1/2023,0
+426,40,Male,North Dakota,13/4/2022,1
+427,43,Male,Louisiana,2/3/2022,1
+428,58,Male,Illinois,8/5/2023,0
+429,21,Male,Wyoming,30/10/2023,0
+430,42,Male,Washington,23/10/2023,0
+431,24,Male,Texas,19/7/2022,0
+432,43,Male,New Hampshire,1/11/2022,0
+433,47,Male,Indiana,2/4/2022,1
+434,49,Male,Alabama,12/10/2022,0
+435,50,Male,Oklahoma,5/7/2023,0
+436,51,Male,Montana,23/11/2023,0
+437,40,Male,Tennessee,2/9/2023,0
+438,45,Male,New Mexico,14/2/2022,1
+439,52,Male,Iowa,3/9/2023,0
+440,62,Male,Idaho,23/4/2023,0
+441,20,Male,Oklahoma,8/12/2022,0
+442,43,Male,Florida,26/12/2023,0
+443,29,Male,Michigan,5/12/2023,0
+444,22,Male,Hawaii,10/8/2022,0
+445,48,Male,California,28/2/2023,0
+446,42,Male,Iowa,10/5/2022,1
+447,19,Male,West Virginia,7/9/2023,0
+448,60,Male,Washington,8/8/2023,0
+449,32,Male,Missouri,24/10/2022,0
+450,26,Male,New York,24/7/2022,0
+451,25,Male,Connecticut,12/7/2022,0
+452,66,Male,Virginia,12/6/2023,0
+453,45,Male,Missouri,6/6/2022,1
+454,54,Male,Nebraska,23/6/2022,0
+455,37,Male,New Jersey,12/12/2023,0
+456,54,Male,Utah,25/7/2023,0
+457,50,Male,North Carolina,11/5/2022,1
+458,25,Male,Rhode Island,13/6/2022,1
+459,47,Male,Arkansas,16/8/2023,0
+460,63,Male,Maryland,8/8/2022,0
+461,64,Male,South Carolina,9/8/2023,0
+462,18,Male,Ohio,14/2/2022,1
+463,59,Male,Illinois,17/7/2022,0
+464,37,Male,Georgia,14/9/2023,0
+465,23,Male,Alabama,12/12/2023,0
+466,54,Male,Oklahoma,21/10/2022,0
+467,38,Male,Vermont,2/11/2022,0
+468,19,Male,Nebraska,26/12/2023,0
+469,34,Male,Georgia,13/3/2022,1
+470,21,Male,Alabama,16/3/2023,0
+471,50,Male,Minnesota,21/10/2023,0
+472,55,Male,Missouri,13/3/2023,0
+473,20,Male,Georgia,31/1/2022,1
+474,34,Male,West Virginia,17/3/2022,1
+475,62,Male,Arkansas,17/7/2023,0
+476,21,Male,Ohio,14/10/2022,0
+477,21,Male,Connecticut,30/12/2023,0
+478,42,Male,North Dakota,18/8/2023,0
+479,35,Male,Kansas,20/2/2022,1
+480,39,Male,Iowa,30/1/2023,0
+481,68,Male,Vermont,14/12/2023,0
+482,46,Male,Wisconsin,2/12/2022,0
+483,41,Male,Connecticut,24/1/2023,0
+484,23,Male,Oklahoma,22/5/2022,1
+485,68,Male,Missouri,5/8/2023,0
+486,48,Male,Tennessee,16/3/2022,1
+487,38,Male,New Mexico,7/9/2022,0
+488,41,Male,Iowa,5/10/2022,0
+489,58,Male,Maine,3/11/2023,0
+490,49,Male,South Dakota,2/10/2023,0
+491,57,Male,Colorado,28/5/2023,0
+492,49,Male,Vermont,25/11/2023,0
+493,50,Male,Michigan,23/1/2023,0
+494,28,Male,Nevada,4/9/2023,0
+495,38,Male,Indiana,21/4/2022,1
+496,33,Male,Michigan,27/1/2022,1
+497,30,Male,California,13/3/2022,1
+498,43,Male,Oklahoma,28/7/2022,0
+499,43,Male,Iowa,24/11/2022,0
+500,36,Male,Rhode Island,22/12/2023,0
+501,36,Male,Washington,21/4/2023,0
+502,64,Male,Florida,25/12/2023,0
+503,59,Male,South Carolina,7/10/2023,0
+504,55,Male,West Virginia,28/10/2023,0
+505,42,Male,Missouri,25/11/2023,0
+506,61,Male,Maine,3/9/2022,0
+507,28,Male,Georgia,20/3/2023,0
+508,65,Male,Maine,10/4/2023,0
+509,27,Male,Illinois,9/6/2022,1
+510,41,Male,Delaware,16/3/2022,1
+511,21,Male,West Virginia,22/6/2022,0
+512,61,Male,Hawaii,14/12/2022,0
+513,19,Male,New York,23/7/2023,0
+514,22,Male,New Mexico,26/6/2022,0
+515,64,Male,Indiana,12/10/2022,0
+516,28,Male,Kentucky,17/9/2023,0
+517,34,Male,West Virginia,23/8/2023,0
+518,61,Male,North Dakota,20/5/2023,0
+519,24,Male,Oregon,29/4/2023,0
+520,19,Male,Minnesota,21/10/2022,0
+521,51,Male,South Carolina,21/7/2022,0
+522,36,Male,Vermont,12/2/2022,1
+523,65,Male,Minnesota,24/7/2022,0
+524,46,Male,Delaware,16/1/2022,1
+525,59,Male,Pennsylvania,12/2/2022,1
+526,51,Male,Iowa,5/2/2023,0
+527,51,Male,New Jersey,29/9/2023,0
+528,21,Male,South Carolina,28/5/2022,1
+529,34,Male,Maryland,15/11/2022,0
+530,32,Male,California,22/7/2023,0
+531,48,Male,Montana,11/3/2022,1
+532,50,Male,Vermont,7/7/2023,0
+533,26,Male,Texas,5/9/2022,0
+534,57,Male,North Carolina,2/4/2022,1
+535,65,Male,Florida,15/11/2022,0
+536,56,Male,West Virginia,10/3/2022,1
+537,44,Male,Illinois,24/11/2023,0
+538,50,Male,Virginia,30/10/2022,0
+539,27,Male,Virginia,3/3/2023,0
+540,49,Male,Wyoming,27/11/2022,0
+541,49,Male,South Carolina,25/4/2022,1
+542,52,Male,Connecticut,8/6/2022,1
+543,27,Male,Illinois,7/5/2022,1
+544,53,Male,Alabama,22/12/2022,0
+545,34,Male,Washington,27/5/2023,0
+546,33,Male,Alabama,9/10/2023,0
+547,62,Male,New Mexico,15/11/2023,0
+548,38,Male,Nevada,12/1/2022,1
+549,36,Male,Nebraska,22/11/2023,0
+550,31,Male,Arizona,12/12/2022,0
+551,62,Male,Georgia,11/9/2022,0
+552,29,Male,Idaho,28/2/2023,0
+553,24,Male,Missouri,29/9/2023,0
+554,63,Male,Florida,29/9/2022,0
+555,56,Male,Minnesota,15/8/2023,0
+556,63,Male,Maine,12/2/2023,0
+557,40,Male,Montana,2/6/2022,1
+558,18,Male,Alaska,18/8/2023,0
+559,50,Male,Iowa,3/1/2022,1
+560,66,Male,Arizona,2/12/2023,0
+561,25,Male,Louisiana,6/2/2022,1
+562,65,Male,Alabama,13/8/2022,0
+563,53,Male,Missouri,10/8/2023,0
+564,61,Male,Idaho,8/9/2022,0
+565,67,Male,Florida,22/4/2022,1
+566,59,Male,Idaho,1/8/2023,0
+567,55,Male,Alabama,14/6/2023,0
+568,21,Male,New Hampshire,9/8/2023,0
+569,44,Male,Utah,20/8/2022,0
+570,65,Male,Alabama,9/7/2022,0
+571,65,Male,Iowa,10/9/2022,0
+572,54,Male,Kentucky,27/6/2022,0
+573,56,Male,South Carolina,10/2/2023,0
+574,58,Male,California,2/7/2022,0
+575,54,Male,Maine,2/11/2023,0
+576,58,Male,Nebraska,9/6/2023,0
+577,48,Male,Washington,17/1/2022,1
+578,19,Male,Alabama,13/10/2023,0
+579,69,Male,Maine,30/8/2023,0
+580,58,Male,California,9/5/2023,0
+581,49,Male,Iowa,9/5/2022,1
+582,32,Male,Iowa,26/2/2022,1
+583,40,Male,Colorado,21/8/2023,0
+584,25,Male,California,6/5/2022,1
+585,70,Male,Indiana,2/12/2023,0
+586,69,Male,South Carolina,19/5/2023,0
+587,45,Male,Wisconsin,6/12/2023,0
+588,29,Male,Washington,28/3/2022,1
+589,47,Male,South Dakota,7/5/2023,0
+590,28,Male,Minnesota,8/11/2023,0
+591,64,Male,Alaska,28/5/2023,0
+592,47,Male,Kentucky,6/2/2022,1
+593,60,Male,North Dakota,17/11/2023,0
+594,67,Male,Alaska,12/2/2023,0
+595,35,Male,Oklahoma,6/5/2022,1
+596,30,Male,Delaware,13/11/2023,0
+597,23,Male,Montana,15/4/2022,1
+598,70,Male,Alaska,9/2/2022,1
+599,21,Male,California,4/11/2022,0
+600,51,Male,Massachusetts,12/8/2023,0
+601,22,Male,South Carolina,31/7/2022,0
+602,32,Male,West Virginia,5/2/2023,0
+603,37,Male,Oregon,16/5/2022,1
+604,31,Male,Massachusetts,1/7/2022,0
+605,44,Male,West Virginia,27/10/2022,0
+606,40,Male,California,13/7/2023,0
+607,27,Male,Colorado,3/8/2023,0
+608,47,Male,Indiana,26/4/2023,0
+609,41,Male,Delaware,24/12/2022,0
+610,51,Male,Ohio,10/10/2023,0
+611,53,Male,Oklahoma,30/8/2022,0
+612,43,Male,California,31/3/2022,1
+613,67,Male,New Hampshire,1/8/2022,0
+614,61,Male,Pennsylvania,13/11/2022,0
+615,68,Male,Idaho,19/2/2022,1
+616,67,Male,Maryland,27/5/2023,0
+617,29,Male,Pennsylvania,6/9/2023,0
+618,50,Male,Colorado,18/6/2023,0
+619,61,Male,Indiana,2/6/2023,0
+620,19,Male,Nebraska,15/6/2023,0
+621,33,Male,Rhode Island,21/11/2023,0
+622,51,Male,Kansas,12/7/2022,0
+623,69,Male,Georgia,23/5/2023,0
+624,19,Male,Nevada,9/12/2022,0
+625,55,Male,South Carolina,19/10/2023,0
+626,49,Male,Delaware,29/11/2022,0
+627,31,Male,New Hampshire,26/9/2023,0
+628,42,Male,Oregon,14/2/2022,1
+629,69,Male,Massachusetts,4/2/2022,1
+630,26,Male,Vermont,18/8/2022,0
+631,41,Male,Mississippi,22/12/2022,0
+632,55,Male,Washington,6/10/2023,0
+633,35,Male,Wyoming,18/9/2023,0
+634,66,Male,Minnesota,29/10/2023,0
+635,36,Male,Ohio,12/5/2023,0
+636,27,Male,South Carolina,19/3/2023,0
+637,41,Male,Wisconsin,2/1/2022,1
+638,21,Male,Tennessee,9/5/2022,1
+639,53,Male,Maryland,13/7/2023,0
+640,54,Male,Mississippi,30/4/2023,0
+641,53,Male,Minnesota,14/8/2023,0
+642,47,Male,Alaska,8/6/2023,0
+643,64,Male,Arkansas,7/11/2022,0
+644,18,Male,Oregon,9/12/2022,0
+645,68,Male,Louisiana,3/2/2023,0
+646,62,Male,Oklahoma,16/9/2022,0
+647,51,Male,Indiana,25/5/2023,0
+648,54,Male,Mississippi,20/8/2023,0
+649,22,Male,Michigan,14/4/2023,0
+650,53,Male,Delaware,13/3/2022,1
+651,34,Male,Florida,15/5/2022,1
+652,32,Male,Arkansas,9/8/2022,0
+653,64,Male,Minnesota,28/5/2023,0
+654,20,Male,North Dakota,28/1/2023,0
+655,24,Male,California,2/4/2023,0
+656,20,Male,Mississippi,21/10/2022,0
+657,42,Male,Pennsylvania,14/3/2022,1
+658,48,Male,Arizona,13/9/2022,0
+659,62,Male,Louisiana,8/8/2023,0
+660,62,Male,Virginia,16/2/2022,1
+661,50,Male,Montana,10/10/2023,0
+662,57,Male,Iowa,9/3/2022,1
+663,24,Male,Illinois,14/5/2023,0
+664,59,Male,Alaska,17/7/2022,0
+665,63,Male,Colorado,14/7/2023,0
+666,41,Male,New Mexico,25/2/2022,1
+667,35,Male,Colorado,8/8/2023,0
+668,34,Male,Arizona,2/8/2023,0
+669,49,Male,Hawaii,10/4/2022,1
+670,43,Male,Illinois,26/3/2023,0
+671,63,Male,Louisiana,19/2/2023,0
+672,38,Male,Iowa,2/2/2022,1
+673,59,Male,Washington,14/9/2023,0
+674,35,Male,Oklahoma,20/7/2022,0
+675,48,Male,Washington,14/7/2023,0
+676,64,Male,Arkansas,19/1/2023,0
+677,28,Male,Connecticut,6/8/2023,0
+678,60,Male,Washington,22/6/2023,0
+679,27,Male,Maine,10/7/2022,0
+680,56,Male,Michigan,31/3/2022,1
+681,58,Male,Tennessee,22/4/2022,1
+682,30,Male,Louisiana,25/5/2022,1
+683,23,Male,Missouri,15/10/2022,0
+684,33,Male,Michigan,20/11/2022,0
+685,63,Male,Alabama,22/5/2023,0
+686,70,Male,Massachusetts,1/4/2023,0
+687,70,Male,Indiana,4/4/2022,1
+688,19,Male,West Virginia,7/8/2022,0
+689,25,Male,Michigan,2/6/2022,1
+690,19,Male,Pennsylvania,20/5/2022,1
+691,25,Male,Alaska,23/3/2022,1
+692,60,Male,Massachusetts,21/4/2023,0
+693,35,Male,North Dakota,6/10/2022,0
+694,46,Male,Vermont,23/11/2023,0
+695,41,Male,Kentucky,15/4/2022,1
+696,30,Male,Nevada,14/7/2023,0
+697,44,Male,Utah,23/5/2023,0
+698,61,Male,North Dakota,12/8/2022,0
+699,55,Male,Iowa,12/10/2023,0
+700,50,Male,Connecticut,30/1/2023,0
+701,57,Male,Wisconsin,6/6/2023,0
+702,51,Male,Idaho,23/11/2023,0
+703,18,Male,Montana,2/2/2022,1
+704,63,Male,Connecticut,9/9/2023,0
+705,34,Male,Idaho,8/7/2023,0
+706,25,Male,Arkansas,11/1/2023,0
+707,46,Male,Iowa,22/2/2023,0
+708,59,Male,Louisiana,12/2/2023,0
+709,37,Male,Kentucky,10/11/2023,0
+710,49,Male,Massachusetts,8/7/2022,0
+711,22,Male,Virginia,9/8/2022,0
+712,64,Male,New Hampshire,24/4/2023,0
+713,42,Male,New Hampshire,2/10/2022,0
+714,37,Male,Oregon,28/5/2023,0
+715,26,Male,South Dakota,11/9/2023,0
+716,33,Male,Delaware,5/1/2023,0
+717,30,Male,Missouri,14/11/2022,0
+718,21,Male,Alaska,4/8/2023,0
+719,22,Male,Florida,11/8/2022,0
+720,63,Male,Mississippi,19/1/2022,1
+721,33,Male,New Mexico,24/1/2023,0
+722,43,Male,California,7/11/2022,0
+723,27,Male,Wyoming,9/12/2023,0
+724,35,Male,Missouri,22/9/2022,0
+725,37,Male,New Hampshire,29/3/2022,1
+726,61,Male,Texas,17/4/2023,0
+727,32,Male,North Dakota,24/11/2023,0
+728,62,Male,Arkansas,17/1/2023,0
+729,29,Male,Nebraska,25/1/2023,0
+730,41,Male,Minnesota,12/10/2022,0
+731,48,Male,Massachusetts,18/12/2022,0
+732,43,Male,Arkansas,30/8/2022,0
+733,34,Male,New Hampshire,21/5/2023,0
+734,45,Male,Rhode Island,19/10/2023,0
+735,65,Male,New Jersey,27/1/2023,0
+736,61,Male,Montana,20/6/2022,0
+737,18,Male,Colorado,21/9/2022,0
+738,47,Male,Nebraska,29/8/2023,0
+739,56,Male,Minnesota,2/8/2022,0
+740,64,Male,Minnesota,26/10/2022,0
+741,26,Male,South Dakota,12/12/2023,0
+742,22,Male,West Virginia,14/3/2022,1
+743,64,Male,Nevada,5/10/2023,0
+744,21,Male,North Carolina,15/10/2022,0
+745,67,Male,Illinois,29/4/2022,1
+746,46,Male,Michigan,6/7/2022,0
+747,40,Male,Michigan,8/7/2022,0
+748,51,Male,Oklahoma,12/7/2023,0
+749,35,Male,South Dakota,18/10/2023,0
+750,56,Male,Oklahoma,9/5/2023,0
+751,25,Male,Maryland,11/2/2022,1
+752,65,Male,Ohio,18/7/2023,0
+753,39,Male,Ohio,28/9/2022,0
+754,47,Male,Massachusetts,8/12/2023,0
+755,36,Male,North Carolina,4/8/2023,0
+756,66,Male,Florida,4/3/2023,0
+757,62,Male,Montana,27/4/2022,1
+758,41,Male,Minnesota,13/1/2023,0
+759,66,Male,Massachusetts,27/9/2023,0
+760,51,Male,Rhode Island,19/10/2022,0
+761,33,Male,Minnesota,28/11/2022,0
+762,57,Male,Nevada,2/3/2022,1
+763,45,Male,New Mexico,16/10/2022,0
+764,61,Male,North Carolina,15/7/2023,0
+765,55,Male,Virginia,20/6/2023,0
+766,54,Male,Alaska,21/3/2022,1
+767,57,Male,Nevada,22/9/2022,0
+768,27,Male,Pennsylvania,25/2/2023,0
+769,64,Male,Illinois,10/1/2023,0
+770,52,Male,Delaware,2/6/2023,0
+771,19,Male,Vermont,16/3/2022,1
+772,22,Male,Hawaii,16/3/2022,1
+773,18,Male,Illinois,20/8/2023,0
+774,29,Male,California,1/10/2023,0
+775,42,Male,Nevada,27/2/2022,1
+776,49,Male,Kentucky,15/8/2022,0
+777,49,Male,Alabama,24/11/2022,0
+778,55,Male,Wyoming,20/2/2022,1
+779,29,Male,Massachusetts,31/10/2023,0
+780,60,Male,Utah,16/6/2022,1
+781,34,Male,New York,14/4/2022,1
+782,30,Male,Vermont,17/11/2022,0
+783,28,Male,Hawaii,26/5/2023,0
+784,63,Male,Louisiana,18/3/2022,1
+785,31,Male,Alabama,27/5/2023,0
+786,46,Male,Louisiana,3/4/2023,0
+787,70,Male,Indiana,18/12/2022,0
+788,53,Male,Michigan,9/11/2022,0
+789,50,Male,Rhode Island,14/1/2023,0
+790,33,Male,Idaho,22/7/2023,0
+791,22,Male,Louisiana,3/6/2023,0
+792,50,Male,North Carolina,10/11/2023,0
+793,34,Male,New Jersey,18/1/2023,0
+794,24,Male,Alabama,29/11/2022,0
+795,69,Male,Kentucky,5/6/2023,0
+796,39,Male,New York,12/3/2023,0
+797,42,Male,Arizona,13/5/2023,0
+798,42,Male,Maryland,31/7/2022,0
+799,29,Male,Alaska,3/8/2022,0
+800,55,Male,Nevada,27/4/2023,0
+801,32,Male,Utah,3/12/2023,0
+802,25,Male,New Mexico,2/8/2022,0
+803,38,Male,Delaware,23/4/2022,1
+804,32,Male,Connecticut,21/4/2023,0
+805,43,Male,Mississippi,15/6/2022,1
+806,41,Male,Connecticut,23/8/2022,0
+807,56,Male,Florida,13/12/2023,0
+808,27,Male,New York,28/2/2022,1
+809,46,Male,Wisconsin,11/1/2022,1
+810,48,Male,South Carolina,12/2/2022,1
+811,52,Male,South Dakota,25/7/2023,0
+812,18,Male,Illinois,13/5/2022,1
+813,64,Male,Alaska,9/5/2022,1
+814,54,Male,Montana,13/11/2023,0
+815,31,Male,Minnesota,21/9/2023,0
+816,30,Male,West Virginia,14/4/2022,1
+817,26,Male,Illinois,8/3/2022,1
+818,25,Male,Nevada,14/2/2022,1
+819,59,Male,Idaho,3/3/2023,0
+820,55,Male,Colorado,23/8/2023,0
+821,56,Male,Louisiana,12/3/2023,0
+822,62,Male,Vermont,18/10/2022,0
+823,35,Male,Mississippi,24/12/2023,0
+824,51,Male,Georgia,3/10/2022,0
+825,61,Male,Georgia,10/7/2022,0
+826,27,Male,Nebraska,8/4/2023,0
+827,54,Male,Massachusetts,25/6/2022,0
+828,31,Male,Colorado,13/4/2023,0
+829,24,Male,Nevada,5/12/2022,0
+830,42,Male,Idaho,14/11/2022,0
+831,41,Male,Wyoming,6/1/2023,0
+832,66,Male,Washington,13/2/2022,1
+833,58,Male,California,12/3/2023,0
+834,43,Male,Oklahoma,19/5/2023,0
+835,52,Male,Nevada,27/10/2022,0
+836,35,Male,Maryland,5/9/2022,0
+837,23,Male,West Virginia,21/3/2023,0
+838,25,Male,Illinois,23/1/2023,0
+839,33,Male,Kentucky,16/4/2022,1
+840,48,Male,Illinois,24/11/2022,0
+841,42,Male,Alabama,29/9/2023,0
+842,55,Male,Texas,5/5/2023,0
+843,59,Male,Missouri,15/2/2023,0
+844,65,Male,Pennsylvania,17/2/2022,1
+845,59,Male,Missouri,7/2/2022,1
+846,31,Male,Michigan,16/8/2023,0
+847,49,Male,Kentucky,10/2/2023,0
+848,53,Male,New Jersey,7/12/2022,0
+849,48,Male,Delaware,3/9/2022,0
+850,23,Male,Missouri,5/10/2023,0
+851,68,Male,Connecticut,16/2/2022,1
+852,35,Male,Massachusetts,1/9/2023,0
+853,34,Male,Florida,16/8/2023,0
+854,62,Male,Delaware,17/9/2023,0
+855,21,Male,California,18/9/2022,0
+856,70,Male,Oregon,16/9/2023,0
+857,55,Male,Alaska,21/5/2022,1
+858,43,Male,Missouri,11/8/2022,0
+859,19,Male,Oklahoma,1/2/2022,1
+860,47,Male,Wisconsin,17/11/2022,0
+861,26,Male,South Carolina,11/12/2022,0
+862,46,Male,Virginia,17/3/2023,0
+863,19,Male,Arkansas,11/1/2023,0
+864,49,Male,Vermont,19/6/2022,0
+865,51,Male,Kentucky,31/8/2023,0
+866,64,Male,Colorado,10/11/2023,0
+867,67,Male,New Mexico,6/9/2023,0
+868,37,Male,Colorado,29/6/2023,0
+869,40,Male,North Carolina,17/11/2022,0
+870,38,Male,New Hampshire,21/5/2022,1
+871,66,Male,West Virginia,7/7/2022,0
+872,47,Male,Hawaii,9/7/2023,0
+873,56,Male,North Dakota,16/4/2022,1
+874,51,Male,Mississippi,11/4/2022,1
+875,25,Male,Maine,12/5/2022,1
+876,37,Male,North Dakota,3/9/2022,0
+877,41,Male,Nebraska,10/7/2022,0
+878,64,Male,Nebraska,5/11/2023,0
+879,23,Male,Tennessee,18/3/2022,1
+880,62,Male,Wyoming,20/6/2022,0
+881,39,Male,Nevada,22/8/2022,0
+882,52,Male,South Carolina,18/10/2023,0
+883,50,Male,Virginia,14/2/2022,1
+884,28,Male,Pennsylvania,20/10/2022,0
+885,67,Male,Hawaii,7/12/2022,0
+886,41,Male,Ohio,11/7/2022,0
+887,19,Male,Utah,19/11/2023,0
+888,70,Male,Minnesota,10/7/2023,0
+889,49,Male,New Hampshire,3/3/2022,1
+890,59,Male,Arizona,15/5/2022,1
+891,52,Male,New York,23/12/2023,0
+892,20,Male,Pennsylvania,8/4/2022,1
+893,31,Male,New Mexico,2/7/2023,0
+894,33,Male,Nebraska,15/10/2023,0
+895,44,Male,Wyoming,1/11/2023,0
+896,40,Male,Mississippi,12/12/2022,0
+897,69,Male,Arkansas,1/12/2022,0
+898,29,Male,Illinois,7/7/2023,0
+899,54,Male,Nevada,30/7/2022,0
+900,65,Male,Rhode Island,25/1/2022,1
+901,54,Male,West Virginia,19/2/2023,0
+902,60,Male,Missouri,18/6/2022,0
+903,43,Male,Kentucky,22/10/2022,0
+904,44,Male,Washington,1/3/2023,0
+905,69,Male,Alaska,26/9/2022,0
+906,46,Male,Mississippi,5/10/2023,0
+907,41,Male,South Carolina,17/9/2022,0
+908,32,Male,Missouri,13/8/2023,0
+909,26,Male,New Jersey,12/10/2023,0
+910,61,Male,Louisiana,26/10/2022,0
+911,49,Male,South Carolina,5/3/2022,1
+912,53,Male,Vermont,2/6/2023,0
+913,24,Male,Arkansas,30/9/2023,0
+914,37,Male,Utah,12/7/2023,0
+915,43,Male,Washington,12/8/2022,0
+916,31,Male,Rhode Island,24/12/2022,0
+917,49,Male,Illinois,8/5/2023,0
+918,69,Male,Missouri,22/3/2023,0
+919,65,Male,North Carolina,4/5/2023,0
+920,41,Male,Massachusetts,24/1/2023,0
+921,37,Male,Arkansas,2/8/2023,0
+922,70,Male,South Dakota,16/10/2023,0
+923,63,Male,Georgia,29/5/2022,1
+924,55,Male,Arkansas,2/4/2022,1
+925,52,Male,Kansas,21/12/2022,0
+926,22,Male,Arizona,27/6/2022,0
+927,54,Male,Massachusetts,3/7/2023,0
+928,28,Male,New Mexico,9/11/2023,0
+929,67,Male,Arkansas,28/3/2023,0
+930,59,Male,Nebraska,21/11/2023,0
+931,26,Male,Hawaii,27/6/2023,0
+932,24,Male,Nebraska,13/11/2023,0
+933,62,Male,Indiana,28/8/2023,0
+934,70,Male,Colorado,15/2/2022,1
+935,45,Male,Oregon,27/10/2023,0
+936,58,Male,Ohio,30/1/2022,1
+937,31,Male,Maine,8/11/2022,0
+938,32,Male,Iowa,22/1/2023,0
+939,36,Male,Wisconsin,26/8/2022,0
+940,25,Male,New York,25/4/2023,0
+941,48,Male,Colorado,3/5/2022,1
+942,39,Male,Illinois,25/12/2023,0
+943,26,Male,Arizona,30/12/2023,0
+944,32,Male,Oklahoma,21/6/2022,0
+945,54,Male,Indiana,23/4/2022,1
+946,38,Male,Minnesota,19/6/2022,0
+947,46,Male,Pennsylvania,17/10/2022,0
+948,57,Male,Indiana,1/9/2022,0
+949,49,Male,Alabama,2/11/2022,0
+950,33,Male,Montana,28/3/2023,0
+951,54,Male,New Mexico,6/5/2023,0
+952,47,Male,Alaska,26/9/2022,0
+953,36,Male,Idaho,2/4/2023,0
+954,68,Male,Utah,6/11/2023,0
+955,60,Male,Louisiana,4/6/2023,0
+956,55,Male,Mississippi,21/5/2023,0
+957,29,Male,Mississippi,1/12/2023,0
+958,38,Male,Indiana,18/8/2023,0
+959,70,Male,Washington,27/7/2023,0
+960,36,Male,Nevada,29/6/2022,0
+961,18,Male,Louisiana,16/7/2022,0
+962,62,Male,Pennsylvania,19/9/2023,0
+963,29,Male,Michigan,29/6/2022,0
+964,21,Male,South Carolina,12/10/2022,0
+965,42,Male,Arizona,20/2/2022,1
+966,43,Male,Delaware,28/5/2022,1
+967,58,Male,Kentucky,23/6/2022,0
+968,27,Male,Georgia,23/2/2022,1
+969,57,Male,North Carolina,7/3/2022,1
+970,40,Male,California,29/9/2023,0
+971,45,Male,California,20/9/2022,0
+972,47,Male,Indiana,30/5/2022,1
+973,61,Male,Colorado,15/3/2023,0
+974,60,Male,Colorado,2/4/2023,0
+975,69,Male,North Carolina,17/9/2022,0
+976,58,Male,Washington,15/12/2022,0
+977,34,Male,Florida,13/9/2023,0
+978,20,Male,Washington,24/1/2022,1
+979,56,Male,Colorado,7/2/2022,1
+980,64,Male,New Hampshire,21/11/2022,0
+981,56,Male,Maryland,10/3/2022,1
+982,27,Male,Maryland,18/5/2022,1
+983,35,Male,Texas,16/3/2023,0
+984,24,Male,New Mexico,2/10/2023,0
+985,26,Male,Utah,30/4/2023,0
+986,32,Male,West Virginia,24/12/2022,0
+987,54,Male,Connecticut,7/9/2022,0
+988,62,Male,West Virginia,9/2/2023,0
+989,50,Male,Ohio,17/11/2022,0
+990,70,Male,Texas,23/2/2022,1
+991,48,Male,Washington,3/9/2023,0
+992,20,Male,Wisconsin,2/10/2023,0
+993,46,Male,Louisiana,27/6/2022,0
+994,51,Male,Iowa,9/11/2022,0
+995,53,Male,New York,28/4/2023,0
+996,44,Male,Idaho,28/6/2022,0
+997,29,Male,Delaware,19/1/2023,0
+998,64,Male,Kentucky,25/5/2022,1
+999,51,Male,Connecticut,23/10/2022,0
+1000,50,Male,New Mexico,9/10/2023,0
+1001,43,Male,Georgia,19/5/2023,0
+1002,61,Male,Washington,23/9/2022,0
+1003,55,Male,North Dakota,25/9/2023,0
+1004,56,Male,Ohio,6/5/2023,0
+1005,33,Male,Tennessee,5/7/2023,0
+1006,43,Male,New York,1/1/2023,0
+1007,21,Male,Michigan,13/6/2022,1
+1008,58,Male,Georgia,31/8/2023,0
+1009,41,Male,New Mexico,6/2/2023,0
+1010,39,Male,Louisiana,20/4/2023,0
+1011,54,Male,South Dakota,16/12/2022,0
+1012,43,Male,Montana,2/9/2022,0
+1013,28,Male,New Mexico,14/11/2022,0
+1014,59,Male,South Carolina,25/12/2022,0
+1015,28,Male,Ohio,26/12/2023,0
+1016,68,Male,North Carolina,3/10/2022,0
+1017,20,Male,Idaho,29/10/2023,0
+1018,21,Male,Oklahoma,27/8/2022,0
+1019,50,Male,Georgia,10/9/2023,0
+1020,32,Male,Kentucky,5/2/2022,1
+1021,24,Male,Delaware,5/11/2023,0
+1022,55,Male,Massachusetts,17/6/2023,0
+1023,61,Male,Nebraska,12/3/2022,1
+1024,61,Male,Maine,9/3/2023,0
+1025,28,Male,Pennsylvania,19/12/2022,0
+1026,60,Male,Nebraska,11/12/2023,0
+1027,49,Male,Virginia,5/12/2022,0
+1028,33,Male,Ohio,26/10/2023,0
+1029,45,Male,Nebraska,30/10/2023,0
+1030,29,Male,Ohio,27/4/2022,1
+1031,58,Male,Kentucky,23/2/2022,1
+1032,22,Male,Tennessee,28/4/2023,0
+1033,55,Male,Maine,23/9/2023,0
+1034,19,Male,Montana,28/8/2022,0
+1035,68,Male,Maryland,6/12/2022,0
+1036,61,Male,Georgia,25/3/2022,1
+1037,68,Male,Hawaii,24/9/2023,0
+1038,52,Male,Rhode Island,7/7/2022,0
+1039,41,Male,Nebraska,5/9/2023,0
+1040,29,Male,Michigan,23/4/2023,0
+1041,68,Male,North Carolina,4/9/2023,0
+1042,36,Male,Minnesota,27/7/2022,0
+1043,55,Male,Maryland,4/7/2022,0
+1044,28,Male,Hawaii,25/5/2022,1
+1045,39,Male,Oregon,4/6/2023,0
+1046,54,Male,New Mexico,3/9/2022,0
+1047,40,Male,Illinois,27/7/2023,0
+1048,31,Male,Utah,28/9/2023,0
+1049,30,Male,Maine,17/3/2022,1
+1050,45,Male,Virginia,31/8/2023,0
+1051,48,Male,Florida,3/4/2023,0
+1052,45,Male,Ohio,30/11/2023,0
+1053,60,Male,Virginia,24/2/2022,1
+1054,59,Male,Kansas,23/12/2022,0
+1055,18,Male,Arkansas,14/3/2023,0
+1056,70,Male,Massachusetts,18/2/2022,1
+1057,20,Male,Idaho,22/5/2022,1
+1058,65,Male,Wisconsin,3/9/2022,0
+1059,29,Male,New Mexico,16/11/2022,0
+1060,22,Male,North Carolina,19/4/2023,0
+1061,27,Male,Iowa,19/1/2023,0
+1062,36,Male,Idaho,28/7/2022,0
+1063,59,Male,Ohio,4/8/2022,0
+1064,62,Male,Alabama,25/7/2022,0
+1065,34,Male,Wyoming,17/11/2022,0
+1066,59,Male,Alabama,1/1/2023,0
+1067,49,Male,Mississippi,7/3/2023,0
+1068,18,Male,Pennsylvania,26/2/2023,0
+1069,55,Male,Wyoming,3/10/2022,0
+1070,38,Male,Maryland,9/5/2022,1
+1071,50,Male,North Carolina,27/7/2023,0
+1072,61,Male,Pennsylvania,9/12/2022,0
+1073,48,Male,Idaho,15/3/2022,1
+1074,22,Male,California,22/9/2023,0
+1075,48,Male,Tennessee,16/12/2022,0
+1076,57,Male,Missouri,20/11/2022,0
+1077,33,Male,North Dakota,16/3/2023,0
+1078,58,Male,West Virginia,2/10/2023,0
+1079,37,Male,Arizona,24/6/2023,0
+1080,18,Male,Oklahoma,28/6/2022,0
+1081,65,Male,Pennsylvania,7/1/2023,0
+1082,62,Male,Idaho,30/7/2022,0
+1083,54,Male,South Carolina,21/8/2022,0
+1084,35,Male,Washington,16/6/2022,1
+1085,34,Male,Arkansas,9/10/2022,0
+1086,25,Male,Utah,14/7/2022,0
+1087,53,Male,Alaska,17/6/2023,0
+1088,45,Male,West Virginia,17/2/2022,1
+1089,49,Male,Louisiana,18/4/2023,0
+1090,40,Male,Arizona,31/1/2023,0
+1091,38,Male,Connecticut,19/11/2022,0
+1092,44,Male,North Carolina,25/6/2022,0
+1093,68,Male,South Dakota,29/1/2023,0
+1094,60,Male,Delaware,1/10/2023,0
+1095,25,Male,Connecticut,23/5/2022,1
+1096,19,Male,Tennessee,7/5/2023,0
+1097,57,Male,New Hampshire,2/5/2023,0
+1098,58,Male,Vermont,9/12/2023,0
+1099,49,Male,Idaho,7/6/2022,1
+1100,19,Male,North Carolina,2/12/2023,0
+1101,50,Male,Nevada,17/8/2022,0
+1102,30,Male,Delaware,31/5/2022,1
+1103,52,Male,Texas,11/8/2023,0
+1104,35,Male,Tennessee,26/5/2022,1
+1105,35,Male,Delaware,17/6/2023,0
+1106,33,Male,Massachusetts,9/8/2022,0
+1107,52,Male,Minnesota,30/6/2022,0
+1108,69,Male,Texas,1/9/2023,0
+1109,27,Male,Nebraska,24/5/2022,1
+1110,66,Male,Oklahoma,12/7/2023,0
+1111,28,Male,Texas,23/4/2022,1
+1112,22,Male,New York,14/10/2023,0
+1113,69,Male,Washington,13/1/2022,1
+1114,28,Male,Maryland,15/11/2022,0
+1115,55,Male,New Hampshire,2/6/2023,0
+1116,30,Male,New York,27/12/2023,0
+1117,67,Male,Hawaii,1/3/2023,0
+1118,25,Male,California,1/1/2023,0
+1119,49,Male,Indiana,1/1/2023,0
+1120,34,Male,Louisiana,17/8/2023,0
+1121,22,Male,Pennsylvania,10/5/2023,0
+1122,63,Male,Florida,6/6/2022,1
+1123,70,Male,North Carolina,31/7/2022,0
+1124,36,Male,Massachusetts,14/11/2023,0
+1125,42,Male,Iowa,16/2/2023,0
+1126,27,Male,North Dakota,23/7/2023,0
+1127,23,Male,Iowa,24/3/2023,0
+1128,50,Male,Delaware,26/9/2022,0
+1129,56,Male,New York,10/2/2023,0
+1130,37,Male,New Hampshire,22/4/2022,1
+1131,67,Male,Kentucky,20/3/2022,1
+1132,67,Male,Illinois,1/8/2023,0
+1133,50,Male,North Carolina,20/9/2022,0
+1134,36,Male,Connecticut,11/12/2023,0
+1135,62,Male,Wisconsin,9/12/2023,0
+1136,65,Male,Massachusetts,27/2/2023,0
+1137,23,Male,Illinois,29/4/2023,0
+1138,46,Male,New Mexico,24/5/2022,1
+1139,18,Male,Iowa,13/11/2023,0
+1140,58,Male,Alabama,10/11/2023,0
+1141,31,Male,Maryland,12/7/2023,0
+1142,39,Male,Ohio,21/4/2023,0
+1143,69,Male,Ohio,25/9/2023,0
+1144,68,Male,Nevada,10/9/2023,0
+1145,41,Male,South Carolina,30/9/2022,0
+1146,31,Male,Nevada,2/10/2023,0
+1147,48,Male,Wisconsin,4/5/2022,1
+1148,59,Male,Tennessee,2/6/2022,1
+1149,34,Male,Florida,22/12/2023,0
+1150,21,Male,Georgia,25/4/2023,0
+1151,29,Male,Kentucky,12/4/2023,0
+1152,41,Male,Ohio,18/4/2022,1
+1153,62,Male,Connecticut,29/11/2023,0
+1154,27,Male,Idaho,2/2/2023,0
+1155,49,Male,Georgia,19/5/2023,0
+1156,67,Male,Tennessee,20/9/2022,0
+1157,20,Male,Hawaii,31/1/2023,0
+1158,37,Male,Maryland,29/10/2023,0
+1159,69,Male,Nevada,22/5/2023,0
+1160,66,Male,New Hampshire,26/3/2023,0
+1161,37,Male,North Dakota,3/2/2023,0
+1162,63,Male,Oklahoma,29/9/2023,0
+1163,47,Male,North Carolina,20/6/2022,0
+1164,26,Male,Tennessee,9/10/2022,0
+1165,68,Male,Montana,12/2/2022,1
+1166,51,Male,Wisconsin,21/5/2023,0
+1167,48,Male,Connecticut,22/4/2022,1
+1168,60,Male,New Jersey,11/11/2023,0
+1169,68,Male,Mississippi,25/12/2022,0
+1170,25,Male,Wyoming,21/6/2023,0
+1171,57,Male,Illinois,25/8/2022,0
+1172,41,Male,Louisiana,29/7/2022,0
+1173,59,Male,Oregon,20/11/2022,0
+1174,44,Male,South Dakota,1/9/2022,0
+1175,42,Male,Michigan,21/3/2022,1
+1176,35,Male,New Jersey,15/4/2022,1
+1177,36,Male,Oregon,12/11/2022,0
+1178,54,Male,Iowa,9/2/2022,1
+1179,37,Male,South Carolina,19/10/2022,0
+1180,20,Male,Indiana,5/6/2022,1
+1181,23,Male,Oregon,31/5/2022,1
+1182,61,Male,New York,21/5/2023,0
+1183,37,Male,New Mexico,12/6/2023,0
+1184,23,Male,Louisiana,15/8/2022,0
+1185,63,Male,South Carolina,13/7/2022,0
+1186,47,Male,Maine,25/10/2022,0
+1187,63,Male,Indiana,28/11/2023,0
+1188,56,Male,Iowa,12/2/2022,1
+1189,68,Male,Mississippi,16/5/2023,0
+1190,64,Male,Arkansas,18/5/2022,1
+1191,62,Male,South Carolina,2/10/2023,0
+1192,34,Male,Indiana,12/7/2022,0
+1193,49,Male,Florida,12/4/2023,0
+1194,40,Male,Alaska,19/1/2022,1
+1195,50,Male,New York,23/5/2023,0
+1196,25,Male,Texas,2/10/2023,0
+1197,30,Male,North Dakota,28/2/2022,1
+1198,54,Male,Vermont,9/8/2023,0
+1199,40,Male,New Jersey,5/11/2022,0
+1200,49,Male,Maryland,11/8/2023,0
+1201,27,Male,Connecticut,14/1/2022,1
+1202,27,Male,Illinois,26/2/2023,0
+1203,48,Male,Maryland,14/5/2023,0
+1204,40,Male,Minnesota,9/12/2023,0
+1205,67,Male,Florida,26/9/2023,0
+1206,52,Male,California,21/3/2023,0
+1207,22,Male,Mississippi,20/11/2023,0
+1208,62,Male,Washington,5/11/2023,0
+1209,20,Male,Wisconsin,9/3/2022,1
+1210,41,Male,Pennsylvania,17/6/2022,1
+1211,34,Male,Missouri,7/2/2022,1
+1212,23,Male,Oklahoma,10/10/2022,0
+1213,32,Male,Pennsylvania,25/8/2023,0
+1214,68,Male,Kentucky,14/1/2023,0
+1215,30,Male,Vermont,7/8/2023,0
+1216,66,Male,Oregon,4/3/2022,1
+1217,62,Male,Utah,11/8/2022,0
+1218,50,Male,Nebraska,25/6/2023,0
+1219,55,Male,Pennsylvania,26/11/2022,0
+1220,19,Male,Vermont,3/6/2023,0
+1221,67,Male,Kentucky,1/6/2022,1
+1222,18,Male,Iowa,18/4/2023,0
+1223,58,Male,Indiana,9/3/2022,1
+1224,69,Male,Kansas,18/7/2022,0
+1225,62,Male,Illinois,8/11/2022,0
+1226,28,Male,North Carolina,1/2/2023,0
+1227,53,Male,Ohio,21/11/2022,0
+1228,27,Male,Illinois,15/3/2022,1
+1229,55,Male,Indiana,4/1/2023,0
+1230,34,Male,Kansas,15/2/2023,0
+1231,25,Male,Illinois,26/9/2022,0
+1232,66,Male,Pennsylvania,3/4/2023,0
+1233,57,Male,New York,3/1/2022,1
+1234,46,Male,Utah,3/9/2022,0
+1235,38,Male,New Jersey,8/3/2022,1
+1236,23,Male,Idaho,27/2/2023,0
+1237,42,Male,New Mexico,29/11/2022,0
+1238,25,Male,Michigan,13/3/2023,0
+1239,55,Male,Wyoming,9/4/2022,1
+1240,62,Male,New Jersey,23/8/2023,0
+1241,41,Male,New Jersey,8/7/2023,0
+1242,58,Male,Hawaii,18/8/2023,0
+1243,56,Male,Nevada,28/11/2023,0
+1244,25,Male,New Hampshire,12/9/2022,0
+1245,70,Male,Indiana,21/10/2023,0
+1246,42,Male,New York,21/8/2023,0
+1247,27,Male,Louisiana,29/9/2022,0
+1248,65,Male,Virginia,14/4/2022,1
+1249,62,Male,Wisconsin,9/11/2023,0
+1250,62,Male,Oregon,28/9/2022,0
+1251,52,Male,New Hampshire,21/6/2022,0
+1252,56,Male,Indiana,19/5/2022,1
+1253,28,Male,Massachusetts,12/12/2023,0
+1254,39,Male,Montana,5/2/2022,1
+1255,54,Male,California,27/8/2023,0
+1256,30,Male,Indiana,28/4/2022,1
+1257,45,Male,West Virginia,2/5/2022,1
+1258,68,Male,Minnesota,6/12/2023,0
+1259,47,Male,Ohio,9/5/2022,1
+1260,68,Male,Minnesota,23/1/2023,0
+1261,63,Male,Virginia,2/8/2022,0
+1262,20,Male,Connecticut,8/4/2023,0
+1263,29,Male,Tennessee,12/7/2023,0
+1264,41,Male,Delaware,26/2/2022,1
+1265,52,Male,Vermont,4/7/2023,0
+1266,32,Male,Louisiana,26/7/2023,0
+1267,20,Male,North Dakota,4/4/2022,1
+1268,47,Male,Oregon,7/10/2023,0
+1269,23,Male,Idaho,30/6/2022,0
+1270,43,Male,Vermont,13/12/2022,0
+1271,67,Male,West Virginia,28/8/2023,0
+1272,70,Male,Kentucky,30/1/2022,1
+1273,35,Male,Wisconsin,25/12/2022,0
+1274,41,Male,Mississippi,31/3/2022,1
+1275,54,Male,Missouri,14/10/2022,0
+1276,55,Male,Arkansas,9/3/2023,0
+1277,51,Male,Wyoming,13/8/2023,0
+1278,19,Male,Rhode Island,24/6/2022,0
+1279,28,Male,Utah,26/11/2023,0
+1280,63,Male,Maryland,6/8/2023,0
+1281,30,Male,Georgia,13/2/2023,0
+1282,29,Male,New Jersey,26/2/2023,0
+1283,24,Male,New Hampshire,15/12/2023,0
+1284,69,Male,Oregon,27/10/2022,0
+1285,65,Male,Arkansas,3/4/2023,0
+1286,64,Male,North Carolina,1/8/2023,0
+1287,40,Male,West Virginia,6/7/2023,0
+1288,24,Male,Utah,19/12/2023,0
+1289,66,Male,South Dakota,3/6/2022,1
+1290,35,Male,New Hampshire,27/4/2023,0
+1291,67,Male,Maryland,12/12/2023,0
+1292,69,Male,South Dakota,22/10/2022,0
+1293,26,Male,Kentucky,16/9/2022,0
+1294,23,Male,Florida,16/5/2023,0
+1295,27,Male,Texas,4/1/2022,1
+1296,30,Male,New Mexico,8/8/2022,0
+1297,48,Male,South Dakota,9/12/2023,0
+1298,44,Male,New Jersey,10/9/2022,0
+1299,29,Male,Indiana,6/7/2022,0
+1300,29,Male,Louisiana,28/9/2023,0
+1301,67,Male,West Virginia,28/2/2022,1
+1302,42,Male,Maine,7/8/2023,0
+1303,23,Male,Idaho,20/10/2022,0
+1304,34,Male,New York,17/4/2023,0
+1305,64,Male,Montana,5/6/2023,0
+1306,31,Male,Mississippi,16/4/2023,0
+1307,54,Male,Alaska,17/7/2022,0
+1308,23,Male,Missouri,7/6/2022,1
+1309,59,Male,Rhode Island,27/6/2022,0
+1310,32,Male,Hawaii,17/4/2022,1
+1311,43,Male,South Carolina,18/3/2022,1
+1312,32,Male,Tennessee,28/1/2023,0
+1313,66,Male,Missouri,28/9/2023,0
+1314,70,Male,Missouri,4/12/2022,0
+1315,42,Male,Missouri,14/5/2022,1
+1316,56,Male,Mississippi,10/6/2022,1
+1317,28,Male,Arkansas,23/12/2023,0
+1318,28,Male,Kentucky,25/6/2023,0
+1319,52,Male,Connecticut,6/1/2022,1
+1320,65,Male,Oklahoma,25/12/2023,0
+1321,56,Male,California,27/6/2023,0
+1322,59,Male,Missouri,3/1/2022,1
+1323,23,Male,Washington,18/8/2022,0
+1324,58,Male,New York,8/12/2022,0
+1325,39,Male,Indiana,29/11/2022,0
+1326,28,Male,Oregon,4/1/2022,1
+1327,40,Male,Texas,5/9/2023,0
+1328,52,Male,Florida,28/12/2023,0
+1329,37,Male,Rhode Island,23/10/2022,0
+1330,70,Male,Texas,24/10/2022,0
+1331,30,Male,Vermont,7/3/2023,0
+1332,38,Male,Maryland,13/4/2023,0
+1333,66,Male,Alaska,21/4/2023,0
+1334,29,Male,Idaho,16/12/2022,0
+1335,46,Male,West Virginia,14/12/2022,0
+1336,56,Male,Nevada,14/12/2022,0
+1337,23,Male,Oregon,18/2/2023,0
+1338,37,Male,Tennessee,7/8/2022,0
+1339,56,Male,Alabama,22/1/2022,1
+1340,36,Male,Indiana,14/10/2023,0
+1341,40,Male,Idaho,3/11/2023,0
+1342,26,Male,Rhode Island,28/3/2022,1
+1343,57,Male,Arizona,27/8/2023,0
+1344,68,Male,Florida,1/4/2022,1
+1345,56,Male,New York,18/1/2023,0
+1346,40,Male,Nebraska,30/6/2023,0
+1347,44,Male,Mississippi,16/12/2023,0
+1348,44,Male,Vermont,10/10/2023,0
+1349,19,Male,Nebraska,22/7/2022,0
+1350,21,Male,South Carolina,3/5/2023,0
+1351,31,Male,Delaware,27/11/2022,0
+1352,30,Male,Vermont,17/3/2022,1
+1353,65,Male,Indiana,13/8/2023,0
+1354,39,Male,Oregon,4/1/2022,1
+1355,64,Male,Maryland,18/3/2022,1
+1356,59,Male,Florida,13/3/2022,1
+1357,49,Male,Indiana,21/1/2022,1
+1358,24,Male,Texas,13/3/2023,0
+1359,19,Male,Nebraska,16/10/2022,0
+1360,27,Male,North Carolina,3/6/2022,1
+1361,56,Male,Alabama,28/12/2022,0
+1362,49,Male,Alabama,24/8/2023,0
+1363,41,Male,Colorado,14/4/2023,0
+1364,36,Male,Wisconsin,15/1/2023,0
+1365,68,Male,Delaware,8/3/2023,0
+1366,28,Male,Indiana,28/7/2022,0
+1367,45,Male,Iowa,22/6/2022,0
+1368,60,Male,Iowa,18/8/2023,0
+1369,21,Male,Wisconsin,23/2/2022,1
+1370,32,Male,Iowa,5/4/2023,0
+1371,27,Male,Montana,29/6/2022,0
+1372,40,Male,Mississippi,29/4/2023,0
+1373,64,Male,Michigan,17/3/2023,0
+1374,18,Male,Virginia,5/7/2023,0
+1375,22,Male,New York,21/6/2023,0
+1376,42,Male,Maine,31/5/2022,1
+1377,57,Male,New Jersey,27/10/2022,0
+1378,33,Male,Maryland,2/12/2022,0
+1379,37,Male,Kentucky,13/3/2023,0
+1380,21,Male,Minnesota,30/3/2022,1
+1381,51,Male,Massachusetts,31/7/2022,0
+1382,30,Male,Illinois,8/3/2022,1
+1383,68,Male,Michigan,24/5/2023,0
+1384,36,Male,Wisconsin,5/12/2023,0
+1385,46,Male,Alaska,6/10/2022,0
+1386,41,Male,Mississippi,28/12/2023,0
+1387,68,Male,Oregon,23/10/2023,0
+1388,21,Male,Maryland,17/4/2022,1
+1389,62,Male,Arkansas,8/8/2022,0
+1390,59,Male,Illinois,29/12/2022,0
+1391,25,Male,Arkansas,29/9/2022,0
+1392,53,Male,Mississippi,14/7/2023,0
+1393,31,Male,Arkansas,27/6/2023,0
+1394,46,Male,Idaho,22/5/2023,0
+1395,26,Male,Iowa,3/11/2022,0
+1396,47,Male,West Virginia,19/10/2023,0
+1397,37,Male,Wisconsin,11/2/2022,1
+1398,55,Male,Massachusetts,4/1/2022,1
+1399,30,Male,Texas,7/8/2023,0
+1400,19,Male,Nebraska,1/10/2022,0
+1401,36,Male,Nevada,6/3/2022,1
+1402,23,Male,Indiana,16/5/2022,1
+1403,62,Male,North Dakota,25/10/2023,0
+1404,26,Male,Georgia,26/1/2023,0
+1405,36,Male,New Mexico,12/10/2023,0
+1406,33,Male,New Hampshire,27/4/2022,1
+1407,32,Male,Washington,13/3/2023,0
+1408,56,Male,Nevada,25/1/2023,0
+1409,58,Male,Maine,14/9/2022,0
+1410,34,Male,Idaho,23/8/2023,0
+1411,61,Male,Tennessee,15/1/2023,0
+1412,48,Male,Louisiana,28/10/2023,0
+1413,25,Male,Michigan,4/8/2023,0
+1414,51,Male,New Hampshire,22/11/2022,0
+1415,29,Male,Minnesota,8/11/2022,0
+1416,54,Male,Illinois,13/4/2023,0
+1417,48,Male,Idaho,10/1/2023,0
+1418,62,Male,Montana,19/10/2023,0
+1419,18,Male,Alabama,2/4/2022,1
+1420,43,Male,Montana,21/5/2023,0
+1421,22,Male,California,12/7/2023,0
+1422,68,Male,Pennsylvania,28/8/2023,0
+1423,44,Male,Texas,12/1/2022,1
+1424,51,Male,Michigan,19/7/2022,0
+1425,66,Male,Connecticut,7/2/2022,1
+1426,59,Male,Wyoming,18/6/2022,0
+1427,60,Male,Michigan,22/4/2022,1
+1428,31,Male,South Dakota,13/12/2023,0
+1429,20,Male,North Dakota,13/4/2023,0
+1430,24,Male,Maryland,12/1/2022,1
+1431,48,Male,Michigan,11/5/2022,1
+1432,39,Male,South Dakota,10/11/2022,0
+1433,34,Male,Florida,17/2/2023,0
+1434,70,Male,Minnesota,2/12/2023,0
+1435,59,Male,New York,27/1/2022,1
+1436,45,Male,Oregon,22/8/2023,0
+1437,35,Male,Minnesota,15/5/2023,0
+1438,69,Male,Montana,13/11/2022,0
+1439,58,Male,Washington,27/12/2023,0
+1440,25,Male,New Mexico,23/5/2023,0
+1441,27,Male,Arizona,16/2/2022,1
+1442,34,Male,Nebraska,26/11/2022,0
+1443,53,Male,Idaho,11/7/2022,0
+1444,58,Male,Idaho,3/10/2022,0
+1445,32,Male,Vermont,10/8/2023,0
+1446,64,Male,Arkansas,17/3/2023,0
+1447,63,Male,Wyoming,26/2/2023,0
+1448,23,Male,New Mexico,27/5/2022,1
+1449,64,Male,West Virginia,12/8/2022,0
+1450,18,Male,New York,11/3/2023,0
+1451,25,Male,Illinois,3/7/2023,0
+1452,54,Male,Utah,17/11/2023,0
+1453,60,Male,Colorado,14/1/2023,0
+1454,36,Male,Virginia,24/4/2023,0
+1455,66,Male,Georgia,23/7/2023,0
+1456,60,Male,Alabama,19/3/2022,1
+1457,59,Male,Montana,24/7/2023,0
+1458,58,Male,Pennsylvania,27/7/2023,0
+1459,35,Male,Missouri,28/6/2023,0
+1460,20,Male,Maine,29/10/2022,0
+1461,70,Male,Pennsylvania,22/8/2023,0
+1462,54,Male,Oregon,18/5/2022,1
+1463,38,Male,Utah,29/8/2023,0
+1464,54,Male,Oklahoma,27/1/2023,0
+1465,33,Male,Montana,25/12/2023,0
+1466,46,Male,Nebraska,25/7/2023,0
+1467,58,Male,Alabama,18/3/2022,1
+1468,30,Male,Ohio,17/3/2023,0
+1469,42,Male,Arkansas,9/8/2023,0
+1470,28,Male,Mississippi,29/1/2023,0
+1471,43,Male,California,23/9/2022,0
+1472,31,Male,Alaska,27/5/2023,0
+1473,39,Male,Indiana,28/10/2023,0
+1474,69,Male,Wisconsin,10/3/2022,1
+1475,31,Male,New Jersey,11/9/2023,0
+1476,44,Male,Rhode Island,5/3/2023,0
+1477,39,Male,Wyoming,11/1/2022,1
+1478,24,Male,Oregon,15/8/2022,0
+1479,28,Male,Washington,2/8/2022,0
+1480,48,Male,Washington,21/7/2022,0
+1481,39,Male,New Hampshire,1/12/2022,0
+1482,64,Male,Maryland,4/2/2022,1
+1483,28,Male,Wisconsin,19/6/2022,0
+1484,39,Male,Massachusetts,9/11/2022,0
+1485,49,Male,Nebraska,14/5/2022,1
+1486,22,Male,Nebraska,24/8/2023,0
+1487,25,Male,Idaho,26/11/2023,0
+1488,40,Male,Arizona,29/8/2022,0
+1489,23,Male,Hawaii,24/10/2023,0
+1490,24,Male,Missouri,30/12/2023,0
+1491,66,Male,Louisiana,8/10/2022,0
+1492,27,Male,Arkansas,19/3/2022,1
+1493,62,Male,North Carolina,17/1/2022,1
+1494,70,Male,North Dakota,11/12/2022,0
+1495,43,Male,Montana,27/2/2023,0
+1496,45,Male,Rhode Island,23/1/2022,1
+1497,63,Male,Idaho,19/1/2023,0
+1498,69,Male,Michigan,2/12/2023,0
+1499,59,Male,Illinois,15/11/2022,0
+1500,19,Male,Georgia,28/2/2023,0
+1501,63,Male,Alabama,18/11/2023,0
+1502,37,Male,Alaska,4/2/2023,0
+1503,37,Male,Massachusetts,23/3/2023,0
+1504,50,Male,Michigan,23/11/2023,0
+1505,60,Male,Alaska,16/11/2022,0
+1506,46,Male,North Dakota,5/4/2023,0
+1507,35,Male,South Carolina,11/7/2023,0
+1508,66,Male,Pennsylvania,28/12/2022,0
+1509,35,Male,Colorado,22/1/2022,1
+1510,20,Male,New Hampshire,11/8/2023,0
+1511,55,Male,Maryland,17/1/2022,1
+1512,34,Male,Georgia,23/5/2022,1
+1513,60,Male,Wisconsin,27/7/2023,0
+1514,22,Male,Texas,29/6/2023,0
+1515,26,Male,Utah,12/11/2022,0
+1516,39,Male,Indiana,2/11/2023,0
+1517,20,Male,Nevada,3/10/2023,0
+1518,57,Male,New Hampshire,8/6/2023,0
+1519,68,Male,New York,2/7/2022,0
+1520,50,Male,Texas,27/3/2023,0
+1521,21,Male,Iowa,21/7/2023,0
+1522,29,Male,Washington,23/1/2022,1
+1523,38,Male,Tennessee,17/7/2023,0
+1524,54,Male,Georgia,6/4/2022,1
+1525,22,Male,Massachusetts,5/3/2023,0
+1526,29,Male,Oregon,27/2/2022,1
+1527,41,Male,Oklahoma,1/2/2023,0
+1528,26,Male,Wisconsin,4/2/2023,0
+1529,69,Male,Oregon,8/12/2023,0
+1530,20,Male,Georgia,23/10/2023,0
+1531,59,Male,New Mexico,25/8/2022,0
+1532,63,Male,Mississippi,14/4/2022,1
+1533,68,Male,Wisconsin,24/2/2022,1
+1534,50,Male,New Hampshire,18/11/2022,0
+1535,55,Male,Wyoming,1/3/2022,1
+1536,36,Male,West Virginia,24/7/2022,0
+1537,18,Male,Michigan,26/11/2023,0
+1538,68,Male,Alaska,5/10/2022,0
+1539,56,Male,Illinois,26/4/2022,1
+1540,32,Male,Hawaii,13/9/2022,0
+1541,28,Male,Colorado,10/2/2022,1
+1542,24,Male,Illinois,26/6/2023,0
+1543,59,Male,Hawaii,3/9/2022,0
+1544,56,Male,Wisconsin,23/8/2022,0
+1545,30,Male,Arkansas,24/6/2023,0
+1546,48,Male,Delaware,17/11/2022,0
+1547,60,Male,Oregon,9/8/2023,0
+1548,46,Male,South Carolina,23/3/2022,1
+1549,69,Male,Maryland,22/2/2023,0
+1550,19,Male,Kansas,10/12/2023,0
+1551,66,Male,Arkansas,8/1/2023,0
+1552,64,Male,Minnesota,16/11/2022,0
+1553,54,Male,New Mexico,1/5/2023,0
+1554,27,Male,Delaware,17/4/2022,1
+1555,64,Male,Utah,8/8/2023,0
+1556,43,Male,Ohio,24/9/2022,0
+1557,43,Male,Alabama,21/5/2022,1
+1558,27,Male,South Dakota,14/10/2022,0
+1559,35,Male,New Mexico,21/9/2023,0
+1560,43,Male,Oregon,15/9/2022,0
+1561,57,Male,Oregon,18/2/2023,0
+1562,50,Male,Mississippi,19/1/2022,1
+1563,37,Male,Alabama,14/6/2023,0
+1564,68,Male,Kansas,11/11/2022,0
+1565,22,Male,California,25/12/2023,0
+1566,58,Male,Idaho,3/8/2023,0
+1567,48,Male,Wyoming,1/5/2023,0
+1568,30,Male,Minnesota,25/9/2023,0
+1569,51,Male,Washington,8/9/2022,0
+1570,20,Male,Hawaii,2/8/2022,0
+1571,30,Male,Missouri,27/5/2023,0
+1572,28,Male,Colorado,4/12/2022,0
+1573,37,Male,Washington,19/2/2023,0
+1574,36,Male,North Dakota,25/3/2022,1
+1575,18,Male,Minnesota,3/5/2022,1
+1576,52,Male,California,22/10/2022,0
+1577,56,Male,Michigan,16/6/2022,1
+1578,68,Male,Delaware,4/10/2022,0
+1579,62,Male,California,15/1/2022,1
+1580,35,Male,Oklahoma,22/2/2022,1
+1581,65,Male,North Dakota,24/6/2023,0
+1582,69,Male,Ohio,28/11/2022,0
+1583,28,Male,Hawaii,25/2/2022,1
+1584,37,Male,Maryland,15/10/2023,0
+1585,41,Male,Hawaii,6/4/2022,1
+1586,37,Male,Alabama,2/2/2023,0
+1587,25,Male,Oklahoma,30/3/2023,0
+1588,41,Male,Alabama,5/7/2023,0
+1589,48,Male,Vermont,29/12/2023,0
+1590,42,Male,Ohio,16/7/2022,0
+1591,54,Male,Wisconsin,17/9/2022,0
+1592,18,Male,South Dakota,26/6/2022,0
+1593,56,Male,Iowa,10/8/2022,0
+1594,61,Male,Maryland,17/7/2023,0
+1595,40,Male,Colorado,11/11/2023,0
+1596,34,Male,Wisconsin,15/2/2022,1
+1597,42,Male,Mississippi,1/2/2023,0
+1598,43,Male,Mississippi,5/5/2022,1
+1599,47,Male,California,1/12/2023,0
+1600,48,Male,Delaware,3/2/2023,0
+1601,20,Male,Montana,25/8/2023,0
+1602,65,Male,Indiana,3/7/2022,0
+1603,54,Male,West Virginia,19/9/2022,0
+1604,23,Male,Iowa,21/7/2023,0
+1605,18,Male,Maine,19/5/2023,0
+1606,70,Male,Connecticut,9/7/2022,0
+1607,55,Male,Kansas,5/3/2023,0
+1608,49,Male,Vermont,28/1/2023,0
+1609,26,Male,Nebraska,22/10/2022,0
+1610,33,Male,Nevada,1/12/2022,0
+1611,20,Male,Tennessee,14/12/2023,0
+1612,41,Male,Arkansas,7/9/2023,0
+1613,18,Male,Wisconsin,7/3/2022,1
+1614,26,Male,Illinois,17/6/2023,0
+1615,30,Male,Kansas,1/2/2022,1
+1616,64,Male,New York,5/10/2022,0
+1617,26,Male,Colorado,8/6/2022,1
+1618,43,Male,Wisconsin,20/5/2023,0
+1619,63,Male,Michigan,7/3/2022,1
+1620,57,Male,Hawaii,25/1/2022,1
+1621,25,Male,Virginia,10/4/2022,1
+1622,68,Male,Ohio,19/10/2022,0
+1623,31,Male,Missouri,16/4/2022,1
+1624,64,Male,Indiana,7/5/2023,0
+1625,38,Male,Florida,18/3/2023,0
+1626,34,Male,Minnesota,7/8/2022,0
+1627,32,Male,Nevada,14/12/2023,0
+1628,69,Male,Maine,1/2/2022,1
+1629,45,Male,Massachusetts,26/9/2022,0
+1630,35,Male,North Dakota,29/6/2023,0
+1631,63,Male,New Jersey,8/12/2022,0
+1632,65,Male,Indiana,17/8/2023,0
+1633,35,Male,Oregon,13/3/2023,0
+1634,54,Male,North Dakota,27/7/2022,0
+1635,28,Male,South Carolina,2/10/2022,0
+1636,68,Male,North Carolina,24/11/2023,0
+1637,58,Male,North Dakota,30/11/2022,0
+1638,35,Male,Massachusetts,29/1/2023,0
+1639,68,Male,Tennessee,9/12/2023,0
+1640,41,Male,Missouri,14/3/2023,0
+1641,65,Male,Tennessee,30/7/2022,0
+1642,50,Male,Colorado,18/4/2023,0
+1643,18,Male,Mississippi,10/4/2023,0
+1644,38,Male,Ohio,22/3/2023,0
+1645,68,Male,North Carolina,17/9/2023,0
+1646,53,Male,Ohio,30/10/2023,0
+1647,58,Male,Nebraska,29/4/2022,1
+1648,34,Male,Hawaii,18/11/2022,0
+1649,36,Male,Oklahoma,18/4/2022,1
+1650,58,Male,Wisconsin,17/3/2022,1
+1651,60,Male,Arkansas,24/3/2023,0
+1652,59,Male,Texas,17/8/2023,0
+1653,65,Male,New Mexico,22/6/2022,0
+1654,31,Male,Colorado,6/1/2023,0
+1655,43,Male,Indiana,10/2/2023,0
+1656,37,Male,Arizona,19/10/2022,0
+1657,21,Male,Indiana,30/10/2023,0
+1658,69,Male,Indiana,11/4/2022,1
+1659,32,Male,Alaska,18/6/2022,0
+1660,53,Male,Utah,15/11/2023,0
+1661,59,Male,Louisiana,1/2/2022,1
+1662,64,Male,Iowa,28/11/2023,0
+1663,63,Male,New Mexico,7/8/2023,0
+1664,43,Male,Maine,2/6/2022,1
+1665,19,Male,Minnesota,23/11/2023,0
+1666,40,Male,New Mexico,30/11/2023,0
+1667,51,Male,Arkansas,21/6/2023,0
+1668,51,Male,Oklahoma,4/12/2022,0
+1669,66,Male,Utah,3/5/2023,0
+1670,42,Male,Wisconsin,2/1/2023,0
+1671,22,Male,Utah,2/4/2022,1
+1672,31,Male,Utah,14/9/2022,0
+1673,18,Male,South Carolina,4/3/2022,1
+1674,21,Male,Hawaii,27/3/2023,0
+1675,35,Male,Alaska,5/1/2022,1
+1676,35,Male,Colorado,19/5/2023,0
+1677,27,Male,West Virginia,13/12/2022,0
+1678,65,Male,Oregon,6/8/2022,0
+1679,41,Male,Ohio,12/11/2022,0
+1680,60,Male,Massachusetts,21/2/2022,1
+1681,61,Male,Louisiana,2/5/2023,0
+1682,24,Male,Virginia,12/1/2023,0
+1683,65,Male,New York,20/1/2022,1
+1684,23,Male,Arkansas,11/9/2022,0
+1685,30,Male,New Mexico,19/11/2023,0
+1686,33,Male,Minnesota,23/1/2022,1
+1687,22,Male,Illinois,25/6/2023,0
+1688,67,Male,Georgia,14/12/2023,0
+1689,28,Male,Mississippi,19/12/2023,0
+1690,32,Male,North Carolina,2/8/2023,0
+1691,40,Male,Nevada,14/10/2023,0
+1692,64,Male,Connecticut,20/11/2023,0
+1693,56,Male,Utah,30/7/2023,0
+1694,63,Male,Tennessee,18/8/2023,0
+1695,20,Male,Mississippi,1/11/2023,0
+1696,54,Male,Nebraska,29/12/2023,0
+1697,31,Male,West Virginia,22/7/2022,0
+1698,36,Male,South Carolina,25/3/2022,1
+1699,25,Male,Iowa,22/5/2022,1
+1700,20,Male,North Dakota,22/11/2023,0
+1701,62,Male,West Virginia,13/10/2023,0
+1702,69,Male,Mississippi,7/8/2022,0
+1703,54,Male,Alabama,20/6/2022,0
+1704,39,Male,California,8/5/2023,0
+1705,56,Male,Idaho,1/1/2022,1
+1706,39,Male,South Dakota,9/7/2023,0
+1707,37,Male,North Dakota,24/12/2022,0
+1708,25,Male,Nevada,26/10/2022,0
+1709,35,Male,Florida,15/9/2023,0
+1710,45,Male,Indiana,28/8/2023,0
+1711,19,Male,Arkansas,5/4/2022,1
+1712,21,Male,North Carolina,6/4/2023,0
+1713,65,Male,Illinois,24/1/2023,0
+1714,49,Male,Missouri,8/6/2022,1
+1715,30,Male,South Dakota,14/3/2023,0
+1716,23,Male,Idaho,7/2/2023,0
+1717,69,Male,Connecticut,27/12/2022,0
+1718,29,Male,Hawaii,27/4/2023,0
+1719,54,Male,Maryland,27/9/2022,0
+1720,45,Male,Maryland,27/12/2022,0
+1721,25,Male,Massachusetts,24/3/2023,0
+1722,34,Male,Delaware,2/11/2023,0
+1723,46,Male,Massachusetts,26/10/2023,0
+1724,70,Male,New York,24/2/2022,1
+1725,42,Male,Delaware,9/7/2022,0
+1726,45,Male,Massachusetts,15/8/2022,0
+1727,57,Male,Indiana,27/2/2023,0
+1728,49,Male,Virginia,12/5/2023,0
+1729,23,Male,Wyoming,16/6/2022,1
+1730,47,Male,Illinois,18/12/2022,0
+1731,23,Male,Alabama,4/6/2023,0
+1732,21,Male,Idaho,26/12/2022,0
+1733,45,Male,Rhode Island,5/11/2023,0
+1734,67,Male,New York,20/12/2022,0
+1735,31,Male,Missouri,19/5/2023,0
+1736,58,Male,Texas,4/11/2022,0
+1737,57,Male,Tennessee,3/2/2022,1
+1738,42,Male,Ohio,2/8/2022,0
+1739,60,Male,Tennessee,23/2/2022,1
+1740,21,Male,Minnesota,20/12/2023,0
+1741,69,Male,Wisconsin,17/12/2023,0
+1742,41,Male,Delaware,8/3/2022,1
+1743,51,Male,Kansas,17/12/2023,0
+1744,23,Male,Missouri,1/11/2023,0
+1745,57,Male,Michigan,24/10/2023,0
+1746,40,Male,West Virginia,10/11/2023,0
+1747,65,Male,Alabama,5/1/2023,0
+1748,61,Male,New Hampshire,5/6/2023,0
+1749,34,Male,Montana,10/5/2023,0
+1750,43,Male,Wyoming,13/7/2022,0
+1751,31,Male,Missouri,15/11/2022,0
+1752,57,Male,Ohio,25/11/2022,0
+1753,34,Male,South Dakota,5/11/2023,0
+1754,25,Male,Colorado,10/9/2022,0
+1755,66,Male,Massachusetts,16/8/2022,0
+1756,56,Male,Delaware,20/4/2023,0
+1757,49,Male,New Hampshire,3/9/2023,0
+1758,19,Male,Michigan,2/11/2023,0
+1759,27,Male,Pennsylvania,28/5/2022,1
+1760,68,Male,Louisiana,21/4/2023,0
+1761,20,Male,Minnesota,21/10/2022,0
+1762,21,Male,Hawaii,2/3/2022,1
+1763,36,Male,Idaho,13/5/2022,1
+1764,37,Male,Vermont,20/5/2023,0
+1765,61,Male,Delaware,15/5/2022,1
+1766,68,Male,New Mexico,21/11/2022,0
+1767,60,Male,Alaska,21/4/2022,1
+1768,69,Male,Minnesota,16/3/2022,1
+1769,25,Male,Nebraska,13/11/2022,0
+1770,32,Male,Alaska,25/2/2023,0
+1771,53,Male,Michigan,17/2/2023,0
+1772,46,Male,Indiana,22/7/2022,0
+1773,58,Male,Hawaii,3/6/2022,1
+1774,21,Male,West Virginia,15/4/2023,0
+1775,46,Male,New York,8/12/2022,0
+1776,18,Male,Iowa,13/12/2022,0
+1777,56,Male,Arizona,18/2/2022,1
+1778,18,Male,Minnesota,29/12/2022,0
+1779,49,Male,Texas,12/8/2023,0
+1780,29,Male,Virginia,13/12/2022,0
+1781,67,Male,North Dakota,13/3/2023,0
+1782,31,Male,Iowa,24/6/2023,0
+1783,52,Male,Utah,19/9/2022,0
+1784,42,Male,Ohio,16/1/2023,0
+1785,32,Male,Louisiana,25/7/2023,0
+1786,47,Male,Iowa,26/5/2022,1
+1787,45,Male,Maryland,27/1/2023,0
+1788,20,Male,Montana,23/10/2022,0
+1789,66,Male,Illinois,16/4/2023,0
+1790,52,Male,Arizona,12/8/2023,0
+1791,50,Male,North Carolina,13/4/2022,1
+1792,62,Male,Montana,18/11/2022,0
+1793,38,Male,Iowa,21/1/2022,1
+1794,65,Male,Iowa,18/1/2023,0
+1795,60,Male,Ohio,27/1/2022,1
+1796,68,Male,Wisconsin,26/2/2023,0
+1797,62,Male,South Carolina,18/9/2023,0
+1798,62,Male,Oregon,18/8/2022,0
+1799,40,Male,North Dakota,22/5/2022,1
+1800,32,Male,California,12/4/2022,1
+1801,22,Male,Mississippi,30/1/2022,1
+1802,33,Male,New Jersey,1/7/2023,0
+1803,57,Male,Rhode Island,6/5/2023,0
+1804,60,Male,New Hampshire,25/3/2023,0
+1805,30,Male,Louisiana,24/3/2022,1
+1806,41,Male,Arizona,25/6/2022,0
+1807,58,Male,Rhode Island,3/12/2022,0
+1808,34,Male,Vermont,2/5/2023,0
+1809,67,Male,Tennessee,22/5/2022,1
+1810,58,Male,Alaska,24/6/2023,0
+1811,41,Male,Maryland,23/7/2022,0
+1812,42,Male,Wisconsin,8/6/2023,0
+1813,50,Male,Nevada,16/10/2022,0
+1814,40,Male,Illinois,27/10/2023,0
+1815,32,Male,Montana,5/3/2022,1
+1816,51,Male,New Mexico,26/12/2022,0
+1817,26,Male,Virginia,22/11/2022,0
+1818,32,Male,Delaware,1/5/2023,0
+1819,58,Male,North Carolina,25/3/2023,0
+1820,51,Male,Nevada,9/4/2022,1
+1821,19,Male,Washington,13/9/2022,0
+1822,57,Male,Maine,26/12/2022,0
+1823,66,Male,Connecticut,26/11/2023,0
+1824,62,Male,Louisiana,13/5/2022,1
+1825,58,Male,Illinois,24/6/2022,0
+1826,23,Male,South Dakota,14/3/2022,1
+1827,45,Male,Indiana,26/8/2022,0
+1828,20,Male,Vermont,28/11/2022,0
+1829,33,Male,New Hampshire,1/8/2023,0
+1830,30,Male,Oregon,11/11/2022,0
+1831,50,Male,Kansas,2/1/2022,1
+1832,62,Male,Maine,14/11/2022,0
+1833,69,Male,Louisiana,12/11/2022,0
+1834,34,Male,Louisiana,9/10/2023,0
+1835,49,Male,Indiana,6/10/2023,0
+1836,65,Male,Kentucky,14/1/2023,0
+1837,66,Male,South Carolina,15/7/2022,0
+1838,41,Male,Montana,8/9/2023,0
+1839,37,Male,Vermont,8/7/2023,0
+1840,32,Male,Mississippi,5/1/2022,1
+1841,42,Male,Wyoming,14/7/2023,0
+1842,31,Male,Vermont,13/4/2022,1
+1843,61,Male,Alabama,9/12/2023,0
+1844,36,Male,Kentucky,25/12/2022,0
+1845,60,Male,South Dakota,9/12/2023,0
+1846,51,Male,Delaware,29/7/2022,0
+1847,68,Male,Wisconsin,10/6/2023,0
+1848,46,Male,Arizona,26/4/2023,0
+1849,19,Male,Maine,16/6/2023,0
+1850,30,Male,New Mexico,6/4/2022,1
+1851,51,Male,Wyoming,23/3/2023,0
+1852,28,Male,Delaware,26/10/2022,0
+1853,41,Male,Pennsylvania,19/2/2023,0
+1854,29,Male,North Dakota,21/5/2023,0
+1855,25,Male,Kentucky,3/11/2023,0
+1856,60,Male,Rhode Island,26/11/2023,0
+1857,63,Male,Arizona,25/7/2022,0
+1858,51,Male,Colorado,8/9/2023,0
+1859,22,Male,Maine,17/11/2023,0
+1860,54,Male,New Jersey,5/5/2023,0
+1861,18,Male,Kansas,5/12/2022,0
+1862,29,Male,South Dakota,7/7/2023,0
+1863,59,Male,New Hampshire,29/6/2023,0
+1864,25,Male,Connecticut,27/3/2023,0
+1865,19,Male,Wyoming,29/11/2022,0
+1866,56,Male,Missouri,7/8/2022,0
+1867,31,Male,Alaska,15/3/2022,1
+1868,45,Male,Delaware,14/5/2022,1
+1869,23,Male,Indiana,16/7/2023,0
+1870,18,Male,West Virginia,5/8/2023,0
+1871,43,Male,Wyoming,19/5/2022,1
+1872,56,Male,Illinois,12/9/2023,0
+1873,43,Male,Alaska,17/11/2023,0
+1874,64,Male,Wisconsin,27/2/2022,1
+1875,67,Male,Indiana,2/11/2022,0
+1876,63,Male,Tennessee,1/8/2023,0
+1877,54,Male,Illinois,2/10/2022,0
+1878,69,Male,Pennsylvania,24/6/2023,0
+1879,34,Male,Oklahoma,25/12/2022,0
+1880,56,Male,Tennessee,31/8/2023,0
+1881,34,Male,New Jersey,1/3/2022,1
+1882,58,Male,New Jersey,18/12/2023,0
+1883,44,Male,Tennessee,17/10/2023,0
+1884,25,Male,Georgia,6/7/2022,0
+1885,27,Male,Arizona,1/1/2022,1
+1886,26,Male,Nevada,4/7/2023,0
+1887,18,Male,Arkansas,22/7/2023,0
+1888,64,Male,North Dakota,23/3/2023,0
+1889,62,Male,South Dakota,30/12/2023,0
+1890,59,Male,North Carolina,21/10/2023,0
+1891,36,Male,Hawaii,21/4/2023,0
+1892,69,Male,New Hampshire,1/9/2022,0
+1893,39,Male,California,12/5/2023,0
+1894,28,Male,Delaware,5/5/2023,0
+1895,42,Male,Arizona,13/1/2023,0
+1896,31,Male,Washington,23/10/2022,0
+1897,57,Male,Nevada,20/10/2023,0
+1898,53,Male,Alaska,4/5/2022,1
+1899,59,Male,Texas,27/2/2023,0
+1900,32,Male,New York,6/6/2022,1
+1901,65,Male,Iowa,7/2/2023,0
+1902,56,Male,Arizona,31/8/2022,0
+1903,31,Male,New Mexico,2/2/2022,1
+1904,59,Male,North Carolina,22/9/2022,0
+1905,22,Male,Nevada,15/2/2023,0
+1906,47,Male,Idaho,15/8/2023,0
+1907,23,Male,Vermont,29/3/2023,0
+1908,69,Male,New Mexico,29/8/2023,0
+1909,18,Male,Georgia,13/9/2022,0
+1910,50,Male,Kentucky,8/5/2023,0
+1911,29,Male,New York,24/4/2022,1
+1912,65,Male,Arizona,19/3/2022,1
+1913,29,Male,Colorado,20/8/2022,0
+1914,49,Male,Kentucky,11/5/2023,0
+1915,28,Male,Alaska,6/9/2022,0
+1916,51,Male,Alabama,30/3/2023,0
+1917,26,Male,Connecticut,6/9/2022,0
+1918,38,Male,Hawaii,13/9/2023,0
+1919,35,Male,Idaho,14/5/2022,1
+1920,34,Male,Virginia,10/2/2023,0
+1921,51,Male,Connecticut,22/4/2022,1
+1922,47,Male,Michigan,6/7/2022,0
+1923,18,Male,Kentucky,3/8/2023,0
+1924,64,Male,Nebraska,28/11/2022,0
+1925,30,Male,Michigan,23/9/2023,0
+1926,59,Male,Utah,6/7/2023,0
+1927,66,Male,New Mexico,4/3/2022,1
+1928,40,Male,Florida,3/8/2022,0
+1929,25,Male,Mississippi,22/11/2023,0
+1930,59,Male,Hawaii,27/7/2022,0
+1931,66,Male,North Carolina,27/9/2022,0
+1932,54,Male,Illinois,5/1/2022,1
+1933,42,Male,Maryland,15/5/2022,1
+1934,48,Male,Montana,4/3/2023,0
+1935,34,Male,Michigan,16/3/2022,1
+1936,19,Male,North Carolina,5/6/2022,1
+1937,70,Male,Minnesota,25/6/2023,0
+1938,43,Male,Delaware,1/8/2022,0
+1939,46,Male,Kentucky,4/6/2022,1
+1940,66,Male,Ohio,14/4/2022,1
+1941,50,Male,Alaska,20/11/2023,0
+1942,55,Male,Vermont,25/12/2023,0
+1943,63,Male,Alabama,18/8/2023,0
+1944,32,Male,Wisconsin,19/12/2022,0
+1945,30,Male,Arkansas,20/12/2022,0
+1946,35,Male,Georgia,17/8/2023,0
+1947,59,Male,Louisiana,17/1/2023,0
+1948,59,Male,New York,25/9/2023,0
+1949,54,Male,Connecticut,30/9/2023,0
+1950,63,Male,Nebraska,15/8/2022,0
+1951,43,Male,Arkansas,13/1/2023,0
+1952,33,Male,Connecticut,22/9/2023,0
+1953,57,Male,Maryland,20/11/2022,0
+1954,25,Male,Colorado,20/10/2022,0
+1955,26,Male,Colorado,11/11/2023,0
+1956,50,Male,Maine,22/10/2023,0
+1957,70,Male,Oklahoma,10/11/2022,0
+1958,68,Male,South Carolina,19/3/2023,0
+1959,39,Male,Nevada,5/5/2022,1
+1960,46,Male,Colorado,27/11/2022,0
+1961,57,Male,Massachusetts,1/4/2023,0
+1962,47,Male,Nevada,9/9/2022,0
+1963,40,Male,Iowa,6/7/2022,0
+1964,52,Male,Michigan,31/7/2023,0
+1965,40,Male,West Virginia,23/12/2022,0
+1966,67,Male,Indiana,7/9/2023,0
+1967,67,Male,Indiana,1/10/2023,0
+1968,37,Male,Georgia,8/6/2022,1
+1969,67,Male,Minnesota,5/11/2023,0
+1970,64,Male,Louisiana,9/3/2022,1
+1971,28,Male,Maryland,26/2/2023,0
+1972,54,Male,Pennsylvania,14/2/2022,1
+1973,54,Male,Louisiana,1/8/2022,0
+1974,24,Male,Maryland,22/12/2022,0
+1975,27,Male,Tennessee,31/1/2022,1
+1976,53,Male,Illinois,9/6/2023,0
+1977,32,Male,Wyoming,10/12/2022,0
+1978,24,Male,Florida,24/12/2022,0
+1979,45,Male,Massachusetts,12/8/2022,0
+1980,49,Male,Tennessee,11/4/2023,0
+1981,51,Male,Iowa,8/7/2022,0
+1982,69,Male,Michigan,17/10/2023,0
+1983,41,Male,Kansas,20/11/2023,0
+1984,59,Male,Georgia,2/5/2022,1
+1985,26,Male,West Virginia,5/5/2022,1
+1986,23,Male,Tennessee,27/8/2023,0
+1987,62,Male,Arkansas,27/10/2023,0
+1988,69,Male,Vermont,21/1/2023,0
+1989,46,Male,Virginia,2/9/2023,0
+1990,35,Male,Maryland,24/6/2022,0
+1991,32,Male,Connecticut,31/10/2023,0
+1992,46,Male,Missouri,9/7/2023,0
+1993,33,Male,New Jersey,9/12/2023,0
+1994,32,Male,Arkansas,25/6/2023,0
+1995,33,Male,Nevada,6/5/2023,0
+1996,67,Male,Missouri,3/11/2022,0
+1997,67,Male,South Dakota,12/6/2022,1
+1998,42,Male,Connecticut,5/8/2022,0
+1999,20,Male,Vermont,15/3/2022,1
+2000,39,Male,Tennessee,12/10/2023,0
+2001,26,Male,California,25/9/2022,0
+2002,51,Male,Wyoming,22/10/2022,0
+2003,31,Male,New York,29/9/2022,0
+2004,68,Male,Maine,6/3/2022,1
+2005,44,Male,Georgia,28/9/2023,0
+2006,18,Male,Tennessee,14/7/2023,0
+2007,58,Male,New Mexico,25/7/2023,0
+2008,26,Male,Virginia,31/1/2023,0
+2009,57,Male,Florida,16/3/2022,1
+2010,37,Male,Alabama,26/11/2022,0
+2011,24,Male,Texas,20/12/2022,0
+2012,57,Male,West Virginia,22/7/2023,0
+2013,48,Male,Nevada,23/7/2022,0
+2014,39,Male,Virginia,30/7/2022,0
+2015,51,Male,Wisconsin,24/12/2023,0
+2016,57,Male,Virginia,9/9/2023,0
+2017,53,Male,Maine,16/9/2023,0
+2018,70,Male,Massachusetts,1/8/2023,0
+2019,60,Male,Arkansas,18/7/2023,0
+2020,31,Male,Idaho,10/4/2022,1
+2021,41,Male,Pennsylvania,15/5/2022,1
+2022,62,Male,Maine,9/1/2022,1
+2023,59,Male,Alabama,12/4/2022,1
+2024,46,Male,Idaho,7/2/2023,0
+2025,62,Male,Arkansas,27/8/2022,0
+2026,42,Male,Delaware,14/6/2023,0
+2027,37,Male,Maine,16/12/2022,0
+2028,50,Male,Nebraska,20/11/2023,0
+2029,29,Male,Ohio,23/6/2022,0
+2030,25,Male,Montana,28/9/2023,0
+2031,66,Male,New Mexico,9/3/2022,1
+2032,21,Male,North Carolina,12/8/2022,0
+2033,46,Male,South Carolina,21/5/2022,1
+2034,57,Male,Illinois,12/11/2022,0
+2035,61,Male,Alabama,4/12/2022,0
+2036,53,Male,Oklahoma,5/6/2023,0
+2037,37,Male,Minnesota,27/3/2023,0
+2038,39,Male,Illinois,15/7/2023,0
+2039,53,Male,Arkansas,12/10/2022,0
+2040,35,Male,Minnesota,21/11/2023,0
+2041,69,Male,South Carolina,23/3/2022,1
+2042,66,Male,New York,20/3/2022,1
+2043,19,Male,Alabama,30/9/2023,0
+2044,47,Male,New York,14/9/2023,0
+2045,49,Male,Missouri,24/6/2022,0
+2046,31,Male,Georgia,6/6/2023,0
+2047,39,Male,Oklahoma,13/4/2022,1
+2048,58,Male,Connecticut,22/5/2022,1
+2049,45,Male,Michigan,15/3/2023,0
+2050,68,Male,Rhode Island,26/10/2022,0
+2051,35,Male,Mississippi,18/5/2022,1
+2052,65,Male,Massachusetts,24/12/2022,0
+2053,45,Male,New Hampshire,27/1/2023,0
+2054,19,Male,Wyoming,6/10/2022,0
+2055,65,Male,New Jersey,14/3/2022,1
+2056,28,Male,Texas,29/9/2022,0
+2057,55,Male,Minnesota,30/10/2022,0
+2058,66,Male,South Dakota,28/7/2023,0
+2059,29,Male,Washington,9/8/2023,0
+2060,56,Male,California,24/6/2023,0
+2061,21,Male,Wisconsin,25/10/2023,0
+2062,32,Male,Michigan,2/2/2022,1
+2063,54,Male,South Carolina,2/5/2023,0
+2064,61,Male,Indiana,7/10/2023,0
+2065,31,Male,Arkansas,23/1/2022,1
+2066,27,Male,Oregon,7/7/2022,0
+2067,64,Male,Illinois,27/2/2022,1
+2068,60,Male,Maryland,29/1/2022,1
+2069,70,Male,Vermont,29/5/2023,0
+2070,36,Male,Texas,4/3/2023,0
+2071,56,Male,Nebraska,19/12/2022,0
+2072,69,Male,South Carolina,25/10/2023,0
+2073,39,Male,Massachusetts,10/8/2022,0
+2074,38,Male,Texas,5/10/2022,0
+2075,36,Male,Florida,4/7/2022,0
+2076,46,Male,South Carolina,12/12/2023,0
+2077,59,Male,Florida,14/12/2023,0
+2078,64,Male,Nebraska,27/11/2023,0
+2079,49,Male,Hawaii,26/10/2023,0
+2080,32,Male,Montana,16/11/2022,0
+2081,29,Male,South Dakota,20/10/2022,0
+2082,24,Male,Alabama,30/10/2022,0
+2083,41,Male,Arkansas,14/12/2022,0
+2084,41,Male,Mississippi,31/7/2022,0
+2085,32,Male,Vermont,24/10/2023,0
+2086,69,Male,New York,24/6/2023,0
+2087,65,Male,North Dakota,23/8/2022,0
+2088,54,Male,Wisconsin,16/10/2023,0
+2089,39,Male,California,21/9/2023,0
+2090,37,Male,Maryland,2/6/2023,0
+2091,51,Male,Massachusetts,7/5/2023,0
+2092,26,Male,Washington,13/10/2023,0
+2093,42,Male,Minnesota,22/12/2022,0
+2094,21,Male,Washington,20/7/2022,0
+2095,53,Male,South Carolina,25/1/2022,1
+2096,36,Male,New Mexico,10/3/2023,0
+2097,21,Male,North Carolina,28/10/2022,0
+2098,33,Male,Iowa,7/7/2023,0
+2099,49,Male,Louisiana,5/2/2022,1
+2100,31,Male,Oklahoma,2/8/2023,0
+2101,68,Male,Michigan,12/10/2023,0
+2102,49,Male,Oregon,7/5/2023,0
+2103,23,Male,Idaho,6/6/2023,0
+2104,30,Male,Indiana,20/2/2023,0
+2105,53,Male,New Mexico,22/6/2022,0
+2106,65,Male,South Carolina,18/3/2022,1
+2107,60,Male,Vermont,17/7/2022,0
+2108,46,Male,Delaware,23/6/2022,0
+2109,54,Male,North Dakota,3/2/2023,0
+2110,59,Male,California,30/7/2022,0
+2111,52,Male,Montana,21/6/2023,0
+2112,41,Male,Missouri,9/1/2023,0
+2113,43,Male,Tennessee,15/5/2023,0
+2114,63,Male,Virginia,1/3/2023,0
+2115,37,Male,Vermont,28/3/2022,1
+2116,44,Male,Rhode Island,26/8/2023,0
+2117,67,Male,Kansas,13/1/2022,1
+2118,27,Male,Colorado,13/2/2022,1
+2119,60,Male,Georgia,6/4/2022,1
+2120,58,Male,Nebraska,22/5/2022,1
+2121,53,Male,Missouri,4/2/2023,0
+2122,43,Male,Alaska,5/11/2022,0
+2123,32,Male,Virginia,12/9/2023,0
+2124,54,Male,Nebraska,23/5/2023,0
+2125,47,Male,Rhode Island,16/3/2023,0
+2126,57,Male,New Hampshire,1/8/2023,0
+2127,63,Male,Alabama,22/1/2022,1
+2128,70,Male,North Carolina,8/4/2022,1
+2129,62,Male,New Mexico,7/5/2023,0
+2130,40,Male,Minnesota,7/2/2022,1
+2131,25,Male,Arizona,21/3/2023,0
+2132,19,Male,Montana,26/12/2022,0
+2133,25,Male,Vermont,29/11/2023,0
+2134,21,Male,Maine,10/9/2022,0
+2135,55,Male,Virginia,23/6/2022,0
+2136,34,Male,California,6/5/2023,0
+2137,47,Male,New York,22/1/2023,0
+2138,27,Male,Indiana,16/11/2022,0
+2139,67,Male,Mississippi,16/11/2023,0
+2140,40,Male,New York,23/7/2022,0
+2141,53,Male,New Mexico,14/8/2023,0
+2142,24,Male,Kentucky,2/6/2022,1
+2143,47,Male,North Dakota,5/11/2023,0
+2144,53,Male,Arkansas,28/2/2023,0
+2145,47,Male,Maryland,19/1/2023,0
+2146,38,Male,Connecticut,21/3/2023,0
+2147,48,Male,Utah,11/1/2023,0
+2148,47,Male,Missouri,8/5/2023,0
+2149,19,Male,Nebraska,9/5/2022,1
+2150,38,Male,Hawaii,6/12/2023,0
+2151,57,Male,Illinois,21/6/2023,0
+2152,70,Male,Vermont,5/11/2022,0
+2153,38,Male,New Jersey,21/9/2023,0
+2154,35,Male,Kentucky,11/4/2023,0
+2155,46,Male,Wyoming,15/4/2023,0
+2156,32,Male,Hawaii,27/12/2022,0
+2157,38,Male,Missouri,9/3/2023,0
+2158,41,Male,Mississippi,24/9/2022,0
+2159,19,Male,Massachusetts,1/10/2022,0
+2160,18,Male,Louisiana,26/1/2022,1
+2161,45,Male,West Virginia,6/1/2023,0
+2162,23,Male,Washington,25/8/2022,0
+2163,60,Male,Oregon,4/5/2022,1
+2164,52,Male,New York,29/8/2023,0
+2165,42,Male,Iowa,9/12/2022,0
+2166,29,Male,Idaho,26/12/2023,0
+2167,31,Male,New Jersey,9/12/2023,0
+2168,30,Male,Ohio,4/6/2022,1
+2169,23,Male,Connecticut,16/10/2022,0
+2170,31,Male,Florida,14/9/2023,0
+2171,40,Male,South Carolina,12/2/2022,1
+2172,39,Male,Missouri,8/9/2022,0
+2173,28,Male,Rhode Island,18/9/2023,0
+2174,23,Male,Delaware,20/6/2022,0
+2175,42,Male,Colorado,26/3/2023,0
+2176,68,Male,Nebraska,8/12/2023,0
+2177,24,Male,Vermont,22/7/2022,0
+2178,24,Male,Montana,26/2/2022,1
+2179,21,Male,Florida,1/8/2022,0
+2180,49,Male,Delaware,21/3/2023,0
+2181,41,Male,Connecticut,24/9/2022,0
+2182,22,Male,Hawaii,17/11/2023,0
+2183,42,Male,New Mexico,23/4/2023,0
+2184,30,Male,Kansas,20/4/2022,1
+2185,38,Male,Nevada,5/11/2023,0
+2186,40,Male,North Carolina,14/11/2022,0
+2187,55,Male,New Mexico,27/2/2023,0
+2188,37,Male,Idaho,13/5/2022,1
+2189,41,Male,California,9/2/2022,1
+2190,38,Male,Wisconsin,24/10/2023,0
+2191,42,Male,Alaska,5/8/2023,0
+2192,26,Male,Pennsylvania,2/10/2023,0
+2193,41,Male,Virginia,21/7/2022,0
+2194,27,Male,California,8/1/2022,1
+2195,61,Male,Kentucky,10/6/2023,0
+2196,58,Male,New York,7/1/2023,0
+2197,25,Male,Vermont,8/10/2023,0
+2198,33,Male,Pennsylvania,20/1/2022,1
+2199,57,Male,New York,3/2/2023,0
+2200,39,Male,North Carolina,15/3/2023,0
+2201,60,Male,Wyoming,4/11/2023,0
+2202,39,Male,Ohio,29/9/2023,0
+2203,42,Male,Alabama,8/11/2022,0
+2204,53,Male,Rhode Island,9/7/2023,0
+2205,20,Male,Oregon,6/11/2022,0
+2206,46,Male,North Dakota,13/8/2023,0
+2207,46,Male,Illinois,9/4/2022,1
+2208,69,Male,New Mexico,11/8/2022,0
+2209,28,Male,Colorado,16/8/2022,0
+2210,42,Male,Utah,28/3/2022,1
+2211,30,Male,Virginia,22/7/2022,0
+2212,50,Male,Maine,1/10/2023,0
+2213,59,Male,Nebraska,24/3/2023,0
+2214,54,Male,Hawaii,12/7/2023,0
+2215,50,Male,Idaho,19/9/2022,0
+2216,25,Male,West Virginia,3/9/2022,0
+2217,41,Male,Vermont,20/9/2022,0
+2218,35,Male,Indiana,8/10/2022,0
+2219,67,Male,Idaho,20/11/2023,0
+2220,33,Male,Minnesota,19/2/2022,1
+2221,19,Male,Wyoming,1/10/2022,0
+2222,25,Male,Kansas,6/7/2022,0
+2223,32,Male,Georgia,27/11/2023,0
+2224,30,Male,Kansas,1/5/2023,0
+2225,18,Male,Nebraska,26/11/2022,0
+2226,38,Male,Washington,22/8/2023,0
+2227,22,Male,Missouri,14/12/2023,0
+2228,40,Male,Washington,24/6/2023,0
+2229,54,Male,Kansas,5/3/2022,1
+2230,70,Male,Minnesota,8/5/2023,0
+2231,52,Male,Colorado,22/2/2022,1
+2232,34,Male,Utah,9/9/2023,0
+2233,65,Male,North Carolina,31/7/2022,0
+2234,38,Male,Florida,20/9/2022,0
+2235,35,Male,New Hampshire,10/1/2023,0
+2236,40,Male,Illinois,3/5/2023,0
+2237,23,Male,Louisiana,21/3/2022,1
+2238,45,Male,Alabama,30/9/2023,0
+2239,40,Male,Florida,5/8/2023,0
+2240,42,Male,Alabama,10/3/2023,0
+2241,57,Male,California,16/5/2023,0
+2242,18,Male,Maryland,12/3/2023,0
+2243,18,Male,Nevada,23/11/2023,0
+2244,56,Male,Massachusetts,12/1/2023,0
+2245,35,Male,South Carolina,5/2/2023,0
+2246,49,Male,Delaware,23/11/2023,0
+2247,49,Male,Hawaii,15/3/2022,1
+2248,34,Male,Florida,12/9/2023,0
+2249,63,Male,Rhode Island,16/12/2023,0
+2250,42,Male,Wyoming,7/12/2023,0
+2251,41,Male,Colorado,10/3/2022,1
+2252,26,Male,Virginia,13/3/2022,1
+2253,48,Male,Nebraska,27/1/2023,0
+2254,62,Male,Oklahoma,16/11/2022,0
+2255,24,Male,North Dakota,3/7/2022,0
+2256,48,Male,Michigan,23/1/2023,0
+2257,31,Male,California,7/11/2023,0
+2258,41,Male,Tennessee,4/4/2023,0
+2259,24,Male,Ohio,11/4/2022,1
+2260,60,Male,Florida,10/1/2022,1
+2261,38,Male,Missouri,3/12/2022,0
+2262,58,Male,South Carolina,1/2/2023,0
+2263,53,Male,Arizona,28/7/2023,0
+2264,44,Male,Indiana,1/10/2022,0
+2265,51,Male,North Dakota,16/7/2023,0
+2266,36,Male,Montana,28/12/2023,0
+2267,20,Male,Missouri,2/5/2022,1
+2268,32,Male,Kentucky,19/2/2022,1
+2269,66,Male,Georgia,24/2/2022,1
+2270,49,Male,Kentucky,16/1/2023,0
+2271,27,Male,Georgia,20/6/2023,0
+2272,29,Male,Alaska,31/3/2023,0
+2273,29,Male,Maine,15/6/2022,1
+2274,55,Male,New Mexico,17/1/2022,1
+2275,57,Male,New York,6/12/2022,0
+2276,29,Male,Oklahoma,9/6/2022,1
+2277,31,Male,Wyoming,13/2/2023,0
+2278,25,Male,Alabama,14/3/2023,0
+2279,61,Male,Maryland,17/2/2022,1
+2280,53,Male,West Virginia,28/5/2023,0
+2281,22,Male,Kentucky,5/5/2022,1
+2282,28,Male,Kansas,10/1/2023,0
+2283,18,Male,Idaho,10/12/2023,0
+2284,44,Male,Ohio,30/11/2022,0
+2285,32,Male,Iowa,6/7/2022,0
+2286,34,Male,Michigan,21/4/2023,0
+2287,67,Male,South Dakota,8/6/2022,1
+2288,66,Male,Nebraska,2/11/2022,0
+2289,28,Male,California,10/2/2022,1
+2290,70,Male,Nevada,13/2/2022,1
+2291,37,Male,Kansas,29/5/2022,1
+2292,28,Male,Ohio,31/12/2022,0
+2293,43,Male,Vermont,16/9/2022,0
+2294,37,Male,Georgia,27/12/2023,0
+2295,54,Male,Maryland,6/10/2023,0
+2296,50,Male,Connecticut,28/7/2023,0
+2297,46,Male,Washington,4/6/2023,0
+2298,60,Male,California,11/5/2022,1
+2299,40,Male,Montana,31/5/2022,1
+2300,64,Male,Idaho,4/2/2023,0
+2301,18,Male,Pennsylvania,28/11/2022,0
+2302,37,Male,Maine,25/11/2023,0
+2303,36,Male,Montana,31/5/2022,1
+2304,51,Male,New Jersey,18/3/2022,1
+2305,26,Male,Louisiana,29/6/2023,0
+2306,68,Male,Maine,29/1/2022,1
+2307,27,Male,Florida,24/11/2022,0
+2308,28,Male,Missouri,21/12/2022,0
+2309,49,Male,North Dakota,29/9/2023,0
+2310,70,Male,Connecticut,25/1/2022,1
+2311,30,Male,Virginia,12/8/2023,0
+2312,27,Male,Montana,22/10/2022,0
+2313,19,Male,Vermont,2/7/2022,0
+2314,64,Male,Georgia,24/8/2023,0
+2315,42,Male,Virginia,31/8/2022,0
+2316,69,Male,Vermont,27/6/2023,0
+2317,28,Male,Montana,15/1/2022,1
+2318,47,Male,New Jersey,9/5/2022,1
+2319,69,Male,Wyoming,13/4/2022,1
+2320,56,Male,Maine,9/5/2022,1
+2321,28,Male,New Mexico,22/7/2023,0
+2322,50,Male,Colorado,1/11/2022,0
+2323,39,Male,Connecticut,19/7/2022,0
+2324,35,Male,Maryland,18/6/2023,0
+2325,59,Male,Oregon,14/8/2022,0
+2326,44,Male,New York,11/12/2022,0
+2327,66,Male,Oklahoma,11/2/2022,1
+2328,20,Male,Alabama,3/9/2023,0
+2329,45,Male,North Dakota,11/8/2022,0
+2330,49,Male,Nebraska,18/12/2022,0
+2331,60,Male,Arizona,11/6/2023,0
+2332,61,Male,Illinois,2/5/2022,1
+2333,36,Male,South Carolina,4/2/2023,0
+2334,33,Male,Kansas,29/9/2023,0
+2335,49,Male,Kansas,12/2/2022,1
+2336,31,Male,Idaho,19/4/2023,0
+2337,19,Male,California,20/6/2022,0
+2338,39,Male,North Dakota,11/8/2022,0
+2339,66,Male,Georgia,22/12/2022,0
+2340,25,Male,Illinois,13/2/2022,1
+2341,63,Male,Delaware,14/7/2022,0
+2342,56,Male,Connecticut,28/4/2023,0
+2343,20,Male,Tennessee,29/5/2023,0
+2344,58,Male,Maryland,11/9/2023,0
+2345,34,Male,Rhode Island,10/7/2022,0
+2346,28,Male,New York,19/12/2022,0
+2347,22,Male,New Mexico,21/4/2023,0
+2348,37,Male,California,21/1/2023,0
+2349,54,Male,Maine,5/12/2023,0
+2350,65,Male,New York,11/5/2022,1
+2351,57,Male,Hawaii,24/9/2022,0
+2352,38,Male,New Hampshire,27/4/2023,0
+2353,70,Male,Nebraska,8/8/2023,0
+2354,56,Male,Montana,16/10/2022,0
+2355,56,Male,Wisconsin,24/8/2023,0
+2356,22,Male,Tennessee,19/3/2022,1
+2357,57,Male,Montana,18/12/2022,0
+2358,53,Male,Michigan,23/6/2022,0
+2359,53,Male,Texas,9/10/2022,0
+2360,19,Male,Pennsylvania,8/10/2023,0
+2361,49,Male,New York,1/9/2023,0
+2362,44,Male,Alabama,21/10/2022,0
+2363,27,Male,Virginia,17/7/2022,0
+2364,60,Male,Pennsylvania,30/6/2023,0
+2365,62,Male,Mississippi,8/7/2022,0
+2366,52,Male,Wyoming,22/5/2023,0
+2367,30,Male,New Mexico,21/9/2022,0
+2368,66,Male,North Dakota,3/9/2023,0
+2369,29,Male,New Jersey,26/9/2022,0
+2370,24,Male,Vermont,26/10/2022,0
+2371,51,Male,Alaska,2/11/2023,0
+2372,67,Male,Indiana,6/11/2022,0
+2373,50,Male,Alabama,30/10/2022,0
+2374,37,Male,Michigan,1/10/2023,0
+2375,69,Male,Washington,18/9/2023,0
+2376,60,Male,Virginia,2/12/2022,0
+2377,21,Male,Tennessee,19/5/2022,1
+2378,44,Male,South Dakota,19/4/2023,0
+2379,26,Male,New Hampshire,25/3/2022,1
+2380,40,Male,South Dakota,8/11/2023,0
+2381,41,Male,Pennsylvania,24/6/2022,0
+2382,62,Male,Wisconsin,21/3/2022,1
+2383,39,Male,California,2/7/2023,0
+2384,53,Male,Rhode Island,5/3/2022,1
+2385,24,Male,Alabama,22/3/2022,1
+2386,41,Male,Oklahoma,31/8/2023,0
+2387,19,Male,Illinois,8/9/2022,0
+2388,36,Male,Tennessee,1/6/2023,0
+2389,21,Male,Alabama,16/8/2022,0
+2390,25,Male,Kansas,5/3/2022,1
+2391,65,Male,Arizona,18/5/2023,0
+2392,42,Male,Michigan,23/10/2022,0
+2393,40,Male,Missouri,29/8/2023,0
+2394,58,Male,Louisiana,18/6/2022,0
+2395,40,Male,Connecticut,10/1/2023,0
+2396,62,Male,Connecticut,23/2/2023,0
+2397,38,Male,Oregon,3/7/2022,0
+2398,37,Male,West Virginia,24/10/2023,0
+2399,65,Male,Florida,27/2/2022,1
+2400,55,Male,New Hampshire,21/4/2022,1
+2401,43,Male,Oregon,26/4/2022,1
+2402,43,Male,Oregon,14/6/2023,0
+2403,45,Male,Utah,7/7/2023,0
+2404,64,Male,Missouri,27/4/2023,0
+2405,28,Male,West Virginia,30/3/2022,1
+2406,69,Male,California,1/6/2022,1
+2407,54,Male,California,6/9/2023,0
+2408,52,Male,Illinois,21/12/2023,0
+2409,23,Male,Hawaii,29/5/2023,0
+2410,26,Male,Washington,15/9/2022,0
+2411,48,Male,Wisconsin,29/3/2022,1
+2412,49,Male,Virginia,7/10/2022,0
+2413,53,Male,Oregon,3/7/2022,0
+2414,69,Male,Pennsylvania,28/7/2022,0
+2415,26,Male,Virginia,21/1/2022,1
+2416,21,Male,Hawaii,13/4/2022,1
+2417,59,Male,Nebraska,22/7/2023,0
+2418,21,Male,Alaska,16/1/2023,0
+2419,22,Male,Michigan,4/2/2023,0
+2420,26,Male,North Carolina,23/7/2022,0
+2421,41,Male,North Carolina,12/3/2022,1
+2422,37,Male,Minnesota,6/6/2023,0
+2423,30,Male,Georgia,6/11/2023,0
+2424,49,Male,West Virginia,5/12/2022,0
+2425,49,Male,Delaware,12/8/2022,0
+2426,58,Male,North Dakota,20/6/2023,0
+2427,70,Male,Florida,1/12/2023,0
+2428,27,Male,Oregon,23/12/2022,0
+2429,65,Male,Idaho,15/5/2023,0
+2430,57,Male,Virginia,22/10/2023,0
+2431,20,Male,North Dakota,9/10/2023,0
+2432,34,Male,Alabama,7/11/2022,0
+2433,59,Male,Hawaii,3/9/2023,0
+2434,54,Male,Oregon,21/8/2022,0
+2435,36,Male,Utah,23/12/2023,0
+2436,21,Male,Hawaii,17/8/2023,0
+2437,52,Male,Connecticut,11/8/2023,0
+2438,43,Male,Wyoming,24/12/2023,0
+2439,32,Male,Delaware,6/10/2022,0
+2440,55,Male,Arkansas,25/8/2023,0
+2441,31,Male,Indiana,13/3/2022,1
+2442,45,Male,California,16/2/2023,0
+2443,53,Male,Wyoming,10/6/2022,1
+2444,24,Male,South Dakota,6/4/2023,0
+2445,47,Male,West Virginia,30/11/2022,0
+2446,63,Male,Tennessee,13/8/2022,0
+2447,38,Male,Alaska,20/1/2022,1
+2448,59,Male,South Dakota,6/3/2022,1
+2449,54,Male,Tennessee,31/10/2022,0
+2450,26,Male,Alabama,7/9/2022,0
+2451,68,Male,North Carolina,7/4/2022,1
+2452,41,Male,Oklahoma,14/10/2022,0
+2453,68,Male,New York,7/8/2023,0
+2454,21,Male,Iowa,9/12/2022,0
+2455,32,Male,Alaska,16/9/2022,0
+2456,20,Male,Alaska,14/4/2022,1
+2457,59,Male,Nebraska,19/7/2023,0
+2458,53,Male,Delaware,22/4/2023,0
+2459,66,Male,Texas,28/1/2023,0
+2460,47,Male,Missouri,8/5/2022,1
+2461,58,Male,Maine,30/8/2022,0
+2462,28,Male,Pennsylvania,23/4/2022,1
+2463,68,Male,Missouri,24/3/2023,0
+2464,60,Male,Mississippi,1/4/2023,0
+2465,47,Male,Hawaii,25/9/2023,0
+2466,18,Male,Texas,15/5/2023,0
+2467,32,Male,South Dakota,15/10/2022,0
+2468,27,Male,New Jersey,3/11/2023,0
+2469,65,Male,Connecticut,23/9/2023,0
+2470,68,Male,Maryland,16/9/2022,0
+2471,55,Male,Arizona,17/1/2022,1
+2472,30,Male,Oklahoma,7/3/2023,0
+2473,24,Male,Utah,28/1/2022,1
+2474,57,Male,Arkansas,18/8/2022,0
+2475,23,Male,North Carolina,3/1/2023,0
+2476,69,Male,California,23/12/2022,0
+2477,60,Male,Colorado,8/7/2022,0
+2478,25,Male,California,21/12/2023,0
+2479,18,Male,Vermont,25/4/2023,0
+2480,37,Male,Kansas,7/3/2023,0
+2481,61,Male,Ohio,27/2/2022,1
+2482,41,Male,New Jersey,16/9/2023,0
+2483,69,Male,Arizona,24/8/2022,0
+2484,32,Male,Arizona,25/12/2023,0
+2485,60,Male,New Hampshire,15/1/2023,0
+2486,43,Male,Louisiana,25/11/2022,0
+2487,61,Male,Texas,4/2/2022,1
+2488,57,Male,Montana,26/2/2023,0
+2489,56,Male,New Hampshire,22/7/2022,0
+2490,66,Male,South Dakota,21/12/2023,0
+2491,52,Male,Montana,6/4/2022,1
+2492,63,Male,North Carolina,28/4/2023,0
+2493,50,Male,South Dakota,12/2/2022,1
+2494,21,Male,Maine,27/1/2022,1
+2495,42,Male,Oklahoma,30/7/2023,0
+2496,40,Male,Nebraska,22/8/2022,0
+2497,67,Male,Illinois,18/6/2023,0
+2498,35,Male,Colorado,21/11/2022,0
+2499,18,Male,Massachusetts,29/12/2022,0
+2500,52,Male,Louisiana,1/12/2023,0
+2501,59,Male,Massachusetts,1/3/2023,0
+2502,49,Male,West Virginia,20/10/2022,0
+2503,46,Male,Idaho,8/5/2022,1
+2504,69,Male,Ohio,13/12/2022,0
+2505,56,Male,Rhode Island,8/3/2022,1
+2506,27,Male,Illinois,31/7/2022,0
+2507,57,Male,New York,22/9/2023,0
+2508,58,Male,Louisiana,6/1/2023,0
+2509,23,Male,California,28/2/2022,1
+2510,19,Male,Washington,31/3/2023,0
+2511,40,Male,South Dakota,3/5/2023,0
+2512,54,Male,Idaho,19/1/2022,1
+2513,50,Male,North Dakota,16/2/2023,0
+2514,69,Male,Washington,4/10/2023,0
+2515,42,Male,Alaska,5/7/2022,0
+2516,37,Male,Kansas,15/6/2022,1
+2517,46,Male,Utah,23/3/2023,0
+2518,64,Male,Wyoming,30/7/2022,0
+2519,20,Male,Maine,25/12/2022,0
+2520,40,Male,Michigan,21/9/2022,0
+2521,64,Male,Illinois,27/3/2023,0
+2522,29,Male,Minnesota,26/12/2022,0
+2523,20,Male,Massachusetts,24/9/2023,0
+2524,43,Male,New Jersey,10/12/2022,0
+2525,60,Male,Kansas,30/4/2023,0
+2526,39,Male,Kentucky,18/1/2023,0
+2527,47,Male,Rhode Island,14/2/2022,1
+2528,19,Male,Illinois,27/2/2022,1
+2529,52,Male,Alabama,24/6/2022,0
+2530,34,Male,Tennessee,30/5/2022,1
+2531,25,Male,Massachusetts,13/5/2022,1
+2532,43,Male,Texas,14/1/2022,1
+2533,55,Male,Nebraska,21/6/2022,0
+2534,66,Male,Pennsylvania,7/6/2023,0
+2535,41,Male,Virginia,8/4/2023,0
+2536,47,Male,Vermont,29/9/2023,0
+2537,51,Male,Oklahoma,22/5/2023,0
+2538,44,Male,Maine,28/7/2022,0
+2539,18,Male,New Jersey,17/8/2023,0
+2540,33,Male,Massachusetts,4/10/2023,0
+2541,24,Male,New Jersey,13/10/2022,0
+2542,33,Male,Washington,26/4/2022,1
+2543,61,Male,Arkansas,7/4/2022,1
+2544,27,Male,West Virginia,14/12/2023,0
+2545,46,Male,Delaware,29/4/2023,0
+2546,38,Male,Texas,13/5/2023,0
+2547,63,Male,Texas,30/8/2022,0
+2548,47,Male,Mississippi,28/11/2023,0
+2549,42,Male,Texas,11/2/2022,1
+2550,41,Male,Virginia,11/12/2023,0
+2551,53,Male,New Hampshire,10/9/2023,0
+2552,29,Male,Minnesota,18/9/2022,0
+2553,61,Male,Maryland,14/1/2022,1
+2554,69,Male,Vermont,20/2/2022,1
+2555,51,Male,Kansas,6/3/2023,0
+2556,24,Male,Idaho,23/11/2022,0
+2557,24,Male,Montana,25/1/2023,0
+2558,70,Male,Oklahoma,29/5/2022,1
+2559,49,Male,California,27/4/2023,0
+2560,48,Male,Mississippi,25/10/2022,0
+2561,58,Male,California,16/12/2022,0
+2562,32,Male,New York,12/4/2022,1
+2563,57,Male,Arizona,24/9/2022,0
+2564,69,Male,Massachusetts,31/10/2023,0
+2565,42,Male,Kentucky,22/6/2022,0
+2566,30,Male,Vermont,11/7/2023,0
+2567,35,Male,Missouri,27/8/2023,0
+2568,19,Male,Michigan,10/9/2023,0
+2569,52,Male,Texas,14/6/2023,0
+2570,42,Male,New York,19/1/2023,0
+2571,36,Male,New Mexico,21/9/2023,0
+2572,45,Male,Mississippi,12/7/2023,0
+2573,54,Male,Washington,19/7/2023,0
+2574,54,Male,New Mexico,7/12/2023,0
+2575,27,Male,Florida,18/8/2023,0
+2576,53,Male,Minnesota,19/6/2022,0
+2577,20,Male,New Hampshire,3/4/2023,0
+2578,52,Male,Minnesota,21/9/2023,0
+2579,54,Male,Vermont,1/8/2023,0
+2580,65,Male,Minnesota,16/12/2022,0
+2581,43,Male,Massachusetts,19/7/2022,0
+2582,57,Male,Wyoming,4/2/2023,0
+2583,19,Male,South Dakota,31/12/2022,0
+2584,69,Male,Oklahoma,6/11/2023,0
+2585,26,Male,Florida,26/4/2022,1
+2586,57,Male,Wisconsin,29/12/2023,0
+2587,20,Male,Maine,24/2/2023,0
+2588,55,Male,Connecticut,14/2/2023,0
+2589,44,Male,Delaware,23/8/2023,0
+2590,52,Male,North Dakota,3/10/2023,0
+2591,57,Male,California,25/10/2022,0
+2592,40,Male,New Mexico,29/10/2023,0
+2593,23,Male,Iowa,14/8/2022,0
+2594,36,Male,Colorado,19/12/2022,0
+2595,59,Male,Montana,27/3/2023,0
+2596,29,Male,Iowa,16/9/2023,0
+2597,63,Male,Louisiana,29/8/2023,0
+2598,60,Male,Alabama,25/6/2023,0
+2599,64,Male,Nevada,1/4/2023,0
+2600,63,Male,Vermont,3/12/2023,0
+2601,21,Male,New York,26/11/2023,0
+2602,61,Male,Mississippi,15/4/2022,1
+2603,65,Male,South Carolina,20/9/2022,0
+2604,69,Male,Washington,30/11/2023,0
+2605,47,Male,Colorado,10/9/2023,0
+2606,41,Male,Nevada,3/10/2022,0
+2607,68,Male,Nevada,11/1/2023,0
+2608,41,Male,Oklahoma,7/9/2022,0
+2609,42,Male,Mississippi,1/7/2022,0
+2610,66,Male,Arkansas,19/11/2023,0
+2611,66,Male,West Virginia,22/5/2022,1
+2612,33,Male,Michigan,19/8/2022,0
+2613,55,Male,Louisiana,11/9/2022,0
+2614,58,Male,South Dakota,15/7/2023,0
+2615,18,Male,North Dakota,21/9/2023,0
+2616,49,Male,Arizona,31/8/2022,0
+2617,61,Male,Georgia,14/10/2022,0
+2618,31,Male,Idaho,16/12/2022,0
+2619,70,Male,Louisiana,4/8/2023,0
+2620,68,Male,Connecticut,14/1/2022,1
+2621,27,Male,Ohio,18/2/2023,0
+2622,48,Male,Maine,27/3/2022,1
+2623,63,Male,New Hampshire,4/10/2022,0
+2624,49,Male,Massachusetts,19/7/2022,0
+2625,19,Male,South Dakota,20/5/2023,0
+2626,30,Male,Colorado,9/8/2023,0
+2627,50,Male,Rhode Island,12/11/2023,0
+2628,66,Male,Missouri,22/12/2023,0
+2629,25,Male,Wyoming,10/8/2022,0
+2630,61,Male,New Hampshire,24/2/2023,0
+2631,29,Male,Maine,3/7/2022,0
+2632,53,Male,Connecticut,2/10/2022,0
+2633,24,Male,Alaska,27/2/2022,1
+2634,51,Male,Alaska,20/3/2022,1
+2635,26,Male,North Carolina,28/7/2022,0
+2636,59,Male,Colorado,13/9/2023,0
+2637,41,Male,Utah,2/8/2022,0
+2638,20,Male,Alabama,20/1/2022,1
+2639,22,Male,Hawaii,27/8/2023,0
+2640,18,Male,New Hampshire,3/7/2022,0
+2641,30,Male,Indiana,15/4/2022,1
+2642,25,Male,Vermont,26/6/2023,0
+2643,39,Male,Iowa,12/1/2022,1
+2644,49,Male,Maryland,27/5/2022,1
+2645,25,Male,New Mexico,6/2/2023,0
+2646,23,Male,Louisiana,22/11/2023,0
+2647,33,Male,New Mexico,18/8/2023,0
+2648,60,Male,South Carolina,28/12/2023,0
+2649,51,Male,Illinois,25/7/2023,0
+2650,23,Male,Minnesota,3/5/2023,0
+2651,20,Male,Oregon,9/8/2023,0
+2652,51,Male,Tennessee,21/2/2022,1
+2653,23,Female,Maryland,11/9/2023,0
+2654,67,Female,Wisconsin,29/6/2022,0
+2655,23,Female,Idaho,28/2/2023,0
+2656,26,Female,Wyoming,7/4/2023,0
+2657,52,Female,Indiana,22/7/2022,0
+2658,52,Female,Texas,19/11/2023,0
+2659,52,Female,Ohio,20/10/2023,0
+2660,35,Female,Kansas,2/7/2023,0
+2661,24,Female,South Carolina,3/7/2023,0
+2662,43,Female,Michigan,31/7/2022,0
+2663,25,Female,Nebraska,29/6/2023,0
+2664,46,Female,Wisconsin,10/2/2023,0
+2665,22,Female,Illinois,13/2/2023,0
+2666,70,Female,Louisiana,26/4/2022,1
+2667,49,Female,Ohio,3/7/2022,0
+2668,48,Female,Maryland,16/3/2023,0
+2669,59,Female,Texas,15/6/2023,0
+2670,39,Female,Illinois,12/11/2023,0
+2671,30,Female,Pennsylvania,10/2/2023,0
+2672,37,Female,Alabama,6/2/2022,1
+2673,56,Female,West Virginia,24/12/2022,0
+2674,67,Female,Nevada,27/10/2022,0
+2675,40,Female,Florida,3/1/2022,1
+2676,24,Female,Virginia,7/2/2022,1
+2677,43,Female,Kentucky,9/9/2022,0
+2678,45,Female,Connecticut,30/4/2023,0
+2679,33,Female,Montana,5/8/2022,0
+2680,53,Female,Montana,3/5/2022,1
+2681,44,Female,Nebraska,12/12/2023,0
+2682,23,Female,Massachusetts,1/10/2022,0
+2683,59,Female,North Carolina,17/7/2023,0
+2684,68,Female,Montana,11/3/2023,0
+2685,46,Female,Washington,19/7/2023,0
+2686,56,Female,Virginia,3/6/2023,0
+2687,40,Female,Georgia,31/10/2022,0
+2688,61,Female,Delaware,27/8/2023,0
+2689,53,Female,West Virginia,19/7/2023,0
+2690,29,Female,Wyoming,21/6/2022,0
+2691,44,Female,New Mexico,30/12/2023,0
+2692,43,Female,Nebraska,31/5/2023,0
+2693,40,Female,Washington,4/11/2023,0
+2694,55,Female,Hawaii,4/5/2023,0
+2695,66,Female,Louisiana,12/12/2023,0
+2696,50,Female,Tennessee,19/9/2022,0
+2697,57,Female,South Dakota,17/12/2022,0
+2698,42,Female,Delaware,19/12/2022,0
+2699,55,Female,Virginia,6/8/2022,0
+2700,25,Female,Utah,22/3/2023,0
+2701,22,Female,California,14/9/2023,0
+2702,49,Female,Idaho,14/7/2022,0
+2703,70,Female,Texas,5/8/2023,0
+2704,56,Female,Tennessee,13/2/2022,1
+2705,52,Female,Tennessee,20/7/2023,0
+2706,65,Female,Washington,28/11/2022,0
+2707,24,Female,Alabama,9/7/2022,0
+2708,32,Female,Nebraska,11/3/2023,0
+2709,57,Female,Alabama,22/3/2023,0
+2710,35,Female,Illinois,28/8/2022,0
+2711,69,Female,Wisconsin,29/12/2022,0
+2712,30,Female,Nebraska,29/10/2022,0
+2713,37,Female,North Dakota,8/9/2023,0
+2714,19,Female,Mississippi,10/10/2022,0
+2715,53,Female,Iowa,27/11/2023,0
+2716,25,Female,Mississippi,1/1/2022,1
+2717,47,Female,Colorado,4/11/2023,0
+2718,18,Female,Nebraska,23/12/2023,0
+2719,22,Female,Virginia,21/10/2022,0
+2720,69,Female,Louisiana,25/2/2023,0
+2721,55,Female,Maryland,6/1/2023,0
+2722,19,Female,Minnesota,25/11/2023,0
+2723,23,Female,Maine,23/3/2023,0
+2724,54,Female,Texas,2/4/2023,0
+2725,52,Female,Missouri,15/2/2023,0
+2726,64,Female,Mississippi,12/5/2023,0
+2727,33,Female,Michigan,3/9/2023,0
+2728,40,Female,Colorado,28/5/2023,0
+2729,26,Female,Florida,24/8/2022,0
+2730,31,Female,Montana,4/7/2022,0
+2731,23,Female,Wisconsin,5/2/2023,0
+2732,52,Female,Wisconsin,22/11/2023,0
+2733,21,Female,Delaware,24/8/2022,0
+2734,31,Female,North Carolina,26/2/2022,1
+2735,63,Female,New York,2/3/2022,1
+2736,46,Female,California,10/10/2023,0
+2737,44,Female,Montana,12/1/2022,1
+2738,57,Female,North Carolina,28/2/2022,1
+2739,50,Female,Ohio,27/7/2022,0
+2740,33,Female,Alaska,10/3/2023,0
+2741,19,Female,Pennsylvania,13/4/2022,1
+2742,68,Female,Maine,25/10/2023,0
+2743,27,Female,Texas,22/6/2022,0
+2744,61,Female,New Jersey,15/10/2023,0
+2745,38,Female,Wyoming,3/10/2022,0
+2746,28,Female,Michigan,24/6/2022,0
+2747,39,Female,Ohio,5/2/2022,1
+2748,18,Female,West Virginia,12/12/2023,0
+2749,24,Female,Virginia,21/3/2022,1
+2750,64,Female,Vermont,1/4/2022,1
+2751,51,Female,Alaska,20/12/2023,0
+2752,27,Female,Minnesota,17/11/2022,0
+2753,48,Female,Colorado,27/4/2023,0
+2754,69,Female,Rhode Island,30/4/2022,1
+2755,59,Female,New Jersey,16/5/2023,0
+2756,59,Female,Nevada,17/3/2023,0
+2757,42,Female,Minnesota,5/1/2023,0
+2758,39,Female,Delaware,10/12/2023,0
+2759,32,Female,Illinois,15/8/2023,0
+2760,68,Female,Washington,31/3/2023,0
+2761,41,Female,Alaska,30/12/2023,0
+2762,31,Female,Michigan,28/2/2022,1
+2763,58,Female,Georgia,27/6/2022,0
+2764,28,Female,West Virginia,28/9/2022,0
+2765,63,Female,Arizona,21/1/2023,0
+2766,64,Female,Colorado,30/7/2023,0
+2767,66,Female,Tennessee,7/1/2022,1
+2768,31,Female,Iowa,31/5/2023,0
+2769,55,Female,Kansas,23/12/2022,0
+2770,32,Female,Oklahoma,14/11/2022,0
+2771,50,Female,Nebraska,17/10/2023,0
+2772,58,Female,Maryland,9/10/2022,0
+2773,18,Female,Pennsylvania,23/4/2022,1
+2774,39,Female,Arizona,18/5/2022,1
+2775,56,Female,Oklahoma,4/8/2023,0
+2776,37,Female,Montana,12/10/2023,0
+2777,46,Female,Wyoming,12/8/2023,0
+2778,52,Female,Idaho,6/4/2022,1
+2779,70,Female,Pennsylvania,18/8/2023,0
+2780,61,Female,Montana,31/7/2022,0
+2781,33,Female,Ohio,21/2/2023,0
+2782,65,Female,Mississippi,18/4/2023,0
+2783,41,Female,Idaho,6/7/2022,0
+2784,19,Female,Virginia,27/5/2023,0
+2785,33,Female,Idaho,15/2/2022,1
+2786,53,Female,Louisiana,25/2/2023,0
+2787,54,Female,Colorado,16/4/2022,1
+2788,36,Female,West Virginia,1/8/2023,0
+2789,56,Female,Rhode Island,31/10/2022,0
+2790,28,Female,North Carolina,8/8/2023,0
+2791,34,Female,Maine,16/7/2022,0
+2792,43,Female,Iowa,13/11/2023,0
+2793,54,Female,Kentucky,10/3/2022,1
+2794,37,Female,Massachusetts,22/9/2023,0
+2795,33,Female,New York,21/3/2022,1
+2796,33,Female,Nebraska,26/7/2023,0
+2797,55,Female,Oklahoma,15/11/2022,0
+2798,63,Female,Oklahoma,20/6/2023,0
+2799,52,Female,Rhode Island,5/8/2022,0
+2800,23,Female,Maine,29/8/2022,0
+2801,70,Female,Arkansas,4/3/2023,0
+2802,64,Female,New Mexico,30/12/2022,0
+2803,22,Female,Hawaii,27/8/2022,0
+2804,46,Female,Idaho,30/1/2022,1
+2805,65,Female,South Carolina,14/8/2022,0
+2806,18,Female,Nevada,31/8/2023,0
+2807,45,Female,South Carolina,15/5/2023,0
+2808,56,Female,Maryland,9/9/2022,0
+2809,49,Female,Tennessee,7/4/2022,1
+2810,66,Female,Arkansas,6/5/2023,0
+2811,27,Female,Arizona,5/7/2023,0
+2812,69,Female,Ohio,28/6/2022,0
+2813,66,Female,North Dakota,13/2/2023,0
+2814,45,Female,Vermont,5/12/2023,0
+2815,31,Female,Minnesota,9/3/2023,0
+2816,33,Female,Idaho,1/2/2023,0
+2817,43,Female,Maryland,22/6/2023,0
+2818,25,Female,South Carolina,4/8/2023,0
+2819,46,Female,California,30/4/2022,1
+2820,67,Female,Georgia,2/12/2022,0
+2821,26,Female,Vermont,13/11/2023,0
+2822,35,Female,Georgia,17/3/2023,0
+2823,61,Female,New Jersey,19/4/2023,0
+2824,26,Female,Utah,26/3/2023,0
+2825,39,Female,Utah,10/5/2022,1
+2826,69,Female,North Carolina,11/7/2022,0
+2827,32,Female,Florida,11/8/2023,0
+2828,20,Female,Wisconsin,25/2/2023,0
+2829,25,Female,Tennessee,25/10/2022,0
+2830,56,Female,Arizona,24/11/2022,0
+2831,63,Female,Oregon,5/7/2023,0
+2832,34,Female,Virginia,8/8/2023,0
+2833,29,Female,Maryland,12/7/2022,0
+2834,43,Female,Arkansas,17/6/2023,0
+2835,39,Female,Texas,1/4/2023,0
+2836,33,Female,Vermont,20/8/2023,0
+2837,51,Female,Wyoming,25/11/2023,0
+2838,65,Female,Alabama,24/11/2023,0
+2839,51,Female,Maine,7/11/2023,0
+2840,70,Female,South Dakota,2/1/2023,0
+2841,40,Female,West Virginia,4/8/2022,0
+2842,19,Female,Ohio,17/10/2022,0
+2843,28,Female,Arizona,1/7/2023,0
+2844,51,Female,Ohio,1/11/2022,0
+2845,32,Female,New Mexico,13/7/2023,0
+2846,26,Female,South Dakota,3/3/2023,0
+2847,50,Female,Oklahoma,14/7/2022,0
+2848,68,Female,Connecticut,10/6/2022,1
+2849,33,Female,Wisconsin,15/3/2023,0
+2850,56,Female,New Hampshire,19/11/2023,0
+2851,57,Female,Nebraska,1/10/2023,0
+2852,58,Female,Nevada,16/3/2023,0
+2853,40,Female,New York,5/7/2022,0
+2854,37,Female,Pennsylvania,27/10/2023,0
+2855,36,Female,Delaware,24/6/2022,0
+2856,29,Female,Mississippi,2/2/2023,0
+2857,65,Female,Iowa,3/8/2022,0
+2858,44,Female,Utah,11/3/2022,1
+2859,34,Female,Maryland,24/6/2023,0
+2860,31,Female,Utah,1/7/2023,0
+2861,28,Female,Rhode Island,4/1/2023,0
+2862,66,Female,Maryland,15/7/2022,0
+2863,68,Female,Hawaii,21/8/2022,0
+2864,37,Female,Connecticut,5/10/2022,0
+2865,58,Female,Illinois,13/6/2022,1
+2866,28,Female,California,12/8/2022,0
+2867,54,Female,Connecticut,1/7/2022,0
+2868,21,Female,Colorado,19/8/2023,0
+2869,45,Female,Colorado,22/11/2022,0
+2870,57,Female,Georgia,15/6/2022,1
+2871,47,Female,North Dakota,19/12/2022,0
+2872,46,Female,Idaho,4/6/2022,1
+2873,63,Female,Connecticut,6/11/2023,0
+2874,44,Female,Montana,11/5/2023,0
+2875,36,Female,Colorado,11/3/2023,0
+2876,24,Female,Kentucky,5/5/2023,0
+2877,65,Female,New Mexico,6/7/2023,0
+2878,32,Female,New Jersey,3/9/2022,0
+2879,63,Female,California,16/12/2022,0
+2880,62,Female,North Dakota,10/1/2023,0
+2881,19,Female,Florida,10/11/2023,0
+2882,38,Female,Texas,19/6/2023,0
+2883,59,Female,Oklahoma,25/6/2023,0
+2884,22,Female,Rhode Island,28/2/2023,0
+2885,55,Female,Arkansas,26/3/2022,1
+2886,29,Female,Nevada,17/4/2023,0
+2887,42,Female,Utah,24/1/2023,0
+2888,23,Female,Kentucky,13/8/2022,0
+2889,70,Female,Wisconsin,24/8/2022,0
+2890,64,Female,Minnesota,9/6/2022,1
+2891,39,Female,North Dakota,15/8/2022,0
+2892,47,Female,Ohio,16/2/2022,1
+2893,22,Female,Nevada,15/4/2022,1
+2894,69,Female,Kentucky,31/8/2023,0
+2895,35,Female,Kentucky,10/1/2023,0
+2896,56,Female,Montana,9/4/2023,0
+2897,30,Female,Delaware,19/7/2023,0
+2898,43,Female,Montana,15/10/2022,0
+2899,23,Female,New Jersey,21/11/2022,0
+2900,50,Female,Nebraska,24/2/2023,0
+2901,41,Female,Maryland,30/5/2023,0
+2902,41,Female,Alabama,6/12/2022,0
+2903,27,Female,North Carolina,2/5/2022,1
+2904,38,Female,Delaware,30/1/2022,1
+2905,41,Female,Iowa,17/2/2023,0
+2906,58,Female,New York,5/6/2023,0
+2907,58,Female,Virginia,22/11/2023,0
+2908,19,Female,Maryland,31/10/2023,0
+2909,43,Female,Texas,9/1/2022,1
+2910,27,Female,Louisiana,5/6/2023,0
+2911,32,Female,Mississippi,9/8/2022,0
+2912,28,Female,Ohio,15/4/2022,1
+2913,48,Female,Oregon,19/3/2022,1
+2914,43,Female,Wyoming,31/5/2023,0
+2915,45,Female,Pennsylvania,3/11/2023,0
+2916,26,Female,Oregon,13/9/2022,0
+2917,62,Female,Oklahoma,13/8/2023,0
+2918,58,Female,Colorado,18/11/2023,0
+2919,19,Female,New York,29/10/2022,0
+2920,64,Female,Minnesota,9/6/2023,0
+2921,33,Female,Texas,4/12/2023,0
+2922,20,Female,Wisconsin,5/1/2023,0
+2923,45,Female,Kentucky,23/12/2022,0
+2924,28,Female,Pennsylvania,16/12/2022,0
+2925,47,Female,Rhode Island,22/8/2023,0
+2926,54,Female,Illinois,22/10/2022,0
+2927,64,Female,Maryland,18/5/2023,0
+2928,45,Female,Missouri,20/4/2022,1
+2929,40,Female,Alabama,18/3/2023,0
+2930,31,Female,Maine,14/10/2022,0
+2931,38,Female,Mississippi,18/6/2022,0
+2932,36,Female,Alabama,2/5/2022,1
+2933,65,Female,Alaska,12/1/2023,0
+2934,27,Female,Illinois,30/12/2022,0
+2935,38,Female,Idaho,27/10/2022,0
+2936,58,Female,North Carolina,16/1/2023,0
+2937,31,Female,Washington,30/8/2022,0
+2938,28,Female,West Virginia,30/4/2022,1
+2939,28,Female,Maine,17/5/2022,1
+2940,32,Female,Kentucky,2/8/2023,0
+2941,61,Female,Massachusetts,20/10/2023,0
+2942,38,Female,Pennsylvania,5/1/2023,0
+2943,54,Female,Hawaii,7/5/2022,1
+2944,29,Female,Virginia,27/6/2023,0
+2945,50,Female,New York,26/2/2023,0
+2946,32,Female,Delaware,20/5/2023,0
+2947,38,Female,Hawaii,11/8/2023,0
+2948,52,Female,Nebraska,18/3/2023,0
+2949,61,Female,Vermont,14/2/2023,0
+2950,25,Female,Iowa,7/1/2022,1
+2951,22,Female,Iowa,4/4/2022,1
+2952,47,Female,Arkansas,8/8/2023,0
+2953,50,Female,Alabama,30/5/2022,1
+2954,45,Female,Maryland,14/1/2022,1
+2955,33,Female,South Dakota,21/2/2022,1
+2956,42,Female,Vermont,2/2/2023,0
+2957,52,Female,Montana,3/10/2023,0
+2958,69,Female,South Dakota,5/2/2023,0
+2959,55,Female,Ohio,20/4/2023,0
+2960,38,Female,Texas,20/11/2022,0
+2961,57,Female,Indiana,8/11/2023,0
+2962,33,Female,New Hampshire,9/3/2022,1
+2963,57,Female,California,30/5/2023,0
+2964,52,Female,Maine,4/3/2022,1
+2965,44,Female,Ohio,15/1/2022,1
+2966,48,Female,Delaware,27/3/2023,0
+2967,52,Female,Oklahoma,19/11/2023,0
+2968,34,Female,Indiana,10/8/2023,0
+2969,26,Female,South Carolina,12/12/2022,0
+2970,36,Female,Vermont,18/7/2022,0
+2971,24,Female,Kansas,25/12/2022,0
+2972,30,Female,Utah,21/12/2022,0
+2973,31,Female,New York,6/9/2022,0
+2974,25,Female,Indiana,29/5/2023,0
+2975,57,Female,Tennessee,17/9/2022,0
+2976,61,Female,Georgia,1/5/2023,0
+2977,30,Female,Nebraska,29/7/2023,0
+2978,38,Female,Washington,11/7/2022,0
+2979,53,Female,Idaho,20/5/2022,1
+2980,31,Female,Louisiana,19/8/2023,0
+2981,70,Female,New Jersey,18/5/2023,0
+2982,21,Female,Delaware,7/12/2023,0
+2983,33,Female,Wisconsin,28/10/2022,0
+2984,60,Female,West Virginia,19/12/2022,0
+2985,45,Female,Texas,12/4/2023,0
+2986,46,Female,Hawaii,15/5/2022,1
+2987,62,Female,Arizona,7/6/2023,0
+2988,63,Female,Louisiana,10/10/2022,0
+2989,69,Female,Nevada,30/11/2023,0
+2990,46,Female,Rhode Island,30/8/2023,0
+2991,69,Female,Illinois,27/6/2022,0
+2992,66,Female,Utah,25/4/2023,0
+2993,41,Female,North Dakota,23/2/2023,0
+2994,32,Female,Kansas,30/1/2022,1
+2995,69,Female,Nevada,31/5/2023,0
+2996,29,Female,Virginia,5/3/2023,0
+2997,70,Female,Utah,22/9/2022,0
+2998,41,Female,Idaho,8/3/2023,0
+2999,31,Female,Alaska,13/6/2023,0
+3000,31,Female,New Hampshire,18/4/2023,0
+3001,57,Female,Ohio,20/5/2023,0
+3002,29,Female,Montana,10/12/2023,0
+3003,70,Female,Louisiana,21/6/2022,0
+3004,51,Female,Oregon,4/7/2022,0
+3005,45,Female,Arizona,14/6/2023,0
+3006,18,Female,Alaska,18/9/2022,0
+3007,37,Female,Utah,13/3/2023,0
+3008,23,Female,New York,20/9/2023,0
+3009,39,Female,New Mexico,10/8/2022,0
+3010,62,Female,Louisiana,19/11/2023,0
+3011,70,Female,Ohio,26/10/2022,0
+3012,20,Female,Nevada,15/4/2022,1
+3013,42,Female,Idaho,16/5/2023,0
+3014,41,Female,Arizona,23/12/2023,0
+3015,24,Female,Utah,4/3/2022,1
+3016,37,Female,Wyoming,21/12/2022,0
+3017,30,Female,Indiana,17/2/2023,0
+3018,58,Female,Wisconsin,10/10/2022,0
+3019,43,Female,Texas,18/2/2022,1
+3020,19,Female,Utah,18/5/2023,0
+3021,23,Female,Arkansas,11/2/2022,1
+3022,65,Female,Pennsylvania,17/9/2023,0
+3023,58,Female,Georgia,13/4/2022,1
+3024,50,Female,Indiana,30/6/2022,0
+3025,67,Female,Idaho,4/4/2023,0
+3026,40,Female,Montana,30/7/2023,0
+3027,55,Female,Tennessee,8/10/2022,0
+3028,52,Female,West Virginia,11/3/2023,0
+3029,62,Female,California,20/10/2022,0
+3030,64,Female,Georgia,31/7/2023,0
+3031,43,Female,Maryland,16/8/2022,0
+3032,61,Female,Idaho,25/8/2022,0
+3033,26,Female,California,29/12/2022,0
+3034,22,Female,Alabama,10/10/2023,0
+3035,51,Female,Utah,20/4/2022,1
+3036,69,Female,Kentucky,12/8/2022,0
+3037,50,Female,Vermont,3/1/2023,0
+3038,51,Female,Iowa,12/8/2023,0
+3039,56,Female,Georgia,6/8/2023,0
+3040,59,Female,Alabama,3/2/2022,1
+3041,18,Female,Nebraska,29/11/2023,0
+3042,48,Female,Rhode Island,15/12/2023,0
+3043,53,Female,South Dakota,7/9/2022,0
+3044,45,Female,Illinois,21/8/2023,0
+3045,21,Female,North Carolina,3/7/2023,0
+3046,42,Female,Florida,21/2/2022,1
+3047,60,Female,Pennsylvania,1/6/2023,0
+3048,21,Female,Vermont,9/2/2023,0
+3049,69,Female,Colorado,20/10/2023,0
+3050,40,Female,Utah,7/7/2023,0
+3051,31,Female,Kentucky,6/1/2023,0
+3052,44,Female,Wyoming,13/11/2023,0
+3053,48,Female,Maine,5/10/2023,0
+3054,32,Female,Maine,9/1/2023,0
+3055,42,Female,New Hampshire,3/4/2023,0
+3056,27,Female,Kansas,17/3/2023,0
+3057,69,Female,New Jersey,27/12/2022,0
+3058,67,Female,North Carolina,2/10/2023,0
+3059,41,Female,West Virginia,14/5/2023,0
+3060,46,Female,Kentucky,28/5/2023,0
+3061,47,Female,California,5/12/2023,0
+3062,33,Female,South Dakota,7/4/2023,0
+3063,51,Female,California,31/3/2023,0
+3064,26,Female,Connecticut,29/10/2022,0
+3065,22,Female,Idaho,22/6/2023,0
+3066,49,Female,North Dakota,5/9/2023,0
+3067,58,Female,Michigan,9/12/2022,0
+3068,70,Female,Missouri,16/8/2023,0
+3069,32,Female,California,1/8/2022,0
+3070,62,Female,Delaware,4/8/2022,0
+3071,52,Female,Alabama,5/1/2023,0
+3072,23,Female,New Hampshire,11/11/2022,0
+3073,26,Female,New York,6/6/2022,1
+3074,58,Female,Oregon,23/12/2023,0
+3075,26,Female,Massachusetts,22/1/2023,0
+3076,54,Female,Utah,20/6/2023,0
+3077,66,Female,New Hampshire,13/2/2023,0
+3078,60,Female,Illinois,16/3/2023,0
+3079,32,Female,Alaska,13/6/2023,0
+3080,48,Female,Wyoming,19/12/2022,0
+3081,69,Female,Colorado,22/12/2022,0
+3082,64,Female,Vermont,13/12/2023,0
+3083,56,Female,Utah,3/12/2022,0
+3084,22,Female,Illinois,19/3/2023,0
+3085,46,Female,Idaho,28/6/2023,0
+3086,24,Female,Nevada,11/9/2022,0
+3087,47,Female,Utah,26/12/2023,0
+3088,62,Female,North Carolina,29/6/2022,0
+3089,34,Female,Arkansas,18/6/2022,0
+3090,50,Female,North Carolina,3/7/2023,0
+3091,29,Female,Texas,13/12/2023,0
+3092,68,Female,Nevada,24/2/2023,0
+3093,52,Female,Utah,19/4/2023,0
+3094,29,Female,Pennsylvania,8/7/2023,0
+3095,22,Female,Georgia,5/8/2022,0
+3096,62,Female,Minnesota,24/4/2023,0
+3097,69,Female,Kansas,12/6/2022,1
+3098,48,Female,Delaware,20/10/2022,0
+3099,66,Female,New Mexico,1/8/2022,0
+3100,42,Female,Michigan,2/12/2023,0
+3101,50,Female,Vermont,12/11/2022,0
+3102,32,Female,Idaho,24/4/2022,1
+3103,51,Female,South Dakota,25/4/2023,0
+3104,27,Female,Illinois,6/3/2022,1
+3105,43,Female,Georgia,13/7/2022,0
+3106,48,Female,Oregon,18/8/2022,0
+3107,62,Female,Alabama,15/5/2022,1
+3108,65,Female,Hawaii,15/12/2023,0
+3109,50,Female,Oregon,1/8/2022,0
+3110,60,Female,Illinois,9/4/2022,1
+3111,19,Female,Texas,8/12/2023,0
+3112,21,Female,Kansas,27/1/2023,0
+3113,19,Female,Texas,22/9/2023,0
+3114,46,Female,Nebraska,18/4/2022,1
+3115,21,Female,Arkansas,22/2/2023,0
+3116,26,Female,South Dakota,8/9/2022,0
+3117,50,Female,Montana,12/8/2022,0
+3118,43,Female,Florida,7/3/2022,1
+3119,61,Female,Virginia,10/6/2022,1
+3120,63,Female,Louisiana,22/12/2022,0
+3121,46,Female,Louisiana,1/10/2022,0
+3122,63,Female,Louisiana,23/2/2023,0
+3123,23,Female,Georgia,6/7/2022,0
+3124,57,Female,Iowa,7/7/2022,0
+3125,57,Female,California,25/11/2022,0
+3126,33,Female,Oregon,22/5/2023,0
+3127,57,Female,Maine,11/10/2022,0
+3128,55,Female,Louisiana,10/11/2022,0
+3129,65,Female,Arkansas,19/9/2023,0
+3130,60,Female,Maryland,6/9/2022,0
+3131,52,Female,Vermont,4/11/2023,0
+3132,34,Female,North Dakota,6/5/2022,1
+3133,33,Female,Michigan,14/9/2023,0
+3134,58,Female,Arkansas,3/9/2023,0
+3135,35,Female,Kentucky,1/9/2023,0
+3136,68,Female,Indiana,27/9/2022,0
+3137,58,Female,Minnesota,8/7/2023,0
+3138,34,Female,Louisiana,2/5/2023,0
+3139,47,Female,Kentucky,21/12/2022,0
+3140,35,Female,Georgia,24/1/2023,0
+3141,34,Female,Alaska,25/5/2023,0
+3142,36,Female,Mississippi,9/10/2023,0
+3143,23,Female,Kansas,5/8/2022,0
+3144,68,Female,Arizona,22/5/2023,0
+3145,23,Female,Maine,21/7/2022,0
+3146,57,Female,Texas,16/8/2023,0
+3147,21,Female,Virginia,1/12/2022,0
+3148,45,Female,North Dakota,28/6/2023,0
+3149,37,Female,West Virginia,29/3/2023,0
+3150,18,Female,North Carolina,9/5/2023,0
+3151,55,Female,Georgia,17/10/2023,0
+3152,52,Female,New Mexico,7/4/2022,1
+3153,49,Female,North Carolina,18/12/2023,0
+3154,56,Female,Alabama,27/10/2022,0
+3155,27,Female,Connecticut,20/12/2023,0
+3156,22,Female,Montana,17/7/2023,0
+3157,18,Female,Montana,29/7/2022,0
+3158,21,Female,Maine,1/7/2022,0
+3159,30,Female,Mississippi,1/1/2023,0
+3160,62,Female,Louisiana,11/9/2023,0
+3161,28,Female,Nebraska,20/1/2022,1
+3162,66,Female,Massachusetts,27/11/2023,0
+3163,66,Female,Wisconsin,3/8/2023,0
+3164,49,Female,Nebraska,21/7/2022,0
+3165,40,Female,Arizona,23/1/2023,0
+3166,49,Female,Hawaii,16/9/2023,0
+3167,19,Female,Georgia,19/10/2023,0
+3168,24,Female,Oregon,24/12/2023,0
+3169,31,Female,Montana,31/10/2023,0
+3170,35,Female,Georgia,20/8/2022,0
+3171,65,Female,Rhode Island,4/3/2022,1
+3172,68,Female,Tennessee,23/12/2022,0
+3173,57,Female,Missouri,12/11/2023,0
+3174,69,Female,Washington,19/6/2022,0
+3175,45,Female,Oklahoma,28/4/2023,0
+3176,35,Female,Connecticut,4/10/2022,0
+3177,36,Female,Arkansas,24/12/2022,0
+3178,55,Female,Missouri,17/4/2023,0
+3179,66,Female,Washington,5/1/2023,0
+3180,57,Female,Idaho,14/6/2023,0
+3181,18,Female,Montana,24/12/2023,0
+3182,31,Female,Montana,21/7/2022,0
+3183,50,Female,Georgia,20/8/2023,0
+3184,50,Female,Mississippi,17/8/2023,0
+3185,61,Female,Hawaii,30/9/2022,0
+3186,52,Female,Ohio,7/5/2023,0
+3187,38,Female,Virginia,23/5/2022,1
+3188,67,Female,Texas,12/7/2022,0
+3189,42,Female,Vermont,1/12/2023,0
+3190,25,Female,Kansas,6/5/2022,1
+3191,41,Female,California,25/11/2022,0
+3192,62,Female,Mississippi,26/10/2023,0
+3193,19,Female,Iowa,15/7/2023,0
+3194,63,Female,Virginia,1/12/2022,0
+3195,43,Female,Maryland,10/11/2023,0
+3196,68,Female,Missouri,19/2/2022,1
+3197,24,Female,Wisconsin,27/11/2022,0
+3198,27,Female,Maine,1/8/2022,0
+3199,61,Female,Pennsylvania,5/10/2023,0
+3200,59,Female,Maine,18/9/2023,0
+3201,67,Female,Missouri,18/10/2022,0
+3202,46,Female,Vermont,31/7/2022,0
+3203,65,Female,Wisconsin,4/4/2022,1
+3204,63,Female,New Jersey,13/11/2022,0
+3205,57,Female,New Mexico,2/11/2022,0
+3206,40,Female,Colorado,22/1/2023,0
+3207,36,Female,California,15/5/2022,1
+3208,67,Female,Arizona,16/12/2023,0
+3209,61,Female,Indiana,5/7/2022,0
+3210,64,Female,Arkansas,21/5/2022,1
+3211,30,Female,Nevada,12/2/2023,0
+3212,53,Female,Rhode Island,15/2/2022,1
+3213,27,Female,Wyoming,25/9/2023,0
+3214,27,Female,Texas,24/12/2023,0
+3215,53,Female,Washington,26/11/2023,0
+3216,34,Female,Rhode Island,19/9/2023,0
+3217,39,Female,Illinois,14/6/2022,1
+3218,44,Female,Oregon,4/2/2022,1
+3219,37,Female,Florida,3/3/2023,0
+3220,57,Female,Kansas,1/9/2023,0
+3221,38,Female,North Dakota,25/12/2023,0
+3222,21,Female,New Hampshire,21/1/2022,1
+3223,45,Female,Texas,10/3/2023,0
+3224,68,Female,Montana,12/2/2023,0
+3225,37,Female,Delaware,9/11/2022,0
+3226,53,Female,New Hampshire,6/1/2023,0
+3227,57,Female,Minnesota,7/2/2022,1
+3228,28,Female,Alaska,15/9/2022,0
+3229,37,Female,Connecticut,28/1/2022,1
+3230,54,Female,Connecticut,31/8/2023,0
+3231,49,Female,Kansas,16/11/2023,0
+3232,62,Female,Nevada,24/9/2023,0
+3233,45,Female,Massachusetts,19/7/2022,0
+3234,45,Female,Indiana,9/5/2023,0
+3235,49,Female,Washington,20/9/2022,0
+3236,27,Female,Kansas,17/11/2022,0
+3237,63,Female,South Carolina,30/10/2022,0
+3238,61,Female,Vermont,20/7/2022,0
+3239,25,Female,Wyoming,3/8/2022,0
+3240,33,Female,Colorado,10/6/2022,1
+3241,56,Female,West Virginia,11/11/2023,0
+3242,50,Female,Connecticut,16/11/2023,0
+3243,45,Female,Oregon,13/4/2023,0
+3244,45,Female,Idaho,7/2/2022,1
+3245,65,Female,Arkansas,30/4/2023,0
+3246,63,Female,Kansas,15/9/2023,0
+3247,70,Female,Michigan,5/12/2023,0
+3248,53,Female,Arkansas,29/10/2023,0
+3249,22,Female,Pennsylvania,16/1/2022,1
+3250,26,Female,Virginia,21/7/2022,0
+3251,23,Female,Minnesota,1/5/2023,0
+3252,25,Female,Nevada,2/6/2023,0
+3253,69,Female,Montana,19/4/2023,0
+3254,36,Female,Nebraska,27/5/2023,0
+3255,21,Female,Indiana,5/1/2022,1
+3256,57,Female,New Jersey,2/6/2023,0
+3257,60,Female,Wisconsin,17/6/2023,0
+3258,44,Female,Minnesota,31/5/2023,0
+3259,31,Female,New Jersey,16/9/2022,0
+3260,57,Female,Oklahoma,22/4/2023,0
+3261,39,Female,Wisconsin,21/6/2023,0
+3262,48,Female,Rhode Island,14/5/2023,0
+3263,42,Female,Indiana,7/4/2022,1
+3264,56,Female,Vermont,25/4/2022,1
+3265,28,Female,Maine,25/9/2023,0
+3266,40,Female,Alabama,27/8/2022,0
+3267,49,Female,Alabama,20/12/2023,0
+3268,37,Female,Idaho,5/5/2022,1
+3269,22,Female,Arkansas,8/1/2022,1
+3270,27,Female,Ohio,22/8/2022,0
+3271,59,Female,Illinois,23/8/2022,0
+3272,35,Female,Nevada,7/5/2023,0
+3273,58,Female,Texas,25/6/2023,0
+3274,58,Female,Nevada,3/8/2022,0
+3275,46,Female,Oklahoma,5/5/2022,1
+3276,43,Female,Alabama,27/2/2023,0
+3277,39,Female,South Dakota,2/3/2023,0
+3278,59,Female,Texas,11/7/2022,0
+3279,59,Female,Montana,22/12/2022,0
+3280,59,Female,Wyoming,13/4/2023,0
+3281,45,Female,New York,12/6/2022,1
+3282,27,Female,Oregon,16/3/2023,0
+3283,24,Female,California,27/9/2023,0
+3284,47,Female,North Carolina,21/10/2022,0
+3285,70,Female,Kentucky,14/7/2023,0
+3286,58,Female,Hawaii,12/6/2023,0
+3287,45,Female,Illinois,14/10/2022,0
+3288,24,Female,West Virginia,25/9/2023,0
+3289,67,Female,South Carolina,2/10/2023,0
+3290,31,Female,Montana,21/8/2022,0
+3291,52,Female,North Dakota,10/3/2023,0
+3292,29,Female,New Mexico,22/5/2022,1
+3293,62,Female,Missouri,22/1/2022,1
+3294,19,Female,West Virginia,18/8/2023,0
+3295,62,Female,South Carolina,21/12/2023,0
+3296,70,Female,West Virginia,28/10/2022,0
+3297,20,Female,Alaska,10/9/2023,0
+3298,67,Female,West Virginia,2/8/2022,0
+3299,65,Female,New Mexico,10/10/2023,0
+3300,45,Female,South Dakota,11/5/2022,1
+3301,26,Female,Oklahoma,28/8/2023,0
+3302,36,Female,Oklahoma,6/9/2022,0
+3303,36,Female,Alabama,22/4/2022,1
+3304,20,Female,Mississippi,1/7/2023,0
+3305,30,Female,Mississippi,10/4/2023,0
+3306,34,Female,Nebraska,17/11/2022,0
+3307,63,Female,Colorado,20/8/2022,0
+3308,18,Female,Pennsylvania,5/12/2023,0
+3309,55,Female,Utah,4/5/2022,1
+3310,48,Female,Massachusetts,24/9/2023,0
+3311,45,Female,Iowa,20/8/2022,0
+3312,29,Female,Florida,25/1/2022,1
+3313,55,Female,Louisiana,21/10/2023,0
+3314,55,Female,Kansas,26/12/2022,0
+3315,55,Female,Kansas,8/8/2022,0
+3316,48,Female,Kentucky,10/6/2022,1
+3317,42,Female,New Mexico,10/2/2022,1
+3318,21,Female,North Carolina,3/11/2022,0
+3319,45,Female,North Dakota,25/2/2023,0
+3320,23,Female,North Dakota,29/8/2022,0
+3321,66,Female,Illinois,15/12/2023,0
+3322,32,Female,Maine,25/7/2022,0
+3323,52,Female,Indiana,31/3/2023,0
+3324,54,Female,North Dakota,17/2/2023,0
+3325,37,Female,Missouri,20/3/2023,0
+3326,29,Female,Alaska,2/11/2023,0
+3327,47,Female,North Dakota,20/6/2022,0
+3328,47,Female,Connecticut,3/8/2022,0
+3329,42,Female,Wisconsin,11/2/2023,0
+3330,34,Female,New Jersey,27/8/2023,0
+3331,38,Female,Missouri,14/5/2023,0
+3332,55,Female,California,5/7/2022,0
+3333,27,Female,Washington,29/10/2022,0
+3334,55,Female,Minnesota,17/4/2023,0
+3335,66,Female,California,5/5/2022,1
+3336,44,Female,Texas,5/3/2022,1
+3337,39,Female,Montana,16/12/2022,0
+3338,23,Female,Arizona,14/4/2022,1
+3339,29,Female,Minnesota,21/4/2022,1
+3340,20,Female,Nebraska,9/12/2023,0
+3341,42,Female,Virginia,8/8/2022,0
+3342,55,Female,Connecticut,24/6/2023,0
+3343,66,Female,New Jersey,13/4/2023,0
+3344,24,Female,Kentucky,9/9/2023,0
+3345,62,Female,Washington,12/8/2022,0
+3346,28,Female,Florida,23/11/2022,0
+3347,30,Female,Oklahoma,17/9/2022,0
+3348,22,Female,Iowa,17/8/2023,0
+3349,28,Female,New Hampshire,13/6/2022,1
+3350,35,Female,Georgia,7/9/2023,0
+3351,45,Female,Mississippi,23/3/2023,0
+3352,43,Female,New Hampshire,25/3/2023,0
+3353,55,Female,Washington,23/7/2023,0
+3354,31,Female,Ohio,13/10/2023,0
+3355,42,Female,Maryland,8/12/2023,0
+3356,40,Female,Delaware,4/6/2023,0
+3357,39,Female,Tennessee,2/3/2023,0
+3358,41,Female,Arkansas,18/9/2022,0
+3359,56,Female,Tennessee,22/5/2022,1
+3360,43,Female,New Hampshire,3/3/2023,0
+3361,22,Female,Minnesota,14/7/2022,0
+3362,47,Female,Florida,31/3/2023,0
+3363,50,Female,Tennessee,28/3/2022,1
+3364,58,Female,California,17/1/2023,0
+3365,50,Female,Oregon,5/11/2023,0
+3366,43,Female,Tennessee,8/7/2022,0
+3367,38,Female,North Carolina,6/8/2023,0
+3368,44,Female,Tennessee,5/5/2022,1
+3369,30,Female,Nebraska,21/6/2023,0
+3370,47,Female,Maine,22/11/2023,0
+3371,30,Female,Illinois,2/3/2023,0
+3372,49,Female,Colorado,4/6/2023,0
+3373,56,Female,Pennsylvania,27/11/2023,0
+3374,70,Female,Minnesota,4/7/2022,0
+3375,22,Female,Nevada,27/1/2023,0
+3376,51,Female,Connecticut,4/12/2022,0
+3377,22,Female,Ohio,2/1/2023,0
+3378,37,Female,Kentucky,12/8/2022,0
+3379,49,Female,Minnesota,3/10/2022,0
+3380,61,Female,Tennessee,9/8/2023,0
+3381,41,Female,North Dakota,23/4/2023,0
+3382,57,Female,Minnesota,22/9/2023,0
+3383,34,Female,Nebraska,18/11/2022,0
+3384,27,Female,Delaware,9/5/2023,0
+3385,39,Female,Minnesota,8/5/2022,1
+3386,62,Female,Rhode Island,15/9/2023,0
+3387,34,Female,Michigan,30/5/2022,1
+3388,53,Female,New Jersey,14/2/2022,1
+3389,35,Female,South Dakota,10/4/2023,0
+3390,38,Female,North Carolina,10/11/2023,0
+3391,32,Female,Oregon,5/3/2023,0
+3392,47,Female,Montana,13/7/2022,0
+3393,53,Female,New Jersey,30/3/2023,0
+3394,60,Female,Arizona,20/3/2022,1
+3395,31,Female,Vermont,24/3/2022,1
+3396,44,Female,Colorado,27/4/2022,1
+3397,29,Female,Tennessee,9/5/2022,1
+3398,19,Female,New Jersey,11/11/2023,0
+3399,54,Female,Montana,3/4/2023,0
+3400,40,Female,Montana,3/9/2022,0
+3401,39,Female,Nevada,15/11/2023,0
+3402,44,Female,Nevada,12/2/2023,0
+3403,22,Female,Louisiana,7/8/2022,0
+3404,30,Female,Illinois,30/9/2022,0
+3405,69,Female,South Carolina,13/11/2022,0
+3406,28,Female,Washington,20/6/2023,0
+3407,57,Female,Nebraska,5/8/2023,0
+3408,46,Female,Alabama,12/7/2023,0
+3409,48,Female,Montana,23/9/2022,0
+3410,24,Female,Minnesota,25/5/2022,1
+3411,50,Female,Ohio,7/4/2023,0
+3412,29,Female,New York,1/5/2022,1
+3413,61,Female,Indiana,13/7/2023,0
+3414,34,Female,Delaware,26/1/2022,1
+3415,27,Female,Connecticut,17/7/2022,0
+3416,38,Female,New York,10/3/2022,1
+3417,25,Female,Alabama,23/8/2022,0
+3418,54,Female,Massachusetts,30/10/2023,0
+3419,53,Female,South Carolina,18/9/2023,0
+3420,23,Female,West Virginia,11/12/2023,0
+3421,19,Female,Kentucky,10/3/2023,0
+3422,57,Female,New Jersey,7/12/2022,0
+3423,19,Female,New York,18/9/2023,0
+3424,33,Female,Massachusetts,18/1/2023,0
+3425,33,Female,Florida,20/6/2022,0
+3426,38,Female,Michigan,14/2/2023,0
+3427,47,Female,Oregon,7/5/2022,1
+3428,39,Female,Michigan,30/8/2022,0
+3429,32,Female,Washington,2/4/2022,1
+3430,27,Female,Alaska,16/5/2022,1
+3431,67,Female,Montana,30/11/2023,0
+3432,46,Female,New Mexico,22/12/2022,0
+3433,36,Female,Connecticut,3/3/2023,0
+3434,62,Female,Alaska,18/9/2023,0
+3435,31,Female,Ohio,18/6/2022,0
+3436,68,Female,Montana,14/7/2022,0
+3437,57,Female,Nebraska,3/5/2022,1
+3438,22,Female,Oklahoma,18/12/2023,0
+3439,26,Female,Kentucky,3/10/2023,0
+3440,43,Female,Idaho,25/2/2022,1
+3441,45,Female,Maryland,27/9/2022,0
+3442,64,Female,Tennessee,7/3/2022,1
+3443,28,Female,Michigan,27/1/2022,1
+3444,47,Female,Tennessee,1/10/2022,0
+3445,53,Female,Rhode Island,9/8/2022,0
+3446,42,Female,Florida,12/10/2023,0
+3447,51,Female,Louisiana,7/11/2023,0
+3448,62,Female,Arkansas,21/10/2022,0
+3449,18,Female,Kentucky,27/11/2022,0
+3450,48,Female,Kansas,4/4/2023,0
+3451,20,Female,Vermont,23/7/2022,0
+3452,32,Female,Nevada,7/5/2023,0
+3453,26,Female,Oklahoma,15/1/2022,1
+3454,31,Female,Alabama,28/12/2022,0
+3455,55,Female,Louisiana,28/3/2023,0
+3456,49,Female,Ohio,27/6/2022,0
+3457,42,Female,Texas,24/10/2023,0
+3458,64,Female,Maryland,14/7/2023,0
+3459,68,Female,West Virginia,24/6/2023,0
+3460,68,Female,Ohio,15/7/2023,0
+3461,41,Female,Indiana,5/6/2022,1
+3462,51,Female,Wyoming,10/10/2022,0
+3463,44,Female,Michigan,27/1/2022,1
+3464,27,Female,Maine,19/12/2022,0
+3465,36,Female,Utah,19/12/2022,0
+3466,19,Female,Iowa,15/11/2023,0
+3467,49,Female,Maryland,2/7/2023,0
+3468,18,Female,Texas,4/3/2023,0
+3469,36,Female,Ohio,16/2/2022,1
+3470,36,Female,North Dakota,29/4/2023,0
+3471,19,Female,West Virginia,22/7/2023,0
+3472,43,Female,North Carolina,21/12/2023,0
+3473,31,Female,Georgia,27/7/2022,0
+3474,63,Female,Kansas,6/10/2023,0
+3475,41,Female,Maine,18/11/2022,0
+3476,48,Female,South Carolina,31/8/2022,0
+3477,68,Female,South Carolina,2/12/2022,0
+3478,53,Female,Kentucky,1/7/2023,0
+3479,36,Female,Arizona,5/2/2022,1
+3480,46,Female,New York,30/5/2023,0
+3481,21,Female,New Hampshire,9/1/2023,0
+3482,52,Female,Ohio,27/9/2023,0
+3483,66,Female,Hawaii,20/8/2023,0
+3484,19,Female,Texas,22/2/2022,1
+3485,44,Female,Illinois,17/2/2022,1
+3486,50,Female,Massachusetts,17/12/2022,0
+3487,51,Female,North Carolina,2/12/2022,0
+3488,25,Female,West Virginia,28/1/2022,1
+3489,62,Female,Delaware,30/11/2022,0
+3490,48,Female,Idaho,26/1/2022,1
+3491,62,Female,Oregon,9/1/2023,0
+3492,22,Female,Maine,28/1/2023,0
+3493,48,Female,South Dakota,15/12/2023,0
+3494,48,Female,New Mexico,21/8/2023,0
+3495,62,Female,Washington,2/12/2022,0
+3496,24,Female,Georgia,17/8/2022,0
+3497,39,Female,Idaho,16/6/2023,0
+3498,35,Female,Colorado,28/6/2023,0
+3499,47,Female,Kentucky,9/3/2023,0
+3500,22,Female,New Jersey,10/10/2023,0
+3501,38,Female,Oregon,1/9/2023,0
+3502,53,Female,Nebraska,14/1/2023,0
+3503,31,Female,Massachusetts,2/7/2023,0
+3504,31,Female,Nebraska,31/1/2023,0
+3505,65,Female,Hawaii,22/3/2022,1
+3506,48,Female,Indiana,31/5/2023,0
+3507,18,Female,Illinois,28/3/2023,0
+3508,46,Female,Colorado,12/9/2023,0
+3509,52,Female,Pennsylvania,3/11/2022,0
+3510,50,Female,Ohio,14/1/2022,1
+3511,49,Female,Pennsylvania,21/10/2022,0
+3512,69,Female,Mississippi,26/3/2022,1
+3513,36,Female,Kentucky,12/6/2022,1
+3514,30,Female,Alaska,29/4/2023,0
+3515,25,Female,Georgia,30/12/2022,0
+3516,19,Female,South Dakota,7/7/2022,0
+3517,34,Female,South Carolina,6/6/2023,0
+3518,29,Female,Tennessee,8/2/2023,0
+3519,50,Female,Colorado,10/4/2023,0
+3520,31,Female,Wisconsin,9/11/2023,0
+3521,41,Female,Georgia,5/2/2022,1
+3522,52,Female,Maryland,9/7/2023,0
+3523,27,Female,New Jersey,16/7/2023,0
+3524,49,Female,Nevada,2/12/2023,0
+3525,69,Female,Michigan,22/2/2022,1
+3526,45,Female,Wyoming,14/2/2023,0
+3527,20,Female,Massachusetts,27/4/2023,0
+3528,25,Female,Washington,6/6/2022,1
+3529,38,Female,Maine,23/4/2023,0
+3530,55,Female,Montana,11/10/2023,0
+3531,62,Female,Oklahoma,2/5/2022,1
+3532,54,Female,North Dakota,6/3/2022,1
+3533,61,Female,Connecticut,1/2/2022,1
+3534,50,Female,Texas,28/2/2023,0
+3535,65,Female,Delaware,26/9/2022,0
+3536,68,Female,Mississippi,10/8/2023,0
+3537,55,Female,Minnesota,9/5/2022,1
+3538,57,Female,Georgia,9/9/2022,0
+3539,56,Female,Iowa,16/10/2023,0
+3540,29,Female,New York,14/11/2023,0
+3541,24,Female,Nevada,5/3/2023,0
+3542,59,Female,Virginia,19/6/2022,0
+3543,62,Female,Idaho,27/9/2022,0
+3544,58,Female,Colorado,28/3/2022,1
+3545,64,Female,Wisconsin,25/9/2023,0
+3546,48,Female,Connecticut,5/3/2023,0
+3547,60,Female,Kansas,24/7/2023,0
+3548,52,Female,Pennsylvania,8/11/2022,0
+3549,63,Female,Utah,21/1/2023,0
+3550,44,Female,Oregon,7/10/2023,0
+3551,63,Female,West Virginia,9/9/2022,0
+3552,66,Female,Montana,24/7/2023,0
+3553,22,Female,Kentucky,16/2/2022,1
+3554,62,Female,Minnesota,18/3/2023,0
+3555,39,Female,Louisiana,1/9/2023,0
+3556,25,Female,Delaware,8/1/2022,1
+3557,70,Female,Arizona,6/8/2022,0
+3558,52,Female,Nevada,15/3/2023,0
+3559,68,Female,Alaska,5/11/2022,0
+3560,18,Female,Utah,22/3/2023,0
+3561,18,Female,Kansas,1/12/2022,0
+3562,63,Female,North Carolina,24/7/2023,0
+3563,47,Female,Maryland,31/10/2023,0
+3564,43,Female,Maine,28/4/2022,1
+3565,60,Female,Illinois,11/5/2022,1
+3566,49,Female,Pennsylvania,29/11/2023,0
+3567,28,Female,Alaska,13/1/2022,1
+3568,32,Female,New Mexico,8/10/2022,0
+3569,29,Female,Arkansas,22/10/2023,0
+3570,35,Female,Alaska,26/9/2023,0
+3571,23,Female,Louisiana,16/5/2022,1
+3572,70,Female,North Dakota,25/12/2023,0
+3573,23,Female,Rhode Island,23/5/2023,0
+3574,43,Female,Connecticut,18/11/2022,0
+3575,29,Female,New York,6/4/2022,1
+3576,61,Female,Kentucky,26/5/2023,0
+3577,29,Female,Maine,17/11/2023,0
+3578,66,Female,Missouri,9/12/2022,0
+3579,46,Female,Georgia,23/1/2022,1
+3580,34,Female,Arizona,30/4/2023,0
+3581,51,Female,New Hampshire,18/10/2022,0
+3582,26,Female,Georgia,16/12/2023,0
+3583,23,Female,California,7/9/2023,0
+3584,52,Female,Arizona,29/10/2023,0
+3585,39,Female,Florida,31/8/2022,0
+3586,39,Female,New York,1/4/2023,0
+3587,33,Female,Idaho,27/11/2023,0
+3588,33,Female,Virginia,9/2/2022,1
+3589,23,Female,Michigan,25/5/2023,0
+3590,31,Female,New Hampshire,29/11/2023,0
+3591,27,Female,South Dakota,2/4/2023,0
+3592,48,Female,South Dakota,15/6/2023,0
+3593,61,Female,New Jersey,11/5/2023,0
+3594,63,Female,Wyoming,12/7/2022,0
+3595,19,Female,Alabama,15/5/2023,0
+3596,21,Female,South Dakota,18/10/2023,0
+3597,28,Female,South Carolina,3/2/2023,0
+3598,29,Female,New Mexico,14/2/2022,1
+3599,23,Female,Connecticut,1/9/2022,0
+3600,37,Female,Kansas,14/4/2023,0
+3601,67,Female,South Carolina,1/10/2022,0
+3602,34,Female,North Carolina,6/1/2023,0
+3603,58,Female,Wyoming,27/5/2022,1
+3604,45,Female,Louisiana,25/10/2023,0
+3605,63,Female,Louisiana,5/9/2023,0
+3606,68,Female,Alabama,6/4/2022,1
+3607,41,Female,Minnesota,9/10/2023,0
+3608,50,Female,New Mexico,7/8/2022,0
+3609,24,Female,Tennessee,29/5/2022,1
+3610,21,Female,New Mexico,25/1/2023,0
+3611,18,Female,Texas,1/10/2022,0
+3612,63,Female,Washington,17/10/2023,0
+3613,47,Female,Michigan,27/2/2023,0
+3614,58,Female,Minnesota,21/10/2023,0
+3615,46,Female,Delaware,1/6/2023,0
+3616,35,Female,California,11/4/2022,1
+3617,42,Female,Wisconsin,5/2/2022,1
+3618,48,Female,Kentucky,27/7/2023,0
+3619,28,Female,Nevada,7/6/2022,1
+3620,44,Female,North Carolina,8/4/2023,0
+3621,60,Female,Louisiana,17/1/2023,0
+3622,38,Female,New Jersey,13/1/2022,1
+3623,46,Female,Wisconsin,31/12/2022,0
+3624,39,Female,Arkansas,24/11/2022,0
+3625,22,Female,Texas,1/3/2023,0
+3626,44,Female,Illinois,7/11/2023,0
+3627,69,Female,Mississippi,7/5/2023,0
+3628,39,Female,Delaware,10/10/2022,0
+3629,53,Female,Georgia,2/8/2023,0
+3630,52,Female,Kansas,9/5/2022,1
+3631,65,Female,Oklahoma,1/4/2023,0
+3632,48,Female,New Jersey,5/11/2022,0
+3633,27,Female,Utah,7/5/2023,0
+3634,39,Female,Montana,2/1/2022,1
+3635,59,Female,Ohio,6/5/2023,0
+3636,52,Female,Colorado,28/12/2023,0
+3637,50,Female,California,8/3/2023,0
+3638,32,Female,Utah,26/11/2022,0
+3639,40,Female,Kansas,2/3/2023,0
+3640,26,Female,Illinois,15/4/2023,0
+3641,47,Female,Minnesota,7/10/2023,0
+3642,51,Female,New York,10/5/2023,0
+3643,47,Female,Arizona,3/4/2023,0
+3644,53,Female,Tennessee,14/3/2022,1
+3645,35,Female,Arkansas,19/12/2022,0
+3646,38,Female,Colorado,30/1/2023,0
+3647,69,Female,Nevada,16/9/2023,0
+3648,47,Female,Kansas,6/10/2023,0
+3649,31,Female,New York,8/9/2023,0
+3650,68,Female,Minnesota,12/8/2022,0
+3651,51,Female,Ohio,25/9/2023,0
+3652,20,Female,Arizona,15/3/2022,1
+3653,27,Female,Kentucky,27/7/2022,0
+3654,67,Female,Minnesota,13/2/2023,0
+3655,21,Female,Arkansas,1/7/2022,0
+3656,20,Female,Wyoming,24/4/2023,0
+3657,35,Female,North Dakota,10/4/2022,1
+3658,58,Female,Alabama,28/8/2023,0
+3659,28,Female,Mississippi,26/10/2023,0
+3660,27,Female,Illinois,15/1/2022,1
+3661,19,Female,Arkansas,12/12/2022,0
+3662,63,Female,Kansas,21/10/2023,0
+3663,69,Female,Rhode Island,8/2/2023,0
+3664,65,Female,Florida,20/6/2022,0
+3665,63,Female,Missouri,15/9/2022,0
+3666,28,Female,North Carolina,7/6/2023,0
+3667,67,Female,Alabama,21/11/2023,0
+3668,51,Female,Washington,31/10/2023,0
+3669,59,Female,Michigan,18/12/2022,0
+3670,25,Female,Washington,3/8/2023,0
+3671,31,Female,Vermont,20/7/2022,0
+3672,62,Female,Illinois,16/4/2023,0
+3673,51,Female,New York,2/7/2022,0
+3674,32,Female,Rhode Island,23/12/2022,0
+3675,35,Female,Washington,8/5/2023,0
+3676,70,Female,Virginia,13/9/2022,0
+3677,19,Female,Wisconsin,24/12/2023,0
+3678,32,Female,Michigan,8/7/2022,0
+3679,56,Female,Texas,12/8/2022,0
+3680,53,Female,Idaho,13/7/2023,0
+3681,22,Female,Iowa,15/8/2023,0
+3682,26,Female,Connecticut,28/10/2022,0
+3683,42,Female,Wyoming,21/2/2022,1
+3684,30,Female,Mississippi,1/7/2022,0
+3685,29,Female,Pennsylvania,28/10/2023,0
+3686,47,Female,Tennessee,16/7/2023,0
+3687,59,Female,Louisiana,18/6/2022,0
+3688,34,Female,Arkansas,16/12/2022,0
+3689,52,Female,West Virginia,30/7/2022,0
+3690,47,Female,South Carolina,29/1/2023,0
+3691,24,Female,Kansas,7/4/2022,1
+3692,63,Female,Michigan,19/3/2023,0
+3693,59,Female,Alabama,14/9/2022,0
+3694,66,Female,South Dakota,2/11/2022,0
+3695,45,Female,Rhode Island,26/12/2023,0
+3696,38,Female,Florida,3/12/2023,0
+3697,63,Female,Connecticut,25/1/2023,0
+3698,55,Female,Pennsylvania,29/3/2022,1
+3699,25,Female,California,5/2/2022,1
+3700,51,Female,Oklahoma,10/2/2022,1
+3701,28,Female,North Dakota,20/7/2022,0
+3702,46,Female,New Mexico,23/6/2023,0
+3703,58,Female,South Carolina,19/10/2023,0
+3704,30,Female,Michigan,4/3/2023,0
+3705,68,Female,Missouri,1/10/2023,0
+3706,28,Female,Colorado,2/8/2022,0
+3707,26,Female,Kansas,6/3/2022,1
+3708,35,Female,Illinois,4/2/2023,0
+3709,40,Female,South Carolina,4/8/2023,0
+3710,31,Female,Utah,17/1/2023,0
+3711,60,Female,Hawaii,4/9/2022,0
+3712,69,Female,Texas,10/6/2023,0
+3713,51,Female,Oregon,28/2/2023,0
+3714,49,Female,Arizona,9/7/2023,0
+3715,18,Female,New York,11/4/2022,1
+3716,63,Female,Nebraska,19/5/2023,0
+3717,57,Female,Vermont,4/9/2022,0
+3718,45,Female,Maryland,20/2/2023,0
+3719,36,Female,Tennessee,26/10/2022,0
+3720,20,Female,Pennsylvania,8/1/2022,1
+3721,21,Female,South Carolina,25/12/2023,0
+3722,62,Female,Connecticut,13/2/2023,0
+3723,23,Female,Kentucky,12/11/2023,0
+3724,26,Female,Rhode Island,12/11/2022,0
+3725,30,Female,Colorado,30/12/2023,0
+3726,18,Female,Oklahoma,27/6/2023,0
+3727,47,Female,Idaho,2/8/2022,0
+3728,41,Female,Maine,3/11/2022,0
+3729,62,Female,Vermont,29/12/2022,0
+3730,28,Female,Rhode Island,21/1/2022,1
+3731,46,Female,Florida,26/12/2023,0
+3732,54,Female,West Virginia,14/7/2022,0
+3733,36,Female,Indiana,3/9/2023,0
+3734,25,Female,Illinois,12/10/2023,0
+3735,38,Female,California,18/10/2023,0
+3736,38,Female,Massachusetts,6/6/2023,0
+3737,42,Female,Idaho,21/8/2023,0
+3738,19,Female,Kentucky,3/1/2023,0
+3739,34,Female,Delaware,23/9/2023,0
+3740,38,Female,Idaho,23/4/2022,1
+3741,42,Female,Virginia,30/9/2023,0
+3742,58,Female,Arizona,30/5/2022,1
+3743,56,Female,Maryland,22/2/2022,1
+3744,62,Female,Idaho,7/4/2023,0
+3745,24,Female,New Jersey,2/5/2023,0
+3746,60,Female,Washington,3/4/2023,0
+3747,53,Female,Idaho,25/1/2022,1
+3748,26,Female,Rhode Island,6/1/2022,1
+3749,34,Female,Delaware,8/4/2023,0
+3750,24,Female,Alaska,23/4/2022,1
+3751,42,Female,Arizona,2/3/2022,1
+3752,36,Female,Alabama,15/3/2023,0
+3753,24,Female,Washington,31/8/2023,0
+3754,39,Female,Louisiana,7/9/2022,0
+3755,46,Female,Nebraska,6/5/2022,1
+3756,64,Female,Pennsylvania,28/3/2022,1
+3757,64,Female,South Carolina,11/11/2022,0
+3758,61,Female,California,22/1/2022,1
+3759,61,Female,Indiana,10/3/2022,1
+3760,44,Female,Missouri,3/9/2023,0
+3761,65,Female,Connecticut,4/11/2023,0
+3762,60,Female,Nevada,30/4/2023,0
+3763,65,Female,New York,17/2/2022,1
+3764,27,Female,Oklahoma,24/12/2023,0
+3765,36,Female,South Dakota,4/6/2022,1
+3766,22,Female,Missouri,27/1/2023,0
+3767,62,Female,Texas,5/11/2022,0
+3768,59,Female,New York,28/3/2022,1
+3769,50,Female,Vermont,2/11/2022,0
+3770,51,Female,Arizona,9/7/2023,0
+3771,23,Female,Montana,28/11/2022,0
+3772,21,Female,Oklahoma,24/2/2023,0
+3773,44,Female,New Hampshire,25/2/2022,1
+3774,25,Female,Wisconsin,23/12/2023,0
+3775,57,Female,Alaska,20/11/2022,0
+3776,41,Female,South Dakota,11/4/2023,0
+3777,19,Female,Alaska,14/4/2023,0
+3778,43,Female,Utah,23/10/2022,0
+3779,25,Female,South Dakota,4/11/2022,0
+3780,60,Female,California,29/5/2023,0
+3781,54,Female,Mississippi,29/10/2022,0
+3782,52,Female,Tennessee,18/6/2023,0
+3783,40,Female,Alabama,18/2/2023,0
+3784,39,Female,Maine,21/6/2023,0
+3785,54,Female,Virginia,1/6/2022,1
+3786,64,Female,New Hampshire,24/7/2022,0
+3787,31,Female,Tennessee,3/12/2023,0
+3788,37,Female,New York,3/8/2023,0
+3789,43,Female,Kansas,28/6/2022,0
+3790,56,Female,North Dakota,4/1/2022,1
+3791,27,Female,Alaska,5/2/2022,1
+3792,40,Female,Texas,23/3/2022,1
+3793,43,Female,Massachusetts,27/7/2023,0
+3794,62,Female,Delaware,15/2/2023,0
+3795,44,Female,South Dakota,21/7/2023,0
+3796,45,Female,Arkansas,6/6/2022,1
+3797,40,Female,Utah,30/4/2023,0
+3798,68,Female,California,2/9/2022,0
+3799,63,Female,Rhode Island,19/1/2023,0
+3800,60,Female,Oklahoma,4/11/2022,0
+3801,19,Female,Vermont,25/9/2022,0
+3802,26,Female,Kentucky,13/4/2023,0
+3803,70,Female,Illinois,24/6/2023,0
+3804,48,Female,Connecticut,1/9/2022,0
+3805,37,Female,Florida,24/1/2022,1
+3806,48,Female,New Jersey,29/11/2023,0
+3807,18,Female,Missouri,27/11/2022,0
+3808,38,Female,Michigan,8/4/2023,0
+3809,33,Female,Washington,26/1/2022,1
+3810,57,Female,New York,24/10/2023,0
+3811,46,Female,Wisconsin,8/9/2022,0
+3812,46,Female,Idaho,10/9/2023,0
+3813,50,Female,Michigan,19/7/2022,0
+3814,61,Female,Georgia,24/5/2022,1
+3815,45,Female,Michigan,27/3/2023,0
+3816,32,Female,Maine,28/9/2023,0
+3817,29,Female,Maryland,15/12/2022,0
+3818,66,Female,Missouri,25/5/2023,0
+3819,70,Female,Oregon,2/6/2023,0
+3820,36,Female,Arkansas,19/2/2023,0
+3821,34,Female,New Hampshire,29/6/2023,0
+3822,20,Female,Oregon,13/7/2023,0
+3823,70,Female,Kansas,7/3/2022,1
+3824,50,Female,California,3/4/2022,1
+3825,54,Female,Georgia,18/8/2022,0
+3826,49,Female,Hawaii,21/5/2022,1
+3827,50,Female,Montana,29/5/2023,0
+3828,62,Female,Montana,1/8/2023,0
+3829,42,Female,Mississippi,20/11/2022,0
+3830,69,Female,Washington,22/3/2022,1
+3831,22,Female,Pennsylvania,16/4/2023,0
+3832,36,Female,Nevada,21/4/2022,1
+3833,64,Female,Kansas,5/2/2023,0
+3834,44,Female,Arizona,9/10/2022,0
+3835,43,Female,Tennessee,24/5/2022,1
+3836,58,Female,Pennsylvania,20/4/2023,0
+3837,62,Female,Alaska,17/2/2023,0
+3838,45,Female,New Mexico,15/3/2023,0
+3839,47,Female,Rhode Island,12/5/2022,1
+3840,66,Female,Connecticut,2/1/2023,0
+3841,30,Female,Idaho,28/12/2023,0
+3842,68,Female,Mississippi,25/7/2022,0
+3843,35,Female,Colorado,2/10/2023,0
+3844,64,Female,Georgia,26/10/2023,0
+3845,30,Female,Montana,2/8/2022,0
+3846,58,Female,California,13/9/2023,0
+3847,57,Female,Pennsylvania,15/6/2022,1
+3848,60,Female,Delaware,29/7/2022,0
+3849,22,Female,New Hampshire,13/8/2023,0
+3850,46,Female,Florida,15/10/2022,0
+3851,27,Female,Mississippi,7/4/2022,1
+3852,50,Female,Montana,28/3/2022,1
+3853,65,Female,Mississippi,1/11/2022,0
+3854,61,Female,Tennessee,15/8/2022,0
+3855,57,Female,Florida,2/5/2022,1
+3856,40,Female,Illinois,19/3/2023,0
+3857,39,Female,Virginia,16/1/2022,1
+3858,42,Female,Texas,9/5/2022,1
+3859,30,Female,Missouri,15/2/2022,1
+3860,65,Female,Mississippi,14/7/2023,0
+3861,57,Female,Pennsylvania,31/1/2022,1
+3862,64,Female,Wyoming,13/8/2022,0
+3863,56,Female,Idaho,27/5/2022,1
+3864,40,Female,New Hampshire,6/10/2023,0
+3865,55,Female,Wyoming,9/12/2023,0
+3866,25,Female,Nebraska,10/8/2023,0
+3867,58,Female,Alaska,24/5/2022,1
+3868,46,Female,Maryland,12/1/2023,0
+3869,18,Female,Maryland,19/10/2023,0
+3870,26,Female,Arizona,13/12/2023,0
+3871,61,Female,Ohio,9/9/2023,0
+3872,55,Female,Minnesota,24/10/2023,0
+3873,41,Female,New Hampshire,27/5/2022,1
+3874,42,Female,Louisiana,3/12/2022,0
+3875,70,Female,Nevada,29/3/2023,0
+3876,63,Female,New Hampshire,30/4/2023,0
+3877,60,Female,Wisconsin,22/11/2022,0
+3878,28,Female,Nevada,15/6/2022,1
+3879,60,Female,South Carolina,4/1/2023,0
+3880,26,Female,Florida,29/9/2022,0
+3881,42,Female,Massachusetts,18/11/2023,0
+3882,56,Female,Georgia,29/9/2023,0
+3883,35,Female,North Dakota,25/4/2023,0
+3884,34,Female,North Dakota,16/11/2022,0
+3885,47,Female,Maryland,2/2/2023,0
+3886,49,Female,New Mexico,7/9/2022,0
+3887,37,Female,Iowa,26/12/2022,0
+3888,40,Female,Kansas,21/12/2023,0
+3889,45,Female,Virginia,8/1/2023,0
+3890,57,Female,Alaska,27/3/2022,1
+3891,35,Female,Nebraska,11/11/2022,0
+3892,36,Female,Colorado,16/7/2022,0
+3893,35,Female,Michigan,4/1/2023,0
+3894,21,Female,Massachusetts,11/11/2022,0
+3895,66,Female,Connecticut,21/4/2022,1
+3896,40,Female,Virginia,22/9/2022,0
+3897,52,Female,Iowa,28/9/2023,0
+3898,46,Female,New Jersey,16/10/2022,0
+3899,44,Female,Minnesota,26/11/2022,0
+3900,52,Female,California,17/11/2022,0
